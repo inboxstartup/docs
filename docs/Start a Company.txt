@@ -1,0 +1,38 @@
+# Run a Company
+
+## Multi-Utility Tools
+
+- https://www.molecule.dev, Assemble a simple but powerful, fully functional codebase consisting of only what you need.
+
+## Legal
+
+## CRUD & DB Tools
+
+- retool.com
+- appsmith.com
+
+## Services
+
+- https://www.doola.com (As StartPack on OD )
+- Stripe.com
+- Clerky
+- https://startglobal.co
+
+## Community
+
+- memberspace.com
+- memberstack.com
+- circle.so
+- https://tribe.so (Mercury Perks)
+- www.thinkific.com offer courses
+- tryvirtually.com $1000 credit via OD
+- teachable.com 1st year free
+
+## Support
+
+- chatwoot.com
+- testbox.com, Compare and test customer support software
+
+## Phone, OTP
+
+- https://www.globalotp.com (40% off via OD)
