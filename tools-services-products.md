@@ -213,6 +213,11 @@ _Warning: This needs a lot more information, and reviews. Right now, I'm just dr
   + [Read the Docs](https://readthedocs.org)
   + [Docsify](https://docsify.js.org)
   + [Docusaurus](https://docusaurus.io)
+  + https://retype.com
+  + Docusaurus
+  - https://subsection.io
+  - https://motif.land
+  - https://www.mintlify.com
 - Legal
   + [Lexion](https://lexion.ai)
   + [Clerky](https://www.clerky.com) generate legal documents for fund raising (SAFE) and hiring contractors.
@@ -368,6 +373,7 @@ https://www.tooljet.com, http://github.com/ToolJet/ToolJet
 https://datastudio.google.com
 https://databox.com
 https://chartbrew.com
+[OpenBlocks] the (http://openblocks.dev) ([Open Source](https://github.com/openblocks-dev/openblocks/)) Retool Alternative
 
 ## Machine Learning
 
@@ -470,14 +476,6 @@ https://chartbrew.com
 
 - https://www.travelperk.com Business travel that works for the whole business
 
-## Documentation
-
-- https://retype.com
-- Docusaurus
-- https://subsection.io
-- https://motif.land
-- https://www.mintlify.com
-
 ## Community
 
 - https://www.outseta.com
@@ -524,6 +522,10 @@ https://chartbrew.com
 ## Phone, OTP
 
 - https://www.globalotp.com (40% off via OD)
+
+## Speech & Voice
+
+- https://wellsaidlabs.com
 
 ### References
 
