@@ -8,24 +8,24 @@ branding:
   logo: assets/inbox-startup-logo.svg
   logoDark: assets/inbox-startup-logo-light.svg
 
+meta:
+  title: " | Inbox Startup"
+
 links:
-- text: Home
-  link: https://inboxstartup.com
-  icon: home
-- text: Docs
-  link: /
-  icon: checklist
-- text: Contact
-  link: https://inboxstartup.com/contact
-  icon: comment
-- text: Source
-  link: https://github.com/inboxStartup/inboxstartup-docs
-  icon: mark-github
-  target: blank
+  - text: Home
+    link: /
+    icon: home
+
+edit:
+  repo: https://github.com/InboxStartup/docs
 
 footer:
-  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+  copyright: "{{ year }} Inbox Startup • [Source](https://github.com/inboxStartup/docs)"
   links:
+    - text: Inbox.Startup
+      link: https://inboxstartup.com
+    - text: Contact
+      link: https://inboxstartup.com/contact
     - text: Privacy
       link: https://inboxstartup.com/privacy
 

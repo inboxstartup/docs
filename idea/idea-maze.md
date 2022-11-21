@@ -1,5 +1,7 @@
 # Idea Maze
 
+From the original at [The idea maze](https://cdixon.org/2013/08/04/the-idea-maze) by Chris Dixon.
+
 Ideas do matter. Good startup ideas are well developed, multi-year plans that contemplate many possible paths according to how the world changes.
 
 A good founder is capable of anticipating which turns lead to treasure and which lead to certain death. A bad founder is just running to the entrance of (say) the “movies/music/filesharing/P2P” maze or the “photosharing” maze without any sense for the history of the industry, the players in the maze, the casualties of the past, and the technologies that are likely to move walls and change assumptions.
@@ -12,8 +14,3 @@ When you’re starting out, it’s impossible to completely map out the idea maz
 4. Direct experience. A lot of good startup founders figure out the maze through direct experience, often at work. The key here is to put yourself in interesting mazes and give yourself time to figure it out.
 
 Your real competition – and what you should worry about – is the years you could waste going down the wrong path.
-
-
-### References
-
-- Idea Maze, https://cdixon.org/2013/08/04/the-idea-maze

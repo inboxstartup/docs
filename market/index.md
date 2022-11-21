@@ -1,4 +1,4 @@
-# Marketing
+# Market
 
 > Marketing is the process of getting people interested in the goods and services being sold.
 
