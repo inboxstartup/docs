@@ -1,0 +1,35 @@
+input: .
+output: _site
+url: docs.inboxstartup.com
+favicon: assets/favicon.ico
+
+branding:
+  title: Inbox Startup
+  logo: assets/inbox-startup-logo.svg
+  logoDark: assets/inbox-startup-logo-light.svg
+
+links:
+- text: Home
+  link: https://inboxstartup.com
+  icon: home
+- text: Docs
+  link: /
+  icon: checklist
+- text: Contact
+  link: https://inboxstartup.com/contact
+  icon: comment
+- text: Source
+  link: https://github.com/inboxStartup/inboxstartup-docs
+  icon: mark-github
+  target: blank
+
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+  links:
+    - text: Privacy
+      link: https://inboxstartup.com/privacy
+
+poweredByRetype: false
+
+exclude:
+  - "_tmp/"
