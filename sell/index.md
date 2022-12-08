@@ -1,4 +1,27 @@
-# Sales
+# Sell
+
+[10 tips for Founders doing Sales (from a Founder)](https://micael.substack.com/p/10-tips-for-founders-doing-sales) by Micael Oliveira is a succinct and clear message for founder learning sales. Here are the 10 tips;
+
+1. Be passionate about the product you're selling.
+2. Get to know your customers before selling to them.
+3. Don't oversell. Don't commit to things you cannot deliver on.
+4. Learn from others.
+5. Learn and improve your process.
+6. Persevere! Always remember to follow up.
+7. You won't close all deals.
+8. Be fair when referring to competitors.
+9. Fire bad customers.
+10. Celebrate the wins.
+
+7-Part Storytelling Framework. Your customer is a hero, and need your guide.
+
+1. A [HERO]
+2. Has a [PROBLEM]
+3. And meets a [GUIDE]
+4. Who gives them a [PLAN]
+5. That calls the hero to [ACTION]
+6. And helps them avoid [FAILURE]
+7. That ultimately ends in [SUCCESS]
 
 From https://news.ycombinator.com/item?id=23285438
 
@@ -12,7 +35,7 @@ From https://news.ycombinator.com/item?id=23285438
 
 There is more than 100 trillion dollars in the global economy just waiting for you to breathe it in. Good luck.
 
-### References
+---
+#### References
 
 - [bootstrapping B2B Sales](https://laskie.co/playbooks/bootstrapping-b2b-sales)
-- Hubspot's review of the [25 Best Sales Decks](https://blog.hubspot.com/sales/sales-presentation-guidelines)

@@ -5,8 +5,6 @@
 - USA
 - UK
 - India
-	+ [Praemineo](https://www.praemineo.com)
-	+ [MobileFirst]()
 - Ukraine
 - Brazil
 - Thailand

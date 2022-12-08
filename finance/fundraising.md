@@ -12,3 +12,4 @@
 - [The Non-Obvious Guide to Fundraising](https://www.nfx.com/post/the-non-obvious-guide-to-fundraising/)
 - [Y Combinator Seed Deck Template](https://docs.google.com/presentation/d/17nFIwCyf2Kz-Ao5HGnmvNZ74L8eSKA2C2Qdaoe-47OM/)
 - [A Tactical Guide to Seed Fundraising](https://www.beondeck.com/post/tactical-seed-fundraising)
+- Hubspot's review of the [25 Best Sales Decks](https://blog.hubspot.com/sales/sales-presentation-guidelines)

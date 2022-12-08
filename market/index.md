@@ -6,7 +6,8 @@
 
 - Own your marketing channels, contents, identities, etc.
 
-### References
+---
+#### References
 
 - [Growth Marketing](https://www.julian.com/guide/growth/) by Julian Shapiro
 - Jotform on [How to Create a Marketing Plan](https://www.jotform.com/how-to-create-a-marketing-plan/)

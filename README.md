@@ -14,7 +14,7 @@ The resources, tools, and utilities are targeted at Startups from an idea to see
 
 ---
 
-#### References and other similar resources
+### Similar Resources
 
 - [Collection of Startup Credits](https://github.com/dakshshah96/awesome-startup-credits)\
   A collection of awesome companies offering free/discounted plans for eligible startups. (In order to be eligible for free credits or a discounted startup plan, most companies require your startup to be a part of an accelerator/incubator.)
@@ -35,3 +35,7 @@ The resources, tools, and utilities are targeted at Startups from an idea to see
   An online educational resource to help you learn the fundamentals of entrepreneurship and accelerate your success.
 - [MarktStash](https://marktstash.com)\
   Get growth strategies shared by indie founders in your inbox every week.
+---
+## Contribute
+
+The content on `docs.startupinbox.com` is open source. Contributions are welcome.
