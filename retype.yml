@@ -16,11 +16,11 @@ links:
     link: /
     icon: home
   - text: Source
-    link: https://github.com/inboxStartup/docs
+    link: https://github.com/inboxstartup/docs
     icon: mark-github
 
 edit:
-  repo: https://github.com/InboxStartup/docs
+  repo: https://github.com/inboxstartup/docs
   label: Edit on GitHub
 
 footer:
