@@ -15,21 +15,25 @@ links:
   - text: Home
     link: /
     icon: home
+  - text: Source
+    link: https://github.com/inboxStartup/docs
+    icon: mark-github
 
 edit:
   repo: https://github.com/InboxStartup/docs
+  label: Edit on GitHub
 
 footer:
-  copyright: "{{ year }} Inbox Startup • [Source](https://github.com/inboxStartup/docs)"
+  copyright: "{{ year }} Inbox Startup"
   links:
-    - text: Inbox.Startup
+    - text: Inbox Startup
       link: https://inboxstartup.com
     - text: Contact
       link: https://inboxstartup.com/contact
     - text: Privacy
       link: https://inboxstartup.com/privacy
 
-poweredByRetype: false
-
 exclude:
-  - "_tmp/"
+  - "tmp/"
+
+poweredByRetype: true

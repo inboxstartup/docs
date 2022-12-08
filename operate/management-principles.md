@@ -1,8 +1,6 @@
 # Management Principles
 
-[Margaret Wallace](https://twitter.com/MargaretWallace), co-founder of [Playmatics](https://playmatics.com/) wrote a beautiful [article](https://medium.com/@margaretw/management-principles-963c49badbe5), on Management Principles which she lives by.
-
-They are some of the best article on management, I read so far. I'm reproducing her verbattim for reference;
+[Margaret Wallace](https://twitter.com/MargaretWallace), co-founder of [Playmatics](https://playmatics.com/) wrote a beautiful [article](https://medium.com/@margaretw/management-principles-963c49badbe5), on Management Principles.
 
 1. Never ask anyone who works with you to do something that you yourself would not consider doing (unless they really want to and it’s ethical).
 2. Always show up. Consistency is key.

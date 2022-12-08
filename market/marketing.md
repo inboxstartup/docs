@@ -5,15 +5,6 @@ Make an 'intrinsically viral' - people should be happy sharing it to their frien
 
 Growth never last forever, keep tweaking and tuning growth, always.
 
-## Daily
-
-- Write an Article
-- Outreach
-    + Blogger
-    + Journalists
-    + Tools
-    + Distributors
-
 ## Tools
 
 - https://writesonic.com, AI Writing Assistant

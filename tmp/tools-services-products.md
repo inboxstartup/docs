@@ -1,9 +1,3 @@
-# Tools, Services, and  Products
-
-> Tools, Services, and Products that we used, plan to use, or are backup alternatives (nor sorted in any particular order).
-
-_Warning: This needs a lot more information, and reviews. Right now, I'm just dropping them here as I find them. -- [Brajeshwar](//brajeshwar.com/)_
-
 - Analytics
   + [Amplitude](https://amplitude.com)
   + [Counter](https://counter.dev) ([Open Source](https://github.com/ihucos/counter.dev), DonateWare)
@@ -496,13 +490,6 @@ https://chartbrew.com
 
 - retool.com
 - appsmith.com
-
-## Services
-
-- https://www.doola.com (As StartPack on OD )
-- Stripe.com
-- Clerky
-- https://startglobal.co
 
 ## Community
 

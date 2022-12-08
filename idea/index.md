@@ -46,4 +46,5 @@ Look for things that change are amazing. They can fuel massive growth. In the la
 - [Betting on Things That Never Change](https://www.collaborativefund.com/blog/betting-on-things-that-never-change/) by Morgan Housel (Jul 20, 2017).
 - [Idea Maze](https://cdixon.org/2013/08/04/the-idea-maze) by Chris Dixon
 - [Requests for Startups](https://www.ycombinator.com/rfs/) by Y Combinator
-- [The Art of Ideation](https://www.gaganbiyani.com/blog/ideation-1)
+- [The Art of Ideation](https://www.gaganbiyani.com/blog/ideation-1) by Gagan Biyani
+- [How to Get Startup Ideas](http://www.paulgraham.com/startupideas.html) by Paul Graham
