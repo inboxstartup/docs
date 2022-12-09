@@ -1,6 +1,12 @@
+---
+order: 999999999
+icon: check
+---
+
 # Start
 
-> Helping Startups during the chaotic zero stage.
+![Helping Startups during the chaotic zero stage.](/assets/img/content/start-line.jpg "Start")
+
 
 So, you have decided to Startup. Welcome, but it ain't gonna be easy. Starting and running a Startup is like eating broken glasses, after a while, you begin to like the taste of your own blood.
 
@@ -38,4 +44,6 @@ The resources, tools, and utilities are targeted at Startups from an idea to see
 ---
 ## Contribute
 
+!!!
 The content on `docs.startupinbox.com` are open source and always a Work-in-Progress. Contributions are welcome.
+!!!

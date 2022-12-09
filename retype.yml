@@ -1,12 +1,12 @@
 input: .
 output: _site
 url: docs.inboxstartup.com
-favicon: assets/favicon.ico
+favicon: favicon.ico
 
 branding:
   title: Inbox Startup
-  logo: assets/inbox-startup-logo.svg
-  logoDark: assets/inbox-startup-logo-light.svg
+  logo: inboxstartup-logo.svg
+  logoDark: inboxstartup-logo-light.svg
 
 meta:
   title: " | Inbox Startup"
