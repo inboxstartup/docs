@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://docs.inboxstartup.com/sitemap.xml.gz
