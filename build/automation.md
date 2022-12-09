@@ -10,7 +10,7 @@
 - [Hyphen](https://tryhyphen.com) Finance automation. Simplify workflows with no-code.
 - [IFTTT](https://ifttt.com) helps all your apps and devices work better together
 - [Integrately](https://integrately.com) 8 Million+ Ready Automations For 1000+ Apps.
-- [Levity](Train your own AI on documents, images, or text data to perform daily, repetitive tasks) Train your own AI on documents, images, or text data to perform daily, repetitive tasks.
+- [Levity](https://levity.ai) Train your own AI on documents, images, or text data to perform daily, repetitive tasks.
 - [LogicLoop](https://www.logicloop.com) Set up alerts and automations on top of your data, without engineers.
 - [Logic Sheet](https://workspace.google.com/marketplace/app/logic_sheet_automate_your_spreadsheets/796322869198) All-in-one data processing tool in Google Sheets.
 - [MailParser](https://mailparser.io) Extract data from incoming emails. Automate your business.

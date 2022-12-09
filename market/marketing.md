@@ -12,7 +12,7 @@ Growth never last forever, keep tweaking and tuning growth, always.
 
 ## Services, and Agents
 
-- https://amplifr.com (Lifetime license - 3 seat, 3 projects)
+- https://amplifr.com
 - https://www.startupranking.com/booster
 - https://www.instaaa.com
 - https://github.com/trekhleb/promote-your-next-startup

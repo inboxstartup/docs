@@ -7,3 +7,4 @@ These perks are available to startups, founders, and participants that are part 
 - [Mercury](https://mercury.com/perks)
 - [On Deck](https://community.beondeck.com/perks)
 - [Startup School](https://www.startupschool.org)
+- Microsoft's [Startups Founders Hub](https://foundershub.startups.microsoft.com/)

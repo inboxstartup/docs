@@ -9,7 +9,6 @@
 - [NoLoCo](https://noloco.io) Instantly create customer portals, partner apps & internal tools from your Airtable or Google Sheets.
 - [Softr](https://www.softr.io)
 - [Podia](https://www.podia.com) build websites, sell courses and digital products, and host communities.
-- 
 - User & Members
 	+ [Circle](https://circle.so) The all-in-one community platform for creators &  brands.
 	+ [Tribe](https://tribe.so) A customizable community platform for businesses.

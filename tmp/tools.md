@@ -1,9 +1,3 @@
-# Tools
-
-## Automation
-
-- [Zapier]()
-
 ## Management
 
 - [ProofHub](https://www.proofhub.com) Easily plan, collaborate, organize and deliver projects of all sizes, on time, using one project planning software with all the right tools in one place.
@@ -17,19 +11,6 @@
 - [GeoDesk](https://www.geodesk.com) is a spatial database engine for OpenStreetMap™ features
 - [IP Info](https://ipinfo.io) Accurate IP address data that keeps pace with secure, specific, and forward-looking use cases.
 - [IP Geolocation](https://ipgeolocation.io) Freemium IP Geolocation API and Accurate IP Lookup Database.
-
-# Scrappers
-
-- http://noodlejs.com
-- https://github.com/sleepypikachu/still-good-food
-- https://github.com/mattsse/voyager
-- https://github.com/jmcarp/robobrowser
-- https://github.com/ruipgil/scraperjs
-- https://www.zyte.com/blog/announcing-portia/
-
-
-
-
 
 - Analytics
   + [Amplitude](https://amplitude.com)
