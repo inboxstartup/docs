@@ -1,5 +1,7 @@
 # Fund Raising
 
+At an early stage, almost all inbound investment proposals are noise or may be even scams. Be careful, don't waste your time.
+
 - [21 Resources for Funding Your Startup](https://www.justgogrind.com/funding-resources/)
 - [A Tactical Guide to Seed Fundraising](https://www.beondeck.com/post/tactical-seed-fundraising)
 - [How to raise a seed round?](https://docs.google.com/document/d/14N9R1ZNervLjIR4bi5VjfEDkOSDAFclkGMT06kHwbPI/) by Elizabeth Yin

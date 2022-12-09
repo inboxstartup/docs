@@ -38,4 +38,4 @@ The resources, tools, and utilities are targeted at Startups from an idea to see
 ---
 ## Contribute
 
-The content on `docs.startupinbox.com` is open source. Contributions are welcome.
+The content on `docs.startupinbox.com` are open source and always a Work-in-Progress. Contributions are welcome.
