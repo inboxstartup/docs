@@ -41,9 +41,13 @@ The resources, tools, and utilities are targeted at Startups from an idea to see
   An online educational resource to help you learn the fundamentals of entrepreneurship and accelerate your success.
 - [MarktStash](https://marktstash.com)\
   Get growth strategies shared by indie founders in your inbox every week.
+
 ---
+
 ## Contribute
 
-!!!
-The content on `docs.startupinbox.com` are open source and always a Work-in-Progress. Contributions are welcome.
+The content on [!badge variant="primary" text="docs.startupinbox.com"] are open source. Contributions are welcome.
+
+!!!warning
+The contents here are always a [!badge variant="warning" text="Work-in-Progress"].
 !!!
