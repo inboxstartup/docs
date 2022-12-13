@@ -20,16 +20,13 @@ The resources, tools, and utilities are targeted at Startups from an idea to see
 
 - [Collection of Startup Credits](https://github.com/dakshshah96/awesome-startup-credits)\
   A collection of awesome companies offering free/discounted plans for eligible startups. (In order to be eligible for free credits or a discounted startup plan, most companies require your startup to be a part of an accelerator/incubator.)
-- [Curated SaaS Articles](https://getsaasweekly.com)\
-  Newsletter every Friday, summarizes the best strategies, stories, and case studies you need to grow your Bootstrapped SaaS startup.
 - [Founder Library](https://www.founderlibrary.com) (TBD: Is the site dead?)\
   wisdom and resources to launch, scale, and lead with more confidence and effectiveness.
 - [Founders Book](https://foundersbook.co)\
   Build and launch your startup with tools and resources for first-time founders and early-stage startups.
 - [Secret](https://www.joinsecret.com)\
   A SaaS deals platform. Join 45,000+ entrepreneurs who have saved millions of dollars on software.
-- [Sherpa](https://www.learnwithsherpa.com)\
-  The world's best, free startup guide.
+- [Sherpa](https://www.learnwithsherpa.com)
 - [Startup Stash](https://startupstash.com)\
   A large directory of tools and resources for startups and entrepreneurs.
 - [Startup Toolchain](https://startuptoolchain.com)
@@ -37,6 +34,7 @@ The resources, tools, and utilities are targeted at Startups from an idea to see
   An online educational resource to help you learn the fundamentals of entrepreneurship and accelerate your success.
 - [MarktStash](https://marktstash.com)\
   Get growth strategies shared by indie founders in your inbox every week.
+- [Third Derivative & New Energy Nexus / RMI Startup Resources](https://docs.google.com/spreadsheets/d/1mHj6rm_7pMThv6dcemgfpF8k1j5Cq7BiW33yAOo8WC0/) is a spreadsheet of Startup resources maintained by [Third Derivative](https://www.third-derivative.org).
 
 ---
 
