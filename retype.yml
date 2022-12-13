@@ -35,5 +35,3 @@ footer:
 
 exclude:
   - "tmp/"
-
-poweredByRetype: true

@@ -1,12 +1,6 @@
----
-order: 999999999
-icon: check
----
-
 # Start
 
 ![Helping Startups during the chaotic zero stage.](/assets/img/content/start-line.jpg "Start")
-
 
 So, you have decided to Startup. Welcome, but it ain't gonna be easy. Starting and running a Startup is like eating broken glasses, after a while, you begin to like the taste of your own blood.
 
@@ -17,6 +11,8 @@ Remember, in the beginning, you have to do things - everything.
 - Who is going to clean that toilet -- bloody you.
 
 The resources, tools, and utilities are targeted at Startups from an idea to seed stage. We believe that once you hit your priced-round, such as a Series-A and beyond, you would have your resources to take care of your needs.
+
+> “Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.” -- Steve Jobs
 
 ---
 

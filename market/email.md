@@ -8,3 +8,7 @@ A [6-part email sequence](https://entrepreneurshandbook.co/this-6-part-email-seq
 4. Prove it works with testimonials
 5. Value-stack and present your offer
 6. Drive urgency and entice the purchase
+
+---
+
+- [Buttondown](https://buttondown.email) is a small, elegant tool for producing newsletters.

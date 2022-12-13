@@ -38,4 +38,4 @@ There is more than 100 trillion dollars in the global economy just waiting for y
 ---
 #### References
 
-- [bootstrapping B2B Sales](https://laskie.co/playbooks/bootstrapping-b2b-sales)
+- [Founder's Guide to B2B Sales](https://www.balderton.com/playbooks/balderton-b2b-founder-ceo-sales-guide/) for a founder/CEO to know about building and managing a B2B sales team.
