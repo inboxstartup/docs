@@ -1,4 +1,16 @@
-# Code
+# Code or No/Low Code
+
+## Platform
+
+- [Supabase](https://supabase.com) is an open source [Firebase](https://firebase.google.com) alternative. Start your project with a Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, and Storage.
+- [Overture](https://overturemaps.org) is for developers who build map services or use geospatial data.
+
+## Scrappers
+
+- [Noodle](http://noodlejs.com) is a Node.js server and module for querying and scraping data from web documents.
+- [Voyager](https://github.com/mattsse/voyager) crawl and scrape web pages in rust
+- [RoboBrowser](https://github.com/jmcarp/robobrowser) - Your friendly neighborhood web scraper
+- [Scraperjs](https://github.com/ruipgil/scraperjs) is a web scraper module that make scraping the web an easy job.
 
 ## Low/No Code
 

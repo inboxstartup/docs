@@ -22,7 +22,7 @@ Look for things that change are amazing. They can fuel massive growth. In the la
 ---
 ## Types of Innovation
 
-| Innovate               | How                                              |
+| Term                | Definition { class="compact" }                                                     |
 | ------------------- | -------------------------------------------------------- |
 | Profit Model        | How you make money.                                      |
 | Network             | Connections with others to create value.                 |
@@ -32,8 +32,8 @@ Look for things that change are amazing. They can fuel massive growth. In the la
 | Product System      | Complementary products and services.                     |
 | Service             | Support and enhancements that surround your offerings    |
 | Channel             | How your offerings are delivered to customers and users. |
-| Brand               | Representation of your offerings and business.            |
-| Customer Engagement | Distinctive interactions you foster.                                                         |
+| Brand               | Representation of your offerings and business.           |
+| Customer Engagement | Distinctive interactions you foster.                     |
 
 ---
 #### References
@@ -46,3 +46,4 @@ Look for things that change are amazing. They can fuel massive growth. In the la
 - [Mapping the Unknown – The Ten Steps to Map Any Industry](https://steveblank.com/2022/09/20/mapping-the-unknown-the-ten-steps-to-map-any-industry/) by Steve Blank on how to mind-map an industry and learn about it even if you have no prior experience.
 - [Requests for Startups](https://www.ycombinator.com/rfs/) by Y Combinator
 - [The Art of Ideation](https://www.gaganbiyani.com/blog/ideation-1) by Gagan Biyani
+- [Billion Dollar Business Ideas](https://billiondollarbusinessideas.substack.com) is a newsletter about Discovering Billion Dollar Business Ideas that you can steal for your next project, by Jaisal Rathee of [Startups.FYI](https://www.startups.fyi).

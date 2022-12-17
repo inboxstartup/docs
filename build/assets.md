@@ -1,8 +1,20 @@
 # Assets
 
+- [AlternativeTo](https://alternativeto.net)
+- [Open Source Database](https://ossdatabase.com)
+- [Open Source Alternative to](https://www.opensourcealternative.to)
+- Audio
+	+ [CC Hound](https://cchound.com) 100% free, quality CC audio.
+	+ [Epidemic Sound](https://www.epidemicsound.com)
 - Pictures (Photos)
+	+ [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources) is a collection of links for free stock photography, video and Illustration websites.
+	+ [Image Finder](https://imagefinder.co)
+	+ [Pexels](https://www.pexels.com)
+	+ [Pixabay](https://pixabay.com)
+	+ [Stock Snap](https://stocksnap.io)
+	+ [The Stocks](http://thestocks.im)
 	+ [Unsplash](https://unsplash.com)
-+ Icons
+- Icons
 	+ [Real Favicon Generator](https://realfavicongenerator.net)
 	+ [Icon Duck](https://iconduck.com) free open source icons
 	+ [macOS Icons](https://macosicons.com)
@@ -25,3 +37,12 @@
 - ClipArt
 	+ [Open ClipArt](https://openclipart.org)
 	+ [ArtVee](https://artvee.com/)
++ Web Tools
+	+ [Edit Photo](https://edit.photo)
+	+ [I Love IMG](https://www.iloveimg.com) is a free online Photo Editor.
+	+ [I Love PDF](https://www.ilovepdf.com) is a free PDF toolset.
+	+ [Palette](https://palette.fm) AI-powered Photo Colorizer.
+	+ [PDF24 Tools](https://www.pdf24.org) Free and easy-to-use online PDF tools.
+	+ [Photopea](https://www.photopea.com)
+	+ [Remove BG](https://www.remove.bg) removes Image Background.
+	+ [TinyWoW](https://tinywow.com) All-in-One utility tools for your files.

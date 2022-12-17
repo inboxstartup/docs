@@ -7,6 +7,7 @@
 - [Bardeen](https://www.bardeen.ai) saves you time by automating repetitive tasks with a shortcut.
 - [CheatLayer](https://cheatlayer.com) exposes a powerful GPT-3 powered scripting layer on all websites to automate business tasks and save hundreds of hours per month.
 - [Craftar](https://www.craftar.io) let's you build APIs with NoCode at Lightning Speed.
+- [EasyFlow](https://www.easyflow.io) Connect apps, analyse data, create automated processes and memorable KPI dashboards that work exactly how you want.
 - [Hyphen](https://tryhyphen.com) Finance automation. Simplify workflows with no-code.
 - [IFTTT](https://ifttt.com) helps all your apps and devices work better together
 - [Integrately](https://integrately.com) 8 Million+ Ready Automations For 1000+ Apps.

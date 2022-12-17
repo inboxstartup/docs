@@ -2,15 +2,50 @@
 
 > Marketing is the process of getting people interested in the goods and services being sold.
 
-## Notes
+Own your marketing channels, contents, identities; use tools as a means to meet your marketing needs.
 
-- Own your marketing channels, contents, identities, etc.
+Do not rely on Press but treat as just another channel for the occassional burst. Make an 'intrinsically viral' - people should be happy sharing it to their friends.
+
+Growth never last forever, keep tweaking and tuning growth, always.
+
+- Define a larger cause. Start by explaining the cause. e.g. "need to increase farm yields"
+- Articulate the problem better than anyone else
+- attack the status quo
+- define a category. this category is the solution.
+- build the right team
+- use "grass roots" customer testimoney
+- release news in lightning strikes, not dribs and dreabs
+- organize events to focus attention
+- nurture your community
+- pick noble fights
+- strive for a large tent
+- work with press and inluencers in the right way
+- stay grounded
+- don't clown yourself. back up your claims and avoid aggrandizing and arrogant language.
 
 ---
 #### References
 
-- [Growth Marketing](https://www.julian.com/guide/growth/) by Julian Shapiro
-- Jotform on [How to Create a Marketing Plan](https://www.jotform.com/how-to-create-a-marketing-plan/)
-- [Share your startup with the world](https://sizle.io/how-to-maximise-traffic-to-a-bootstrapped-product-hunt-launch/)
-- [Positioning Your Startup is Vital — Here’s How to Nail It](https://firstround.com/review/Positioning-Your-Startup-is-Vital-Heres-How-to-Do-It-Right/)
 - [Blogging for Business](https://ahrefs.com/academy/blogging-for-business) A free video course on how to grow your blog past 100K monthly visitors and turn thousands of your readers into paying customers.
+- [buffer.com](http://buffer.com)
+- [Growth Marketing](https://www.julian.com/guide/growth/) by Julian Shapiro
+- [Positioning Your Startup is Vital — Here’s How to Nail It](https://firstround.com/review/Positioning-Your-Startup-is-Vital-Heres-How-to-Do-It-Right/)
+- [Renaissance Messaging](https://www.renaissancemessaging.com) “We use timeless, truth-based techniques that help your company create ethical and profitable connections with your ideal prospects.”
+- [Share your startup with the world](https://sizle.io/how-to-maximise-traffic-to-a-bootstrapped-product-hunt-launch/)
+- Building an efficient marketing machine: the fuel & the engine, https://mkt1.substack.com/p/fuel-engine
+- http://agorapulse.com, Take Control of Your Social Media
+- http://coschedule.com, Organize All Of Your Marketing In One Place. From Any Place.
+- http://meetedgar.com
+- http://sendible.com, Manage social media at scale.
+- https://amplifr.com
+- https://github.com/mmccaff/PlacesToPostYourStartup ~ https://www.placestopostyourstartup.com
+- https://github.com/trekhleb/promote-your-next-startup
+- https://nira.com/templates/marketing-templates/ 374 Free Resources for Marketing
+- https://sizle.io/how-to-maximise-traffic-to-a-bootstrapped-product-hunt-launch/
+- https://sproutsocial.com
+- https://vsc.co (PR)
+- https://www.instaaa.com
+- https://www.jjellyfish.com go-to-market expertise and execution to global founders seeking to win in the U.S.
+- https://www.julian.com/guide/growth/intro
+- https://www.startupranking.com/booster
+- Jotform on [How to Create a Marketing Plan](https://www.jotform.com/how-to-create-a-marketing-plan/)
