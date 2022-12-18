@@ -1,5 +1,7 @@
 # Build
 
+> “You’ve got to start with the customer experience and work backwards to the technology. You can’t start with the technology and try to figure out where you’re going to try to sell it.“” — Steve Jobs
+
 ## Sebastianism
 
 [Sebastianism](https://en.wikipedia.org/wiki/Sebastianism) is a Portuguese messianic myth, based on the belief that King Sebastian of Portugal, who disappeared in the battle of Alcácer Quibir, would reappear and return to Portugal at some point in the future. The belief gained momentum after an interpretation by priest António Vieira of Daniel 2 and the Book of Revelation that foreshadowed a Portuguese Fifth Empire.

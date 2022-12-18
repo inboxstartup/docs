@@ -1,6 +1,6 @@
 # Start
 
-![Helping Startups during the chaotic zero stage.](/assets/img/content/start-line.jpg "Start")
+![Helping Startups during the chaotic zero stage.](/assets/img/start-0-1.jpg "Start")
 
 So, you have decided to Startup. Welcome, but it isn't going to be easy. Starting and running a Startup is like eating broken glasses; after a while, you begin to like the taste of your blood.
 
@@ -15,6 +15,11 @@ We will be _unbiased_ and won’t try to _“guide”_ you in your Startup journ
 The resources, tools, and utilities are targeted at Startups from the idea to the seed stage. We believe that once you hit your priced round, such as a Series-A and beyond, you will have the resources to take care of your needs.
 
 > “Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.” -- Steve Jobs
+
+#### Other Cool Quotes I have in mind
+
+- The Swiss Knife for Entrepreneurs and Founders.
+- Helping entrepreneurs and founders run companies with the right tools during their formative times.
 
 ---
 
