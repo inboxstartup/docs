@@ -49,3 +49,4 @@ Growth never last forever, keep tweaking and tuning growth, always.
 - https://www.julian.com/guide/growth/intro
 - https://www.startupranking.com/booster
 - Jotform on [How to Create a Marketing Plan](https://www.jotform.com/how-to-create-a-marketing-plan/)
+- [Positioning](https://www.lennysnewsletter.com/p/positioning) ([archive](https://archive.ph/JP0pp)) by April Dunford is a good and detailed article on how you can position your brand or Startup.

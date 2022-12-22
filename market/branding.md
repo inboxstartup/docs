@@ -9,7 +9,7 @@
 7. Tackle brand awareness the old-fashioned way. Creating awareness for a new brand is challenging when you don’t have a big budget. 
 8. Friends and family.
 9. They believe in word of mouth. That is, words coming out of a mouth and not out of a device.
-10.Organic social media is not effective without media amplification. It’s a pay to play ecosystem, but if you can align your content strategy with a social network’s goals, your money will go further.
+10. Organic social media is not effective without media amplification. It’s a pay to play ecosystem, but if you can align your content strategy with a social network’s goals, your money will go further.
 11. Go analog: catalogs, outdoor advertising, etc. There are amazing ways to blend sophisticated digital targeting data into older mediums, like Programmatic Direct Mail and TV or radio’s transition to Podcasting.
 12. Surprise and delight your existing customers when they least expect it — you wouldn’t be here without them.
 13. Do invest in strategic and targeted digital marketing to reach your ideal customers.
