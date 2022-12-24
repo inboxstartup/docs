@@ -21,6 +21,10 @@ The resources, tools, and utilities are targeted at Startups from the idea to th
 - The Swiss Knife for Entrepreneurs and Founders.
 - Helping entrepreneurs and founders run companies with the right tools during their formative times.
 
+## Organization and Hierarchy
+
+Except for the topics (folders), nothing is organized. It is left to you to figure out and pick the best that fits you and leave the ones that do not. Go around and jump in to the ones that makes sense to you right there.
+
 ---
 
 ## Resources

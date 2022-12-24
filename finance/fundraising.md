@@ -8,6 +8,10 @@ Remember that fund-raising is a high-touch interaction. Most investors would rep
 
 - [AngelList RUV](https://www.angellist.com/ruv) Efficiently raise capital from investors with a single cap table entry. With Roll Up Vehicles™, founders get a single link that allows investors to commit and send funds online—and AngelList takes care of the rest.
 
+## Investors
+
+- [Stonks’ Active & Influential Angel Investors of 2022](https://stonks.com/angels)
+
 #### References
 
 - [21 Resources for Funding Your Startup](https://www.justgogrind.com/funding-resources/)
@@ -22,3 +26,4 @@ Remember that fund-raising is a high-touch interaction. Most investors would rep
 - [The Non-Obvious Guide to Fundraising](https://www.nfx.com/post/the-non-obvious-guide-to-fundraising/)
 - [The Pitch Narrative](https://visionquest.spacecadet.ventures/phases/pitch) from Space Cadet.
 - [Y Combinator Seed Deck Template](https://docs.google.com/presentation/d/17nFIwCyf2Kz-Ao5HGnmvNZ74L8eSKA2C2Qdaoe-47OM/)
+- [How To Fundraise Like a Pro](https://www.thetwentyminutevc.com/how-to-fundraise-like-a-pro/) ([archive](https://archive.ph/vYOss)) from [20VC](https://www.thetwentyminutevc.com) is nice article on How to Size and Price a Round, How to Create FOMO and Urgency in a Fundraise, How to Structure Angel Allocations, The 7 Deadly Sins of Fundraising Decks, The 3 Signs a Potential Investor is Bad News, etc.
