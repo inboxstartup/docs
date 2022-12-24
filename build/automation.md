@@ -2,18 +2,22 @@
 
 > Automation enables founders to grow companies with fewer and fewer people. -- [Paul Graham](https://twitter.com/paulg/status/1600119268858744832)
 
+- [ActionFlow](https://actionsflow.github.io)
 - [Albato](https://albato.com) Automate your workflow by integrating the apps you use every day.
 - [Alloy](https://runalloy.com) Connects hundreds of apps and platforms so you can access all of the data in one place.
+- [AppGyver](https://www.appgyver.com) no-code platform, to build apps for all form factors, including mobile, desktop, browser, TV and others.
 - [Bardeen](https://www.bardeen.ai) saves you time by automating repetitive tasks with a shortcut.
 - [CheatLayer](https://cheatlayer.com) exposes a powerful GPT-3 powered scripting layer on all websites to automate business tasks and save hundreds of hours per month.
 - [Craftar](https://www.craftar.io) let's you build APIs with NoCode at Lightning Speed.
+- [D2C](https://d2c.io) easy deployment of app to containers.
 - [EasyFlow](https://www.easyflow.io) Connect apps, analyse data, create automated processes and memorable KPI dashboards that work exactly how you want.
 - [Hyphen](https://tryhyphen.com) Finance automation. Simplify workflows with no-code.
 - [IFTTT](https://ifttt.com) helps all your apps and devices work better together
 - [Integrately](https://integrately.com) 8 Million+ Ready Automations For 1000+ Apps.
+- [Integromat](https://www.integromat.com/)
 - [Levity](https://levity.ai) Train your own AI on documents, images, or text data to perform daily, repetitive tasks.
-- [LogicLoop](https://www.logicloop.com) Set up alerts and automations on top of your data, without engineers.
 - [Logic Sheet](https://workspace.google.com/marketplace/app/logic_sheet_automate_your_spreadsheets/796322869198) All-in-one data processing tool in Google Sheets.
+- [LogicLoop](https://www.logicloop.com) Set up alerts and automations on top of your data, without engineers.
 - [MailParser](https://mailparser.io) Extract data from incoming emails. Automate your business.
 - [Make](https://www.make.com/) Connect all your apps. Fast and easy.
 - [n8n](https://n8n.io) is an extendable workflow automation tool which enables you to connect anything to everything via its open, fair-code model.

@@ -6,6 +6,14 @@
 - Audio
 	+ [CC Hound](https://cchound.com) 100% free, quality CC audio.
 	+ [Epidemic Sound](https://www.epidemicsound.com)
+- Color
+	+ [Color Designer](https://colordesigner.io)
+    + [Color Scheme Generator](https://adevade.github.io/color-scheme-generator/)
+    + [Color x Color](https://colorcolor.in) ([Source](https://github.com/saneef/color-color))
+    + [Colormind](http://colormind.io) is a color scheme generator that uses deep learning.
+    + [Coolors](https://coolors.co) The super fast color schemes generator!
+    + [Nippon Colors](https://nipponcolors.com/)
+    + [Nord](https://www.nordtheme.com) An arctic, north-bluish color palette.
 - Pictures (Photos)
 	+ [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources) is a collection of links for free stock photography, video and Illustration websites.
 	+ [Image Finder](https://imagefinder.co)

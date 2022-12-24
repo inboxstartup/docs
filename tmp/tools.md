@@ -46,52 +46,11 @@
   + [Planet](https://www.planet.com)
   + [Sentinel Hub](https://www.sentinel-hub.com)
   + [UP42](https://up42.com)
-- Design
-  + Color
-    * [Color Designer](https://colordesigner.io)
-    * [Color Scheme Generator](https://adevade.github.io/color-scheme-generator/)
-    * [Color x Color](https://colorcolor.in) ([Source](https://github.com/saneef/color-color))
-    * [Colormind](http://colormind.io) is a color scheme generator that uses deep learning.
-    * [Coolors](https://coolors.co) The super fast color schemes generator!
-    * [Nippon Colors](https://nipponcolors.com/)
-    * [Nord](https://www.nordtheme.com) An arctic, north-bluish color palette.
-  + Icons
-    * [Icon Duck](https://iconduck.com) free open source icons
-    * [Nucleo](https://nucleoapp.com) (paid) is a beautiful library of 30,000+ icons, and a powerful application to collect, customize and export all your icons.
-    * [macOS Icons](https://macosicons.com)
-    * [OpenMoji](https://hfg-gmuend.github.io/openmoji/)
-    * [SVG Repo](https://www.svgrepo.com)
-  + Illustrations
-    * [Vektors](https://www.vektors.pro)
-    * [Free Illustrations](https://freeillustrations.xyz)
-    * [Handz](https://www.handz.design)
-    * [Humaaans](https://www.humaaans.com)
-    * [Illlustrations](https://illlustrations.co)
-    * [Illustratious](https://illustratious.com)
-    * [Isometric](https://isometric.online)
-    * [Open Doodles](https://www.opendoodles.com)
-    * [PixelTrue](https://www.pixeltrue.com/illustrations)
-    * [unDraw](https://undraw.co)
-  + ClipArt
-    * [Open ClipArt](https://openclipart.org)
-    * [ArtVee](https://artvee.com/)
 - Support & Customer Care
   - [Intercom](https://www.intercom.com)
   - [Crisp](https://crisp.chat/)
   - [ZenDesk](https://www.zendesk.com)
-- Automation, (almost) No-Code
-  - [Zapier](https://zapier.com/)
-  - [Integromat](https://www.integromat.com/)
-  - [n8n](https://n8n.io)
-  - [ActionFlow](https://actionsflow.github.io)
-  - [D2C](https://d2c.io) easy deployment of app to containers.
-  - [AppGyver](https://www.appgyver.com) no-code platform, to build apps for all form factors, including mobile, desktop, browser, TV and others.
-  - [Canva](https://www.canva.com/)
-  - [WebFlow](https://webflow.com)
-  - [Retool](https://retool.com)
-  - [MemberStack](https://www.memberstack.io)
 - Marketing
-  - [Amplifr](https://amplifr.com/)
   - [AutoPilot](https://www.autopilothq.com)
   - [Drip](https://www.drip.com)
   - [Hubspot](https://www.hubspot.com)
@@ -106,13 +65,6 @@
   - [SendInBlue](https://www.sendinblue.com)
   - [Sendy](https://sendy.co/) - Self Hosted
   - [BuzzSumo](https://buzzsumo.com)
-- Press / PR
-  - [Get Tech Press](https://www.gettechpress.com)
-  - [Places To Post Your Startup](https://www.placestopostyourstartup.com)
-  - [PostBag](https://postbag.co)
-  - [Startup Ranking](https://www.startupranking.com)
-- Remote
-  + [Embracing asynchronous communication](https://about.gitlab.com/company/culture/all-remote/asynchronous/) - article from Gitlab.
 - Location / Geo
   + [Pelias](https://pelias.io) is a modular open-source geocoder using Elasticsearch. ([Source](https://github.com/pelias/pelias))
   + [AWS Location](https://aws.amazon.com/location/)

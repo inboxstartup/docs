@@ -10,3 +10,4 @@
 	- Use one channel for communication.
 	- Use nested numbered lists to provide feedback.
 	- Push for a decision and document the decision.
+- [Embracing asynchronous communication](https://about.gitlab.com/company/culture/all-remote/asynchronous/) - article from Gitlab.
