@@ -39,3 +39,4 @@ footer:
 
 exclude:
   - "tmp/"
+  - todo.*

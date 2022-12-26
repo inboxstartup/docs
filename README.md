@@ -12,7 +12,7 @@ Remember, in the beginning, you have to do things - everything.
 
 We will be _unbiased_ and won’t try to _“guide”_ you in your Startup journey. We will try our possible ways to link to resources and means to navigate through the phases from when you have an idea to an operational Startup.
 
-The resources, tools, and utilities are targeted at Startups from the idea to the seed stage. We believe that once you hit your priced round, such as a Series-A and beyond, you will have the resources to take care of your needs.
+The resources, tools, and utilities are targeted at Startups from the idea to the seed stage, with an aim to raise venture funding. We believe that once you hit your priced round, such as a Series-A and beyond, you will have the resources to take care of your needs.
 
 > “Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.” -- Steve Jobs
 
@@ -21,9 +21,11 @@ The resources, tools, and utilities are targeted at Startups from the idea to th
 - The Swiss Knife for Entrepreneurs and Founders.
 - Helping entrepreneurs and founders run companies with the right tools during their formative times.
 
-## Organization and Hierarchy
+---
 
-Except for the topics (folders), nothing is organized. It is left to you to figure out and pick the best that fits you and leave the ones that do not. Go around and jump in to the ones that makes sense to you right there.
+## FAQ
+
+- Except for the topics (folders), nothing is organized. It is left to you to figure out and pick the best that fits you and leave the ones that do not. Go around and jump in to the ones that makes sense to you right there.
 
 ---
 
@@ -45,7 +47,7 @@ Except for the topics (folders), nothing is organized. It is left to you to figu
 
 ## Contribute
 
-The content on [!badge variant="primary" text="docs.startupinbox.com"] are open source. Contributions are welcome.
+The content on __`docs.startupinbox.com`__ are open source. [Contributions](https://github.com/inboxstartup/docs/pulls) are welcome.
 
 !!!warning
 The contents here are always a [!badge variant="warning" text="Work-in-Progress"].
