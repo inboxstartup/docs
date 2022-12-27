@@ -1,8 +1,15 @@
+---
+layout: default
+title: Operate
+nav_order: 8
+has_children: true
+---
+
 # Operate
 
 Once, I found this nugget of equating business roles with the pieces of Chess.
 
-```Chess
+```
 King - Execution
 Queen - Marketing
 Bishop - Customer Service

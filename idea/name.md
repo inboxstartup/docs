@@ -1,3 +1,9 @@
+---
+layout: default
+title: Name
+parent: Idea
+---
+
 # Name
 
 Get a `.com` domain, preferably no-hyphen, and no_underscore.

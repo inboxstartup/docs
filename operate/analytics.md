@@ -1,3 +1,9 @@
+---
+layout: default
+parent: Operate
+title: Analytics
+---
+
 # Analytics
 
 - [Numerics](https://cynapse.com/numerics/) The Dashboard App for Decision Makers.

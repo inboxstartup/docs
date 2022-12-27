@@ -1,3 +1,9 @@
+---
+layout: default
+parent: Operate
+title: Culture
+---
+
 # Culture
 
  #### References

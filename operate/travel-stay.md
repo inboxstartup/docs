@@ -1,3 +1,9 @@
+---
+layout: default
+parent: Operate
+title: Travel & Stay
+---
+
 # Travel & Stay
 
 - [Airalo](https://www.airalo.com) Stay connected, wherever you travel, at affordable rates.

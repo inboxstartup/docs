@@ -1,3 +1,9 @@
+---
+layout: default
+parent: Enhance
+title: Accelerators
+---
+
 # Accelerators
 
 - [Completely Free Tech Accelerators](https://versatilevc.com/free/accelerators/) (no equity, no cash cost) - a list maintained by [Versatile VC](https://versatilevc.com).

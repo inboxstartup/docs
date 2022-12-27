@@ -1,3 +1,9 @@
+---
+layout: default
+title: Product
+parent: Build
+---
+
 # Product
 
 - [Infinite Canvas](https://infinitecanvas.tools) is the foundation of a new class of apps from design tools, to code editors, and workspaces.

@@ -1,3 +1,9 @@
+---
+layout: default
+parent: Operate
+title: Jobs
+---
+
 # Jobs
 
 - [Wellfound](https://wellfound.com/) by AngelList

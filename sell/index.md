@@ -1,3 +1,10 @@
+---
+layout: default
+title: Sell
+nav_order: 5
+has_children: true
+---
+
 # Sell
 
 [10 tips for Founders doing Sales (from a Founder)](https://micael.substack.com/p/10-tips-for-founders-doing-sales) by Micael Oliveira is a succinct and clear message for founder learning sales. Here are the 10 tips;

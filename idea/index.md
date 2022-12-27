@@ -1,3 +1,10 @@
+---
+layout: default
+title: Idea
+nav_order: 2
+has_children: true
+---
+
 # Idea
 
 It all starts with an idea, sometimes drawn on a napkin or a wild discussion with friends, or a co-worker.
@@ -23,7 +30,7 @@ Look for things that change are amazing. They can fuel massive growth. In the la
 ---
 ## Types of Innovation
 
-| Term                | Definition { class="compact" }                                                     |
+| Term                | Definition |
 | ------------------- | -------------------------------------------------------- |
 | Profit Model        | How you make money.                                      |
 | Network             | Connections with others to create value.                 |

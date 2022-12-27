@@ -1,3 +1,9 @@
+---
+layout: default
+parent: Operate
+title: Updates
+---
+
 # Updates
 
 Start a discipline and habit of updating your investors and stackholders early on. Even if you have no investors, write a monthly update. Perhaps, you can send it to potential investors, mentors, and other entrepreneurs who are willing to read them.

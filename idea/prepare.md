@@ -1,3 +1,10 @@
+---
+layout: default
+parent: Idea
+nav_order: 1
+title: Prepare
+---
+
 # Prepare
 
 > Prepare to startup and run your business.
@@ -29,5 +36,6 @@
 25. Build the infrastructure capable of growth: team, technology, marketing.
 
 _Note: I edited this off an article or a Github README long back. If I stumble on the source I will link to the original too. If you know the source, please let me know._
+
 
 [^ROI]: [Return on investment](https://en.wikipedia.org/wiki/Return_on_investment) (ROI) or return on costs (ROC) is a ratio between net income (over a period) and investment (costs resulting from an investment of some resources at a point in time). A high ROI means the investment’s gains compare favorably to its cost. As a performance measure, ROI is used to evaluate the efficiency of an investment or to compare the efficiencies of several different investments. In economic terms, it is one way of relating profits to capital invested.

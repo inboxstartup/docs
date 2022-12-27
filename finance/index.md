@@ -1,3 +1,10 @@
+---
+layout: default
+title: Finance
+nav_order: 4
+has_children: true
+---
+
 # Finance
 
 - [Capchase](https://www.capchase.com)

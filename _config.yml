@@ -1,0 +1,69 @@
+title: Startup Inbox
+description: "Helping Startups during the chaotic zero stage."
+baseurl: ""
+url: ""
+logo: "/inboxstartup-logo.svg"
+
+# Jekyll Theme
+remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
+
+permalink: pretty
+permalink: /:title/
+
+nav_footer_custom: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "Inbox Startup":
+    - "https://inboxstartup.com/"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-titles-from-headings
+
+sass:
+  style: compressed # nested, compact, expanded or compressed
+  sourcemap: never
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+  # ignore:
+  #   envs: all
+
+exclude:
+ # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
+   - .sass-cache/
+   - .jekyll-cache/
+   - gemfiles/
+   - Gemfile
+   - Gemfile.lock
+   - node_modules/
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
+ # specific to the theme website:
+   - bin/
+   - lib/
+   - "*.gemspec"
+   - "*.gem"
+   - LICENSE.txt
+   - package.json
+   - package-lock.json
+   - Rakefile
+   - README.md

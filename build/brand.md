@@ -1,3 +1,9 @@
+---
+layout: default
+title: Brand
+parent: Build
+---
+
 # Brand
 
 Build a brand

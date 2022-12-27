@@ -1,3 +1,9 @@
+---
+layout: default
+title: Problem
+parent: Idea
+---
+
 # Problem
 
 Is the problem proven or did the entrepreneur assumed it!

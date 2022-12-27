@@ -1,3 +1,9 @@
+---
+layout: default
+parent: Operate
+title: Legal
+---
+
 # Legal
 
 - [PandaDoc](https://www.pandadoc.com)

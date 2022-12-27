@@ -1,3 +1,9 @@
+---
+layout: default
+title: Automation
+parent: Build
+---
+
 # Automation
 
 > Automation enables founders to grow companies with fewer and fewer people. -- [Paul Graham](https://twitter.com/paulg/status/1600119268858744832)

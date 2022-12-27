@@ -1,3 +1,9 @@
-.DS_Store*
-.obsidian
-_site/
+*.gem
+.bundle
+.DS_Store
+.jekyll-cache
+.ruby-version
+.sass-cache
+_site
+Gemfile.lock
+node_modules
