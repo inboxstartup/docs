@@ -4,6 +4,7 @@
 
 - [Supabase](https://supabase.com) is an open source [Firebase](https://firebase.google.com) alternative. Start your project with a Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, and Storage.
 - [Overture](https://overturemaps.org) is for developers who build map services or use geospatial data.
+- [GitPod](https://www.gitpod.io) Spin up fresh, automated dev environments for each task, in the cloud, in seconds.
 
 ## Scrappers
 

@@ -3,6 +3,7 @@
 It all starts with an idea, sometimes drawn on a napkin or a wild discussion with friends, or a co-worker.
 
 ---
+
 ## Timeless Strategies
 
 Look for things that change are amazing. They can fuel massive growth. In the last 100 years we've gone from horses to jets and mailing letters to video facetime. You can make big, long-term bets on these things, because there's no chance people will stop caring about them in the future. But every sustainable business is accompanied by one of a handful of timeless strategies;
