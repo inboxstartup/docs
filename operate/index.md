@@ -9,14 +9,14 @@ has_children: true
 
 Once, I found this nugget of equating business roles with the pieces of Chess.
 
-```
-King - Execution
-Queen - Marketing
-Bishop - Customer Service
-Knight - Product
-Rook - People
-Pawns - Ideas
-```
+| Chess  | Business        |
+| ------ | ---------------- |
+| King   | Execution        |
+| Queen  | Marketing        |
+| Bishop | Customer Service |
+| Knight | Product          |
+| Rook   | People           |
+| Pawns  | Ideas            |
 
 - [Nugget AI](https://www.nugget.ai) people stack powered by AI and backed by science to hire, understand, train, and develop top talent.
 - [Nomadist](https://nomadlist.com) is a global community of remote workers living and traveling around the world.

@@ -41,12 +41,13 @@ parent: Build
 	+ [Circle](https://circle.so) The all-in-one community platform for creators &  brands.
 	+ [Tribe](https://tribe.so) A customizable community platform for businesses.
 	+ [Outseta](https://www.outseta.com) All-in-one membership software.
+	+ [Nas.io](https://nas.io) is an easy way to start, run, and scale your online community.
 - Forms
 	+ [SendFly](https://sendfly.io) $15 /year for everything unlimited.
 	+ [Formspree](https://formspree.io)
 - Surveys & Questionnaire
+	+ [Tally](https://tally.so) The simplest way to create forms.
 	+ [Typeform](https://www.typeform.com)
-	+ [Tally](https://tally.so) The simplest way to create forms
 + AI
 	- [Hugging Face](https://huggingface.co) Build, train and deploy state of the art models powered by the reference open source in machine learning.
 	- [OpenAI](https://openai.com)
