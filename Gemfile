@@ -7,9 +7,7 @@ gem "just-the-docs", "0.4.0.rc3" # currently the latest pre-release
 # gem "just-the-docs"            # the latest release - currently 0.3.3
 
 group :jekyll_plugins do
-  gem 'jekyll-optional-front-matter'
   gem 'jekyll-remote-theme'
   gem 'jekyll-seo-tag'
   gem 'jekyll-sitemap'
-  gem 'jekyll-titles-from-headings'
 end

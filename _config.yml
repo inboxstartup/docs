@@ -25,11 +25,9 @@ back_to_top: true
 back_to_top_text: "Back to top"
 
 plugins:
-  - jekyll-optional-front-matter
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-titles-from-headings
 
 sass:
   style: compressed # nested, compact, expanded or compressed

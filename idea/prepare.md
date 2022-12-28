@@ -1,7 +1,6 @@
 ---
 layout: default
 parent: Idea
-nav_order: 1
 title: Prepare
 ---
 
