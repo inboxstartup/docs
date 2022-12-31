@@ -55,13 +55,6 @@ exclude:
    - vendor/cache/
    - vendor/gems/
    - vendor/ruby/
- # specific to the theme website:
-   - bin/
-   - lib/
-   - "*.gemspec"
-   - "*.gem"
    - LICENSE.txt
-   - package.json
-   - package-lock.json
-   - Rakefile
    - README.md
+   - tmp/

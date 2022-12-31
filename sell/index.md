@@ -46,3 +46,4 @@ There is more than 100 trillion dollars in the global economy just waiting for y
 #### References
 
 - [Founder's Guide to B2B Sales](https://www.balderton.com/playbooks/balderton-b2b-founder-ceo-sales-guide/) for a founder/CEO to know about building and managing a B2B sales team.
+- [Simple Math to Set Up a Sales Team](https://sacks.substack.com/p/simple-math-to-set-up-a-sales-team) How to structure quotas, compensation, and territories for a new sales team. ([archive](https://archive.ph/EBMZH))

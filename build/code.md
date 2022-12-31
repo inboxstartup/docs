@@ -12,6 +12,10 @@ parent: Build
 - [Overture](https://overturemaps.org) is for developers who build map services or use geospatial data.
 - [GitPod](https://www.gitpod.io) Spin up fresh, automated dev environments for each task, in the cloud, in seconds.
 
+## Authentication
+
+- [Auth.js](https://authjs.dev) is an open source community project.
+
 ## Scrappers
 
 - [Noodle](http://noodlejs.com) is a Node.js server and module for querying and scraping data from web documents.
