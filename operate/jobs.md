@@ -20,3 +20,4 @@ title: Jobs
 - [Climate Jobs List](https://www.climatejobslist.com) Climate Change Requires Urgent Action. Get involved.
 - [Remotebase](https://remotebase.com) vetted remote developer teams that best match your timezone and work model.
 - [Moonlight](https://www.moonlightwork.com/) Match with experienced developers to get work done quickly.
+- [HireFly](https://www.hirefly.ai) Get Interview Ready Candidates to your Inbox.

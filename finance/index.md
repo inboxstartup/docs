@@ -5,6 +5,12 @@ nav_order: 4
 has_children: true
 ---
 
+Don’t
+
+- Crowdfund
+- Startup Studio asking for outsized equity
+- Conserve your liquidation, especially at early stage.
+
 # Finance
 
 - [Capchase](https://www.capchase.com)
