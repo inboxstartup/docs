@@ -7,7 +7,7 @@ title: Legal
 # Legal
 
 - [PandaDoc](https://www.pandadoc.com)
-- Dropbox's [HelloSign](https://www.hellosign.com)
+- [HelloSign](https://www.hellosign.com)
 - Dropbox's [Docusign](https://www.docusign.com)
 
 ## Generators & Templates

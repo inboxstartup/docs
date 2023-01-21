@@ -23,3 +23,4 @@ Once, I found this nugget of equating business roles with the pieces of Chess.
 - A curated 200+ [Open Source Alternatives](https://www.btw.so/open-source-alternatives) to tools that businesses require in day-to-day operations.
 - Use [Cobble](https://www.gocobble.com) to build your business, no matter what stage you’re in. Our founder-first app makes starting a company more accessible with business planning workflows for fundraising or bootstrapping.
 - [Fibery](https://fibery.io) is an all-in-one tool/workspace - Product + Development + HR + Marketing + Customer Success. They have a [Startup Program](https://fibery.io/startup-program).
+- [Grow or Die - Supergoals](https://future.com/grow-or-die-supergoals/): A Framework for Turning Your Company Around Fast ([archive](https://archive.ph/cpvlC))

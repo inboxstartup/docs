@@ -9,7 +9,7 @@ title: Perks
 These perks are available to startups, founders, and participants that are part of their respective cohorts or are their customers.
 
 - [500](https://500.co)
-- [Founder Institute](https://fi.co)
+- [Founder Institute](https://fi.co/partners)
 - [Mercury](https://mercury.com/perks)
 - [On Deck](https://community.beondeck.com/perks)
 - [Startup School](https://www.startupschool.org)

@@ -57,3 +57,5 @@ Growth never last forever, keep tweaking and tuning growth, always.
 - https://www.startupranking.com/booster
 - Jotform on [How to Create a Marketing Plan](https://www.jotform.com/how-to-create-a-marketing-plan/)
 - [Positioning](https://www.lennysnewsletter.com/p/positioning) ([archive](https://archive.ph/JP0pp)) by April Dunford is a good and detailed article on how you can position your brand or Startup.
+- [How to Model Total Addressable Market](https://visible.vc/blog/modeling-total-addressable-market/) ([archive](https://archive.ph/vtmcB)) (Template Included)
+- [TAM Methodology](https://www.toptal.com/finance/market-sizing/total-addressable-market-example): An Explanation and Example of Total Addressable Market Analysis ([archive](https://archive.ph/XuM0M))

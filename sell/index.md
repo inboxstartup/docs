@@ -46,9 +46,11 @@ There is more than 100 trillion dollars in the global economy just waiting for y
 
 ## Tools & Services
 
-- [Atrium](https://www.atriumhq.com/)
+- [Atrium](https://www.atriumhq.com/) helps sales managers use metrics to increase rep efficiency and survive and thrive in a downturn.
+- [Rattle](https://www.gorattle.com) Unlock revenue insights that empower your team’s performance. Engage, update, and close business all from Slack or Teams with intelligent, bi-directional alerts.
 
 #### References
 
 - [Founder's Guide to B2B Sales](https://www.balderton.com/playbooks/balderton-b2b-founder-ceo-sales-guide/) for a founder/CEO to know about building and managing a B2B sales team.
 - [Simple Math to Set Up a Sales Team](https://sacks.substack.com/p/simple-math-to-set-up-a-sales-team) How to structure quotas, compensation, and territories for a new sales team. ([archive](https://archive.ph/EBMZH))
+- [The Greatest Sales Deck I’ve Ever Seen](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0) by [Andy Raskin](https://www.andyraskin.com) breaks down the fairy tale story-telling structure of Zuora’s Sales Deck. This is one of the best articles you should read on your sales deck and presentation narrative. ([archive](https://archive.ph/j08BR))

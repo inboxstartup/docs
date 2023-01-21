@@ -59,3 +59,4 @@ The measure of how enjoyable and easy to use customers find the product experien
 ### References
 
 - https://future.com/north-star-metrics/
+- [Choosing Your North Star Metric](https://future.com/north-star-metrics/) ([archive](https://archive.ph/GSsSE))

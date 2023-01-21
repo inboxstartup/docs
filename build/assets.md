@@ -24,6 +24,8 @@ parent: Build
 	+ [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources) is a collection of links for free stock photography, video and Illustration websites.
 	+ [Image Finder](https://imagefinder.co)
 	+ [Pexels](https://www.pexels.com)
+	+ [Photopea](https://www.photopea.com) is a free online photo editor.
+	+ [PhotoRoom](https://www.photoroom.com) photo editing software powerful enough to create outstanding images yet simple enough to be used without any training, such as removing backgrounds from images or removing objects.
 	+ [Pixabay](https://pixabay.com)
 	+ [Stock Snap](https://stocksnap.io)
 	+ [The Stocks](http://thestocks.im)
@@ -60,3 +62,4 @@ parent: Build
 	+ [Photopea](https://www.photopea.com)
 	+ [Remove BG](https://www.remove.bg) removes Image Background.
 	+ [TinyWoW](https://tinywow.com) All-in-One utility tools for your files.
+	+ [UnScreen](https://www.unscreen.com) removed background from videos.
