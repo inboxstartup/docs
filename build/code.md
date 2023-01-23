@@ -23,6 +23,7 @@ building and deploying business applications.
 ## Authentication
 
 - [Auth.js](https://authjs.dev) is an open source community project.
+- [SuperTokens](https://supertokens.com) ([source](https://github.com/supertokens))
 
 ## Scrappers
 
@@ -30,6 +31,8 @@ building and deploying business applications.
 - [Voyager](https://github.com/mattsse/voyager) crawl and scrape web pages in rust
 - [RoboBrowser](https://github.com/jmcarp/robobrowser) - Your friendly neighborhood web scraper
 - [Scraperjs](https://github.com/ruipgil/scraperjs) is a web scraper module that make scraping the web an easy job.
+- [SimpleScraper](https://simplescraper.io) download instantly, scrape at scale in the cloud, or create an API, without codes.
+- [ScrapingFish](https://scrapingfish.com)
 
 ## Low/No Code
 
@@ -44,6 +47,7 @@ building and deploying business applications.
 - [Potion](https://potion.so) Create custom Notion websites in minutes.
 - [Super](https://super.so) Create a website in less than a minute that’s easy to manage and looks great, with instant page loads, SEO optimization, and no-code.
 - [Softr](https://www.softr.io) Turn your Airtable or Google Sheets into client portals, partner apps or internal tools.
+- [AppFlowy](https://appflowy.io) ([source](https://github.com/AppFlowy-IO/appflowy)) is an open-source alternative to Notion. You are in charge of your data and customizations.
 - Database
 	- [Seatable](https://seatable.io/) As simple as Excel, with the power of a database.
 	- [Baserow](https://baserow.io) Open source no-code database and Airtable alternative
