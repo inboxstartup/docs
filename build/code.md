@@ -12,18 +12,26 @@ parent: Build
 - [Overture](https://overturemaps.org) is for developers who build map services or use geospatial data.
 - [GitPod](https://www.gitpod.io) Spin up fresh, automated dev environments for each task, in the cloud, in seconds.
 - [Fly.io](https://fly.io) runs physical servers in cities close to your users.
+- [PocketBase](https://pocketbase.io) Open Source backend for your next SaaS and Mobile app in 1 file.
 
-## Internal Tools
+## Internal Tools / CRUD
 
 - [Retool](https://retool.com)
 - [AppSmith](https://www.appsmith.com)
-- [ToolJet](https://www.tooljet.com) - Open-source low-code application development platform for  
-building and deploying business applications.
+- [ToolJet](https://www.tooljet.com) - Open-source low-code application development platform for   building and deploying business applications.
+- [Refine](https://refine.dev) build React-based CRUD applications.
 
 ## Authentication
 
 - [Auth.js](https://authjs.dev) is an open source community project.
 - [SuperTokens](https://supertokens.com) ([source](https://github.com/supertokens))
+
+## Ops
+
+- [Infisical](https://infisical.com) is an Open Source, End-to-End Encrypted, tool that lets you securely sync secrets and configs across your team, devices, and infrastructure.
+- [OneUpTime](https://oneuptime.com) OpenSource Status Page, Monitoring, and Incident Response Platform. ([source](https://github.com/oneuptime/oneuptime))
+- [WindMill](https://windmill.dev) Build endpoints, workflows & ETLs, UIs with code only where it matters
+- [TownCrier](https://towncrier.readthedocs.io/) Manage the release notes for your project. ([source](https://github.com/twisted/towncrier))
 
 ## Scrappers
 

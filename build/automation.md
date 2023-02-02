@@ -12,6 +12,7 @@ parent: Build
 - [Albato](https://albato.com) Automate your workflow by integrating the apps you use every day.
 - [Alloy](https://runalloy.com) Connects hundreds of apps and platforms so you can access all of the data in one place.
 - [AppGyver](https://www.appgyver.com) no-code platform, to build apps for all form factors, including mobile, desktop, browser, TV and others.
+- [Automatisch](https://automatisch.io) Open Source Zapier Alternative.
 - [Bardeen](https://www.bardeen.ai) saves you time by automating repetitive tasks with a shortcut.
 - [CheatLayer](https://cheatlayer.com) exposes a powerful GPT-3 powered scripting layer on all websites to automate business tasks and save hundreds of hours per month.
 - [Craftar](https://www.craftar.io) let's you build APIs with NoCode at Lightning Speed.

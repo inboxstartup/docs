@@ -9,6 +9,7 @@ parent: Build
 - [Infinite Canvas](https://infinitecanvas.tools) is the foundation of a new class of apps from design tools, to code editors, and workspaces.
 - [TLDraw](https://tldraw.com) try the new [Beta version](https://beta.tldraw.com)
 - [Excalidraw](https://excalidraw.com) Virtual whiteboard for sketching hand-drawn like diagrams.
+- [PenPot](https://penpot.app) is the Open-Source Design & Prototyping Tool for Product Teams.
 
 #### References
 

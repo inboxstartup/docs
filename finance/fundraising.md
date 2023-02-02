@@ -22,7 +22,8 @@ Remember that fund-raising is a high-touch interaction. Most investors would rep
 
 - [21 Resources for Funding Your Startup](https://www.justgogrind.com/funding-resources/)
 - [30+ Resources for Funding Your Startup](https://www.vitalize.vc/blog/funding-resources/) from finding investors to colds emails to upgrading your pitch deck and more.
-- [A Tactical Guide to Seed Fundraising](https://www.beondeck.com/post/tactical-seed-fundraising)
+- [A Tactical Guide to Seed Fundraising](https://www.beondeck.com/post/tactical-seed-fundraising) Learn the playbook and pragmatic tactics for early-stage fundraising from Mike Wilner, a startup founder, advisor, and author of Oversubscribed, a book on seed fundraising.
+- [How To Fundraise Like a Pro](https://www.thetwentyminutevc.com/how-to-fundraise-like-a-pro/) ([archive](https://archive.ph/vYOss)) from [20VC](https://www.thetwentyminutevc.com) is nice article on How to Size and Price a Round, How to Create FOMO and Urgency in a Fundraise, How to Structure Angel Allocations, The 7 Deadly Sins of Fundraising Decks, The 3 Signs a Potential Investor is Bad News, etc.
 - [How to raise a seed round?](https://docs.google.com/document/d/14N9R1ZNervLjIR4bi5VjfEDkOSDAFclkGMT06kHwbPI/) by Elizabeth Yin
 - Hubspot's review of the [25 Best Sales Decks](https://blog.hubspot.com/sales/sales-presentation-guidelines)
 - [Investment Memos](https://www.bvp.com/memos) from Bessemer Venture Partners.
@@ -32,5 +33,3 @@ Remember that fund-raising is a high-touch interaction. Most investors would rep
 - [The Non-Obvious Guide to Fundraising](https://www.nfx.com/post/the-non-obvious-guide-to-fundraising/)
 - [The Pitch Narrative](https://visionquest.spacecadet.ventures/phases/pitch) from Space Cadet.
 - [The Startup Fundraising Playbook](https://www.docsend.com/index/startup-fundraising/) DocSend Startup Index provides data-driven insights into what the latest fundraising trends are and how to succeed.
-- [Y Combinator Seed Deck Template](https://docs.google.com/presentation/d/17nFIwCyf2Kz-Ao5HGnmvNZ74L8eSKA2C2Qdaoe-47OM/)
-- [How To Fundraise Like a Pro](https://www.thetwentyminutevc.com/how-to-fundraise-like-a-pro/) ([archive](https://archive.ph/vYOss)) from [20VC](https://www.thetwentyminutevc.com) is nice article on How to Size and Price a Round, How to Create FOMO and Urgency in a Fundraise, How to Structure Angel Allocations, The 7 Deadly Sins of Fundraising Decks, The 3 Signs a Potential Investor is Bad News, etc.
