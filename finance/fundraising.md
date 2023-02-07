@@ -8,7 +8,17 @@ parent: Finance
 
 At an early stage, almost all inbound investment proposals are noise or may be even scams. Be careful, don't waste your time.
 
-Remember that fund-raising is a high-touch interaction. Most investors would reply to your generic mail-merge. Research, target, get warm intros or write awesome cold emails.
+Remember that fund-raising is a high-touch interaction. Most investors would **NOT** reply to your generic mail-merge. Research, target, get warm intros or write awesome cold emails.
+
+## 
+
+- Be honest about the process. Many a people advised FOMO, but it should never be manufactured. If you are a hot deal and there is indeed FOMO for investors, you don’t have to do anything extra.
+- Be truthful about numbers. Don’t obfuscate.
+- Anything wrong with the team, be upfront and let the investors know. In the early stage of the company, Investors are investing, mostly, in the team.
+- Share your pitch deck generously. Make it good that you should be proud if it gets leaked. Make your deck leak-ready.
+- You should be the best expert about your product.
+- If you have a few good customers. Make the story about that. Make the work for the Investors easy.
+- Practice, Practice, Practice.
 
 ## Early Fund-Raising Tools
 

@@ -10,7 +10,7 @@ Pitch the opportunity, the market, the team, and why you can’t easily leap fro
 
 If your pitch deck gets leaked, is actually an awesome thing. You might as well have a fantastic Pitch Deck and be prepared for a leak.
 
-# Pitch
+## Pitch
 
 - [Search the Deck](https://www.searchthedeck.com) Search inside 15,000+ pitchdeck slides.
 - [Pitch deck that helped Cervest raise $30 million](https://www.businessinsider.com/cervest-series-a-funding-fundraising-pitch-deck-proptech-startup-2021-5) discusses the pitch deck from Cervest. ([archive](https://archive.ph/T2f7b))
@@ -18,3 +18,7 @@ If your pitch deck gets leaked, is actually an awesome thing. You might as well 
 - SpaceCadet’s [narrative on Pitch Decks](https://visionquest.spacecadet.ventures/phases/pitch) ([archive](https://archive.ph/Ib7MM))
 - [Building an Investor Pipeline Spreadsheet - keep your funding flowing](https://www.slideshare.net/jefielding/building-an-investor-pipeline-spreadsheet-keep-your-funding-flowing) (slideshare)
 - [Y Combinator Seed Deck Template](https://docs.google.com/presentation/d/17nFIwCyf2Kz-Ao5HGnmvNZ74L8eSKA2C2Qdaoe-47OM/)
+
+## Services
+
+- [Unicorn Capital](https://unicornbusinessplans.com) is a one-stop shop for investor-facing docs & strategy.
