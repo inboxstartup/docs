@@ -13,6 +13,9 @@ parent: Build
 - [GitPod](https://www.gitpod.io) Spin up fresh, automated dev environments for each task, in the cloud, in seconds.
 - [Fly.io](https://fly.io) runs physical servers in cities close to your users.
 - [PocketBase](https://pocketbase.io) Open Source backend for your next SaaS and Mobile app in 1 file.
+- [Directus](https://directus.io) Power any project with a modern, open source data platform
+- [LaudSpeaker](https://laudspeaker.com) Open Source Cross-Channel Messaging. Email, Slack + more, automated. ([source](https://github.com/laudspeaker/laudspeaker))
+- [Common Crawl](https://commoncrawl.org) maintains an open repository of web crawl data that can be accessed and analyzed by anyone.
 
 ## Internal Tools / CRUD
 
@@ -25,6 +28,7 @@ parent: Build
 
 - [Auth.js](https://authjs.dev) is an open source community project.
 - [SuperTokens](https://supertokens.com) ([source](https://github.com/supertokens))
+- [Nango](https://www.nango.dev) Pre-built OAuth flows & secure token management for 40+ APIs. ([source](https://github.com/NangoHQ/nango))
 
 ## Ops
 
@@ -81,6 +85,10 @@ parent: Build
 	- [Replicate](https://replicate.ai) run open-source models with a cloud API.
 	- [StreamLit](https://www.streamlit.io) turns data scripts into shareable web apps. All in pure Python. No front‑end experience required.
 	- [Runway](https://runwayml.com) AI tools, realtime collaboration, precision editing, and more. Your next-generation content creation suite.
+- Search
+	- [Algolia](https://www.algolia.com)
+	- [MeiliSearch](https://www.meilisearch.com) An open-source, lightning-fast search engine.
+	- [Typesense](https://typesense.org) an Open Source Alternative to Algolia.
 
 #### References
 

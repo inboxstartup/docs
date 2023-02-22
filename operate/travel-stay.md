@@ -12,6 +12,8 @@ title: Travel & Stay
 - [Hack'n'Sleep](https://hacknsleep.com)
 - [House Manifest](https://housemanifest.co) by [Stephen Choi](https://www.linkedin.com/in/stephenjhchoi/) is focused on entrepreneurs and ways for people to come together for a common cause.
 - [Kindred](https://livekindred.com/) Exchange homes & travel for a fraction of the cost or book like an AirBnB (via On Deck).
+- [Launch House](https://www.launchhouse.com), founded by [Michael Houck](https://www.linkedin.com/in/michael-houck/), is a new kind of accelerator that helps founders 
+year-round instead of for just a few months.
 - [My Place](https://myplace.co)Share and discover places to stay with your friends (or friends of friends).
 - [Shake15](https://www.shack15.com) is a community for founders, innovators, and makers.
 - [Travel Perk](https://www.travelperk.com) Business travel that works for the whole business.

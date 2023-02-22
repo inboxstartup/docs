@@ -18,3 +18,4 @@ A [6-part email sequence](https://entrepreneurshandbook.co/this-6-part-email-seq
 ---
 
 - [Buttondown](https://buttondown.email) is a small, elegant tool for producing newsletters.
+- [Rift](https://www.getrift.com) helps you warm up and authenticate domains, send email campaigns and validate contact emails.

@@ -7,6 +7,8 @@ has_children: true
 
 # Sell
 
+In the beginning the founder always sell and should sell. If a founder can’t sell it, nobody can. Along the way, it’s good to hire a few senior sales reps to help navigate the procurement process and explore the market — but they do not replace the founders’ involvement in the process of doing evangelical selling. 
+
 [10 tips for Founders doing Sales (from a Founder)](https://micael.substack.com/p/10-tips-for-founders-doing-sales) by Micael Oliveira is a succinct and clear message for founder learning sales. Here are the 10 tips;
 
 1. Be passionate about the product you're selling.
@@ -48,6 +50,7 @@ There is more than 100 trillion dollars in the global economy just waiting for y
 
 - [Atrium](https://www.atriumhq.com/) helps sales managers use metrics to increase rep efficiency and survive and thrive in a downturn.
 - [Rattle](https://www.gorattle.com) Unlock revenue insights that empower your team’s performance. Engage, update, and close business all from Slack or Teams with intelligent, bi-directional alerts.
+- [YTel](https://www.ytel.com) is a Modern Phone System with Branded Caller ID. An alternative to some of [Twilio](https://www.twilio.com) features.
 
 #### References
 

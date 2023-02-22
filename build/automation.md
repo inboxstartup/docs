@@ -9,6 +9,7 @@ parent: Build
 > Automation enables founders to grow companies with fewer and fewer people. -- [Paul Graham](https://twitter.com/paulg/status/1600119268858744832)
 
 - [ActionFlow](https://actionsflow.github.io)
+- [Active Pieces](https://www.activepieces.com) No-code Business Automation Tool. An open source alternative to Zapier. ([source](https://github.com/activepieces/activepieces))
 - [Albato](https://albato.com) Automate your workflow by integrating the apps you use every day.
 - [Alloy](https://runalloy.com) Connects hundreds of apps and platforms so you can access all of the data in one place.
 - [AppGyver](https://www.appgyver.com) no-code platform, to build apps for all form factors, including mobile, desktop, browser, TV and others.

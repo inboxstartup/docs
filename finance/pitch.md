@@ -22,3 +22,7 @@ If your pitch deck gets leaked, is actually an awesome thing. You might as well 
 ## Services
 
 - [Unicorn Capital](https://unicornbusinessplans.com) is a one-stop shop for investor-facing docs & strategy.
+
+## Tools
+
+- [SlidePilot](https://slidepilotapp.com) A free PDF Slides Presenter, complete with speaker notes.
