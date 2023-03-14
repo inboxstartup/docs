@@ -603,6 +603,7 @@
 - [Free for Developers](https://free-for.dev) have collected an exhaustive list of services that has free tiers ([view source](https://github.com/ripienaar/free-for-dev)).
 - [Free for Developers](https://free-for.dev) have collected an exhaustive list of services that has free tiers ([view source](https://github.com/ripienaar/free-for-dev)).
 - [GeoDesk](https://www.geodesk.com) is a spatial database engine for OpenStreetMap™ features
+- [Protomaps](https://protomaps.com) is a serverless system for planet-scale maps ([Github](https://github.com/sponsors/protomaps)).
 - [Headway](https://headwayapp.co) Easiest way to keep your customers in the loop about your product.
 - [Headway](https://headwayapp.co) Easiest way to keep your customers in the loop about your product.
 - [Intercom](https://www.intercom.com/)

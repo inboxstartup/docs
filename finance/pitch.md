@@ -18,6 +18,7 @@ If your pitch deck gets leaked, is actually an awesome thing. You might as well 
 - SpaceCadet’s [narrative on Pitch Decks](https://visionquest.spacecadet.ventures/phases/pitch) ([archive](https://archive.ph/Ib7MM))
 - [Building an Investor Pipeline Spreadsheet - keep your funding flowing](https://www.slideshare.net/jefielding/building-an-investor-pipeline-spreadsheet-keep-your-funding-flowing) (slideshare)
 - [Y Combinator Seed Deck Template](https://docs.google.com/presentation/d/17nFIwCyf2Kz-Ao5HGnmvNZ74L8eSKA2C2Qdaoe-47OM/)
+- A compelling narrative and a captivating deck go hand-in-hand when it comes to startup success. Use SpaceCadet’s frameworks to [create your deck](https://visionquest.spacecadet.ventures/phases/pitch) in a day. Or browse their [Deck Library](https://visionquest.spacecadet.ventures/phases/pitch/deck-library).
 
 ## Services
 
@@ -26,3 +27,4 @@ If your pitch deck gets leaked, is actually an awesome thing. You might as well 
 ## Tools
 
 - [SlidePilot](https://slidepilotapp.com) A free PDF Slides Presenter, complete with speaker notes.
+- [Sorbay](https://sorbay.io) is an Open Source alternative to Loom. ([source](https://github.com/sorbayhq/sorbay)) [client-source](https://github.com/sorbayhq/sorbay-client)

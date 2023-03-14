@@ -29,6 +29,7 @@ parent: Build
 - [Auth.js](https://authjs.dev) is an open source community project.
 - [SuperTokens](https://supertokens.com) ([source](https://github.com/supertokens))
 - [Nango](https://www.nango.dev) Pre-built OAuth flows & secure token management for 40+ APIs. ([source](https://github.com/NangoHQ/nango))
+- [Stytch](https://stytch.com) The authentication and authorization toolkit for developers.
 
 ## Ops
 
@@ -68,8 +69,9 @@ parent: Build
 - User & Members
 	+ [Circle](https://circle.so) The all-in-one community platform for creators &  brands.
 	+ [Tribe](https://tribe.so) A customizable community platform for businesses.
-	+ [Outseta](https://www.outseta.com) All-in-one membership software.
+	+ [Outseta](https://www.outseta.com) All-in-one membership software. Outseta gives founders the tools to monetize their website, SaaS product, or online community in minutes.
 	+ [Nas.io](https://nas.io) is an easy way to start, run, and scale your online community.
+	+ [Mighty](https://www.mightynetworks.com)
 - Forms
 	+ [SendFly](https://sendfly.io) $15 /year for everything unlimited.
 	+ [Formspree](https://formspree.io)
