@@ -24,10 +24,6 @@ Remember that fund-raising is a high-touch interaction. Most investors would **N
 
 - [AngelList RUV](https://www.angellist.com/ruv) Efficiently raise capital from investors with a single cap table entry. With Roll Up Vehicles™, founders get a single link that allows investors to commit and send funds online—and AngelList takes care of the rest.
 
-## Investors
-
-- [Stonks’ Active & Influential Angel Investors of 2022](https://stonks.com/angels)
-
 #### References
 
 - [21 Resources for Funding Your Startup](https://www.justgogrind.com/funding-resources/)
