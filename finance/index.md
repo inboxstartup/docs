@@ -14,3 +14,7 @@ Startups that are looking to be venture-funded are usually not advised to Crowdf
 - [Pigment](https://www.gopigment.com) - The business planning platform for forward-thinking organizations.
 - [Founderpath](https://founderpath.com) turn your monthly subscriptions into upfront cash.
 - [Wave](https://www.waveapps.com) one-stop money management for small business owners (almost free).
+
+#### References
+
+- [VC Terminology: Top 100 Terms Aspiring Angel Investors Should Know](https://www.hustlefund.vc/post/vc-terminology) ([archive](https://archive.is/1Xhys))

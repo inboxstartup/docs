@@ -40,10 +40,12 @@ The resources, tools, and utilities are targeted at Startups from the idea to th
 - [Collection of Startup Credits](https://github.com/dakshshah96/awesome-startup-credits) is a collection of awesome companies offering free/discounted plans for eligible startups. (In order to be eligible for free credits or a discounted startup plan, most companies require your startup to be a part of an accelerator/incubator.)
 - [Founder Library](https://www.founderlibrary.com) is a collection of wisdom and resources to launch, scale, and lead with more confidence and effectiveness, helping founders go further faster.
 - [Founders Book](https://foundersbook.co) is a knowledge base to help you build and launch your startup with tools and resources for first-time founders and early-stage startups.
+- [Founders Resources](https://www.founderresources.io) has curated content & templates for every step in your startup journey.
 - [MarktStash](https://marktstash.com) is a newsletter for growth strategies shared by indie founders in your inbox every week.
 - [Secret](https://www.joinsecret.com) is a SaaS deals platform. Join 45,000+ entrepreneurs who have saved millions of dollars on software.
 - [Sherpa](https://www.learnwithsherpa.com)
 - [Startups.FYI](https://www.startups.fyi) is a weekly newsletter to learn how founders are building profitable projects and making money online.
+- [Startup Starter Pack](https://startupstarterpack.com) is packed with essentials to launch your startup.
 - [Startup Stash](https://startupstash.com) is a large directory of tools and resources for startups and entrepreneurs.
 - [Startup Toolchain](https://startuptoolchain.com)
 - [Techstars Entrepreneur's Toolkit](https://toolkit.techstars.com) is an online educational resource to help you learn the fundamentals of entrepreneurship and accelerate your success.

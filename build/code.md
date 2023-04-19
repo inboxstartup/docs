@@ -72,6 +72,7 @@ parent: Build
 	+ [Outseta](https://www.outseta.com) All-in-one membership software. Outseta gives founders the tools to monetize their website, SaaS product, or online community in minutes.
 	+ [Nas.io](https://nas.io) is an easy way to start, run, and scale your online community.
 	+ [Mighty](https://www.mightynetworks.com)
+	+ [Outverse](https://www.outverse.com)
 - Forms
 	+ [SendFly](https://sendfly.io) $15 /year for everything unlimited.
 	+ [Formspree](https://formspree.io)

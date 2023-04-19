@@ -4,6 +4,8 @@ title: Investors
 parent: Finance
 ---
 
+Publicly available list of Investors.
+
 - [700+ Venture Capitalists](https://www.fundz.net/venture-capital-firms)
 - [Active Investor List](https://docs.google.com/spreadsheets/d/1tugiIXvkprHMrtLX15GC5ZryXX2g0y3RQzmP7B2KCFw/) by Trace Cohen
 - [Angels](https://angels.firstround.com/) by First Round
@@ -19,9 +21,11 @@ parent: Finance
 - [List of Angel Networks](https://www.mountsideventures.com/list-of-angel-networks)
 - [List of VCs](https://www.mountsideventures.com/list-of-venture-capital-investors) from Mountside Ventures
 - [SaaS Investors](https://ventroduce.com/investor-index)
+- [Seed Checks](https://www.seedchecks.com)
 - [Stonks’ Active & Influential Angel Investors of 2022](https://stonks.com/angels)
 - [Ultimate Climate Investor Guide](https://4ward.vc/climate-investor-overview/) from 4Ward.VC
 - [VC and Angel Investor Database](https://ramp.com/investor-database/vc-angel-list) from Ramp
 - [VCs in New York](https://www.nycfounderguide.com/investors)
+- [VC Sheet](https://www.vcsheet.com) curated sheets of VC funds and investors.
 - VC Stack - [Angels](https://vcstack.com/angels.html), [VC](https://vcstack.com/venture-capitalists.html)
 - [Unsorted](https://airtable.com/shrCBp3nTD14XU6uS/tblnnbgnMuvE62BYI)
