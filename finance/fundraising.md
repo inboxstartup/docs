@@ -39,3 +39,5 @@ Remember that fund-raising is a high-touch interaction. Most investors would **N
 - [The Non-Obvious Guide to Fundraising](https://www.nfx.com/post/the-non-obvious-guide-to-fundraising/)
 - [The Pitch Narrative](https://visionquest.spacecadet.ventures/phases/pitch) from Space Cadet.
 - [The Startup Fundraising Playbook](https://www.docsend.com/index/startup-fundraising/) DocSend Startup Index provides data-driven insights into what the latest fundraising trends are and how to succeed.
+- [Securing Investor Introductions](https://founderinstitute.notion.site/Securing-Investor-Introductions-Guide-50e2e587110c48bd8c8a52fbdb72910b#99fc4d67a7f548c98bf9b1a004a8d5ef) — a Guide from Founder Institute, to help startup founders start a conversation with their first startup investor.
+- [The Fundraising Playbook](https://fundraising.focusedchaos.co) is by Ben Yoskovitz, Founding Partner at Highline Beta & author of Focused Chaos, a free newsletter on startups, product management and more.

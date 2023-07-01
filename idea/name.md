@@ -25,3 +25,5 @@ If you have something like `mydomainis.cool`, then try to get `mydomainiscool.co
 #### References
 
 - [Branding and Naming](https://www.coursera.org/lecture/wharton-launching-startup/4-0-branding-and-naming-REncK), a Coursera Course by [Wharton Online](https://online.wharton.upenn.edu) is a good video course on the art of naming your Startup.
+- [Change Your Name](http://www.paulgraham.com/name.html) by Paul Graham ([archive](https://archive.ph/oNbEF))
+- [How and why we acquired our .com domain](https://www.advaitruia.com/p/how-and-why-we-acquired-our-com-domain) ([archive](https://archive.ph/8MYuG))

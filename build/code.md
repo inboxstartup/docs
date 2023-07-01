@@ -16,6 +16,7 @@ parent: Build
 - [Directus](https://directus.io) Power any project with a modern, open source data platform
 - [LaudSpeaker](https://laudspeaker.com) Open Source Cross-Channel Messaging. Email, Slack + more, automated. ([source](https://github.com/laudspeaker/laudspeaker))
 - [Common Crawl](https://commoncrawl.org) maintains an open repository of web crawl data that can be accessed and analyzed by anyone.
+- [ClickHouse](https://clickhouse.com) is a fast and resource efficient open-source database for real-time apps and analytics.
 
 ## Internal Tools / CRUD
 
@@ -64,6 +65,7 @@ parent: Build
 - Database
 	- [Seatable](https://seatable.io/) As simple as Excel, with the power of a database.
 	- [Baserow](https://baserow.io) Open source no-code database and Airtable alternative
+	- [UnDB](https://www.undb.xyz) Private first, unified, self-hosted no code database. ([source](https://github.com/undb-xyz/undb))
 	- [NoCodeDB](https://www.nocodb.com) is an open source NoCode platform that turns any database into a smart spreadsheet.
 	- [Relatable](https://www.retable.io) Turn your spreadsheets into smart database apps.
 - User & Members
