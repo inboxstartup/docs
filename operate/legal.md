@@ -21,3 +21,4 @@ title: Legal
 - [Founder Template Library](https://odteam.notion.site/Founder-Template-Library-e6b5781f3bb14b129b852e9d5f91d5fd)
 - [Legal Concepts for Startups](https://handbook.clerky.com) is a handbook designed to help founders avoid common areas of confusion, by providing a solid foundation of legal knowledge.
 - [Terms of Service](https://commonpaper.com/standards/terms-of-service/) Use the Common Paper Terms of Service for product-led sales of cloud services and SaaS.
+- [Statement of Work](https://github.com/joelparkerhenderson/statement-of-work) (SOW) Examples. An SOW is a narrative description of the required work. It stipulates the deliverables or services required to fulfill the contract, and it defines the task to be accomplished or services to be delivered in clear, concise and meaningful terms.

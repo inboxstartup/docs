@@ -32,6 +32,7 @@ parent: Build
 	+ [Unsplash](https://unsplash.com)
 - Icons
 	+ [Real Favicon Generator](https://realfavicongenerator.net)
+	+ [Iconbuddy](https://iconbuddy.app) Download, Customize, Edit and Personalize.
 	+ [Icon Duck](https://iconduck.com) free open source icons
 	+ [macOS Icons](https://macosicons.com)
 	+ [Nucleo](https://nucleoapp.com) (paid) is a beautiful library of 30,000+ icons, and a powerful application to collect, customize and export all your icons.

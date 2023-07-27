@@ -68,7 +68,7 @@ parent: Build
 	- [UnDB](https://www.undb.xyz) Private first, unified, self-hosted no code database. ([source](https://github.com/undb-xyz/undb))
 	- [NoCodeDB](https://www.nocodb.com) is an open source NoCode platform that turns any database into a smart spreadsheet.
 	- [Relatable](https://www.retable.io) Turn your spreadsheets into smart database apps.
-- User & Members
+- User & Members Communities
 	+ [Circle](https://circle.so) The all-in-one community platform for creators &  brands.
 	+ [Tribe](https://tribe.so) A customizable community platform for businesses.
 	+ [Outseta](https://www.outseta.com) All-in-one membership software. Outseta gives founders the tools to monetize their website, SaaS product, or online community in minutes.

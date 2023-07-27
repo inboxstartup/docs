@@ -38,6 +38,7 @@ The resources, tools, and utilities are targeted at Startups from the idea to th
 ## Resources
 
 - [Collection of Startup Credits](https://github.com/dakshshah96/awesome-startup-credits) is a collection of awesome companies offering free/discounted plans for eligible startups. (In order to be eligible for free credits or a discounted startup plan, most companies require your startup to be a part of an accelerator/incubator.)
+- [CoFounders Beta](https://cofoundersbeta.com) - Discover the Top Startup Accelerators, Venture Capital, Meetups, and Conferences.
 - [Founder Library](https://www.founderlibrary.com) is a collection of wisdom and resources to launch, scale, and lead with more confidence and effectiveness, helping founders go further faster.
 - [Founders Book](https://foundersbook.co) is a knowledge base to help you build and launch your startup with tools and resources for first-time founders and early-stage startups.
 - [Founders Resources](https://www.founderresources.io) has curated content & templates for every step in your startup journey.

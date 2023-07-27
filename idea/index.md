@@ -58,3 +58,4 @@ Look for things that change are amazing. They can fuel massive growth. In the la
 - [Paul Graham’s Essays](http://paulgraham.com/articles.html)
 - You’ve got to [start with the customer experience](https://www.youtube.com/watch?v=oeqPrUmVz-o) and work backwards to the technology. `Steve Jobs` `video`
 - [Nine Business Models and the Metrics Investors Want](https://www.youtube.com/watch?v=PTg3RZPXgLg) by Anu Hariharan, YCombinator. `video`
+- [Lessons from Keith Rabois](https://mogolshan.notion.site/mogolshan/Lessons-from-Keith-Rabois-2b867858346448998d23f51beee3470a)
