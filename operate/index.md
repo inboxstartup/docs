@@ -18,9 +18,8 @@ Once, I found this nugget of equating business roles with the pieces of Chess.
 | Rook   | People           |
 | Pawns  | Ideas            |
 
-- [Nugget AI](https://www.nugget.ai) people stack powered by AI and backed by science to hire, understand, train, and develop top talent.
 - [Nomadist](https://nomadlist.com) is a global community of remote workers living and traveling around the world.
 - A curated 200+ [Open Source Alternatives](https://www.btw.so/open-source-alternatives) to tools that businesses require in day-to-day operations.
-- Use [Cobble](https://www.gocobble.com) to build your business, no matter what stage you’re in. Our founder-first app makes starting a company more accessible with business planning workflows for fundraising or bootstrapping.
+- Use [Cobble](https://www.gocobble.com) to build your business, no matter what stage you’re in.
 - [Fibery](https://fibery.io) is an all-in-one tool/workspace - Product + Development + HR + Marketing + Customer Success. They have a [Startup Program](https://fibery.io/startup-program).
 - [Grow or Die - Supergoals](https://future.com/grow-or-die-supergoals/): A Framework for Turning Your Company Around Fast ([archive](https://archive.ph/cpvlC))

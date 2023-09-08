@@ -42,10 +42,13 @@ The resources, tools, and utilities are targeted at Startups from the idea to th
 - [Founder Library](https://www.founderlibrary.com) is a collection of wisdom and resources to launch, scale, and lead with more confidence and effectiveness, helping founders go further faster.
 - [Founders Book](https://foundersbook.co) is a knowledge base to help you build and launch your startup with tools and resources for first-time founders and early-stage startups.
 - [Founders Resources](https://www.founderresources.io) has curated content & templates for every step in your startup journey.
+- [Founder Resources Hub](https://ForEveryFounder.com) by [Puzzle](https://puzzle.io) is a list of resources designed to help you start and scale your startup easier.
 - [MarktStash](https://marktstash.com) is a newsletter for growth strategies shared by indie founders in your inbox every week.
+- [On Deck's Stack](https://stack.beondeck.com) - shortcut to going from 0 to 1.
 - [Secret](https://www.joinsecret.com) is a SaaS deals platform. Join 45,000+ entrepreneurs who have saved millions of dollars on software.
 - [Sherpa](https://www.learnwithsherpa.com)
 - [Startups.FYI](https://www.startups.fyi) is a weekly newsletter to learn how founders are building profitable projects and making money online.
+- [Startup Origin](https://coda.io/@abstractops/origin-to-do-kanban) by [AbstractOps](https://www.abstractops.com).
 - [Startup Starter Pack](https://startupstarterpack.com) is packed with essentials to launch your startup.
 - [Startup Stash](https://startupstash.com) is a large directory of tools and resources for startups and entrepreneurs.
 - [Startup Toolchain](https://startuptoolchain.com)

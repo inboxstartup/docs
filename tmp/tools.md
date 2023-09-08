@@ -621,7 +621,7 @@
 - [ProductPlan](https://www.productplan.com) helps teams assess opportunities, build a winning strategy, and deliver - all in one simple platform. 
 - [ProofHub](https://www.proofhub.com) Easily plan, collaborate, organize and deliver projects of all sizes, on time, using one project planning software with all the right tools in one place.
 - [Scenes](https://www.buildonscenes.com)
-- [Tawk](https://www.tawk.to)
+- [Tawk](https://www.tawk.to) is a free chat app to monitor and chat with the visitors on your website, respond to support tickets, organize contacts and create a help center to empower customers to help themselves.
 - [Tawk](https://www.tawk.to) Monitor and chat with the visitors on your website, respond to support tickets, organize contacts and create a help center to empower customers to help themselves.
 - Accounting / Book Keeping
 - Accounting / Book Keeping

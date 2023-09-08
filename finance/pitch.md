@@ -20,9 +20,11 @@ If your pitch deck gets leaked, is actually an awesome thing. You might as well 
 - [Y Combinator Seed Deck Template](https://docs.google.com/presentation/d/17nFIwCyf2Kz-Ao5HGnmvNZ74L8eSKA2C2Qdaoe-47OM/)
 - A compelling narrative and a captivating deck go hand-in-hand when it comes to startup success. Use SpaceCadet’s frameworks to [create your deck](https://visionquest.spacecadet.ventures/phases/pitch) in a day. Or browse their [Deck Library](https://visionquest.spacecadet.ventures/phases/pitch/deck-library).
 
-## Services
+## Submit your Pitch Deck
 
-- [Unicorn Capital](https://unicornbusinessplans.com) is a one-stop shop for investor-facing docs & strategy.
+- [SeedChecks](https://www.seedchecks.com)
+- [Handwave](https://handwave.ai)
+- [SEA Checks](https://www.seachecks.com) for Startupsprimarily focused on or located in Southeast Asia.
 
 ## Tools
 
