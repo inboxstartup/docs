@@ -13,7 +13,7 @@ If your pitch deck gets leaked, is actually an awesome thing. You might as well 
 ## Pitch
 
 - [Search the Deck](https://www.searchthedeck.com) Search inside 15,000+ pitchdeck slides.
-- [Pitch deck that helped Cervest raise $30 million](https://www.businessinsider.com/cervest-series-a-funding-fundraising-pitch-deck-proptech-startup-2021-5) discusses the pitch deck from Cervest. ([archive](https://archive.ph/T2f7b))
+- [Pitch Deck Experts](https://www.pitchdeckexperts.app) Find the perfect designer for your pitch deck.
 - [How to Make Investor Decks That Don’t Suck](https://www.candyforbreakfast.email/p/how-to-make-investor-decks-that-dont) ([archive](https://archive.ph/awVEl)) and here is the actionale elaboration - [How to Create a Great Pitch Deck](https://odteam.notion.site/How-to-Create-a-Great-Pitch-Deck-e1595dfd12a04610b6817b062c9af4d0) ([archive](https://archive.ph/Yscn0))
 - SpaceCadet’s [narrative on Pitch Decks](https://visionquest.spacecadet.ventures/phases/pitch) ([archive](https://archive.ph/Ib7MM))
 - [Building an Investor Pipeline Spreadsheet - keep your funding flowing](https://www.slideshare.net/jefielding/building-an-investor-pipeline-spreadsheet-keep-your-funding-flowing) (slideshare)

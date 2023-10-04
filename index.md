@@ -42,7 +42,8 @@ The resources, tools, and utilities are targeted at Startups from the idea to th
 - [Founder Library](https://www.founderlibrary.com) is a collection of wisdom and resources to launch, scale, and lead with more confidence and effectiveness, helping founders go further faster.
 - [Founders Book](https://foundersbook.co) is a knowledge base to help you build and launch your startup with tools and resources for first-time founders and early-stage startups.
 - [Founders Resources](https://www.founderresources.io) has curated content & templates for every step in your startup journey.
-- [Founder Resources Hub](https://ForEveryFounder.com) by [Puzzle](https://puzzle.io) is a list of resources designed to help you start and scale your startup easier.
+- [Founder Resources Hub](https://ForEveryFounder.com) by [Sasha Orloff](https://www.linkedin.com/in/sashaorloff/) of [Puzzle](https://puzzle.io) is a list of resources designed to help you start and scale your startup easier.
+- [Free for Dev](https://github.com/jixserver/free-for-dev) is a list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev.
 - [MarktStash](https://marktstash.com) is a newsletter for growth strategies shared by indie founders in your inbox every week.
 - [On Deck's Stack](https://stack.beondeck.com) - shortcut to going from 0 to 1.
 - [Secret](https://www.joinsecret.com) is a SaaS deals platform. Join 45,000+ entrepreneurs who have saved millions of dollars on software.

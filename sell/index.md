@@ -51,6 +51,8 @@ There is more than 100 trillion dollars in the global economy just waiting for y
 - [Atrium](https://www.atriumhq.com/) helps sales managers use metrics to increase rep efficiency and survive and thrive in a downturn.
 - [Rattle](https://www.gorattle.com) Unlock revenue insights that empower your team’s performance. Engage, update, and close business all from Slack or Teams with intelligent, bi-directional alerts.
 - [YTel](https://www.ytel.com) is a Modern Phone System with Branded Caller ID. An alternative to some of [Twilio](https://www.twilio.com) features.
+- [Open Phone](https://www.openphone.com)
+- [Aircall](https://aircall.io)
 
 #### References
 

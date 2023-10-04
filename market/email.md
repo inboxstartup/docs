@@ -15,7 +15,12 @@ A [6-part email sequence](https://entrepreneurshandbook.co/this-6-part-email-seq
 5. Value-stack and present your offer
 6. Drive urgency and entice the purchase
 
----
+## Tools
 
 - [Buttondown](https://buttondown.email) is a small, elegant tool for producing newsletters.
 - [Rift](https://www.getrift.com) helps you warm up and authenticate domains, send email campaigns and validate contact emails.
+- [Resend](https://resend.com/) is a simple, elegant interface so you can start sending emails in minutes. ([source](https://github.com/resendlabs))
+- [Mailjet](https://www.mailjet.com)
+- [List Monk](https://listmonk.app) - Self-hosted newsletter and mailing list manager.
+- [Ditto Feed](https://dittofeed.com) Open-source Customer Engagement ([source](https://github.com/dittofeed/dittofeed)).
+- [Loops](https://loops.so) - A better way to send marketing + transactional email.

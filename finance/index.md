@@ -18,3 +18,6 @@ Startups that are looking to be venture-funded are usually not advised to Crowdf
 #### References
 
 - [VC Terminology: Top 100 Terms Aspiring Angel Investors Should Know](https://www.hustlefund.vc/post/vc-terminology) ([archive](https://archive.is/1Xhys))
+- Investment Memo/Pitch
+	+ [Open Grants](https://opengrants.notion.site/OpenGrants-is-the-easy-way-to-win-grants-Join-Us-d1db1ce9145b4afaa6c0fecdb0f738de)
+	+ [IEP&Me](https://www.notion.so/IEP-Me-Investor-Memo-5ab1660f879844c9a037f6236dd5e176)

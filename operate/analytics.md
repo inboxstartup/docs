@@ -11,6 +11,7 @@ title: Analytics
 - [Datadog](https://www.datadoghq.com) Modern monitoring & security.
 - [Fathom](https://usefathom.com)
 - [GoAccess](https://goaccess.io)
+- [HyperDX](https://www.hyperdx.io) ([source](https://github.com/hyperdxio/hyperdx)) - An Open Source Observability Platform: Unify Session Replays, Logs, Traces, and Errors.
 - [Intercom](https://www.intercom.com) (Communication, Lead Gen)
 - [Mixpanel](https://mixpanel.com/) _(I have a lifetime free account)_
 - [Numerics](https://cynapse.com/numerics/) The Dashboard App for Decision Makers.

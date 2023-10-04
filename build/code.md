@@ -17,6 +17,7 @@ parent: Build
 - [LaudSpeaker](https://laudspeaker.com) Open Source Cross-Channel Messaging. Email, Slack + more, automated. ([source](https://github.com/laudspeaker/laudspeaker))
 - [Common Crawl](https://commoncrawl.org) maintains an open repository of web crawl data that can be accessed and analyzed by anyone.
 - [ClickHouse](https://clickhouse.com) is a fast and resource efficient open-source database for real-time apps and analytics.
+- [Radar](https://radar.com) - Geofencing, geocoding, and maps, all in a single cost-effective platform.
 
 ## Internal Tools / CRUD
 
@@ -63,11 +64,12 @@ parent: Build
 - [Softr](https://www.softr.io) Turn your Airtable or Google Sheets into client portals, partner apps or internal tools.
 - [AppFlowy](https://appflowy.io) ([source](https://github.com/AppFlowy-IO/appflowy)) is an open-source alternative to Notion. You are in charge of your data and customizations.
 - Database
-	- [Seatable](https://seatable.io/) As simple as Excel, with the power of a database.
 	- [Baserow](https://baserow.io) Open source no-code database and Airtable alternative
-	- [UnDB](https://www.undb.xyz) Private first, unified, self-hosted no code database. ([source](https://github.com/undb-xyz/undb))
+	- [Leaptable](https://leaptable.co) is the fastest way to build, deploy, and manage LLM-powered agents on tabular data (dataframes, SQL tables and Spreadsheets). ([source](https://github.com/peterwnjenga/leaptable))
 	- [NoCodeDB](https://www.nocodb.com) is an open source NoCode platform that turns any database into a smart spreadsheet.
 	- [Relatable](https://www.retable.io) Turn your spreadsheets into smart database apps.
+	- [Seatable](https://seatable.io/) As simple as Excel, with the power of a database.
+	- [UnDB](https://www.undb.xyz) Private first, unified, self-hosted no code database. ([source](https://github.com/undb-xyz/undb))
 - User & Members Communities
 	+ [Circle](https://circle.so) The all-in-one community platform for creators &  brands.
 	+ [Tribe](https://tribe.so) A customizable community platform for businesses.
