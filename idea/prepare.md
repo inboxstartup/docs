@@ -7,7 +7,7 @@
 3. Be ready (and quick) to adapt. You will fail, appreciate the lesson and adapt. You will be wrong, appreciate and course correct. You will discover competitors along the way, figure out how to stay ahead of them.
 4. If an incubator, advisor, employee is failing you, drop them fast. By the same token, do everything you can to hire great people, engage great advisors, and benefit from great programs. Never miss the opportunity to get a great professional on your team, figure out their role later; compensation is not the only tool at your disposal.
 5. Don’t spend more cash than you can afford to spend and keep in mind that equity in a valuable business is worth more than money. Learn how to trade in both as your cash is the only thing that will keep you afloat.
-6. If you’re going to spend on advertising, make sure the ROI[^ROI] is good. How do make sure the ROI is good? Invest in [marketing](/market/).
+6. If you’re going to spend on advertising, make sure the ROI[^ROI] is good. How do make sure the ROI is good? Invest in marketing.
 7. Never stop marketing.
 8. Always give value first.
 9. Do not raise capital for inventory, to pay yourselves, or to pay for sales. Your success drives those channels. Capital is for development, production, and marketing.
