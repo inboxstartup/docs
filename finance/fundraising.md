@@ -1,9 +1,3 @@
----
-layout: default
-title: Fund Raising
-parent: Finance
----
-
 # Fund Raising
 
 At an early stage, almost all inbound investment proposals are noise or may be even scams. Be careful, don't waste your time.

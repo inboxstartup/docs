@@ -1,10 +1,3 @@
----
-layout: default
-title: Operate
-nav_order: 8
-has_children: true
----
-
 # Operate
 
 Once, I found this nugget of equating business roles with the pieces of Chess.

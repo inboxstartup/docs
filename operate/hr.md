@@ -1,9 +1,3 @@
----
-layout: default
-parent: Operate
-title: HR
----
-
 # HR
 
 - [Rippling](https://www.rippling.com) manage employees’ payroll, benefits, expenses, devices, etc.

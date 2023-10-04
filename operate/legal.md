@@ -1,9 +1,3 @@
----
-layout: default
-parent: Operate
-title: Legal
----
-
 # Legal
 
 - [Dropbox Sign](https://www.hellosign.com) (erstwhile HelloSign)

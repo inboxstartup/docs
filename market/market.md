@@ -1,10 +1,3 @@
----
-layout: default
-title: Market
-nav_order: 6
-has_children: true
----
-
 # Market
 
 > Marketing is the process of getting people interested in the goods and services being sold.

@@ -1,9 +1,3 @@
----
-layout: default
-parent: Operate
-title: Remote
----
-
 # Remote
 
 - [How to make great decisions async](https://async.twist.com/how-to-make-decisions-asynchronously/) (and avoid endless meetings). 90% of decisions can be made async. Follow this 5-step process to do it effectively.

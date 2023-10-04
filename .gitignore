@@ -1,9 +1,37 @@
 *.gem
 .bundle
-.DS_Store
 .jekyll-*
 .ruby-version
 .sass-cache
+.vitepress
 _site
 Gemfile.lock
 node_modules
+
+# Ignore OS generated files #
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Ignore packages #
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Always-ignore these #
+*.diff
+*.err
+*.log
+*.orig
+*.rej
+*.swn
+*.swo
+*.swp
+._*
+*~

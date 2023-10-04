@@ -1,10 +1,3 @@
----
-layout: default
-title: Sell
-nav_order: 5
-has_children: true
----
-
 # Sell
 
 In the beginning the founder always sell and should sell. If a founder can’t sell it, nobody can. Along the way, it’s good to hire a few senior sales reps to help navigate the procurement process and explore the market — but they do not replace the founders’ involvement in the process of doing evangelical selling. 

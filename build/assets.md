@@ -1,9 +1,3 @@
----
-layout: default
-title: Assets
-parent: Build
----
-
 # Assets
 
 - [AlternativeTo](https://alternativeto.net)

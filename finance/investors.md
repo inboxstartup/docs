@@ -1,8 +1,4 @@
----
-layout: default
-title: Investors
-parent: Finance
----
+# Investors
 
 Publicly available list of Investors.
 

@@ -1,9 +1,3 @@
----
-layout: default
-title: Branding
-parent: Market
----
-
 # Branding
 
 1. Ask yourself what void in the market you are filling or the problem you are solving? Be honest.

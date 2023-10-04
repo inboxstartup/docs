@@ -1,9 +1,3 @@
----
-layout: default
-title: Founding Sales
-parent: Sell
----
-
 # Founding Sales
 
 [Founding Sales](https://www.foundingsales.com/) is a book by Pete Kazanjy.

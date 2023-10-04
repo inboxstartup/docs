@@ -1,10 +1,3 @@
----
-layout: default
-title: Learn
-nav_order: 99
-has_children: true
----
-
 # Learn
 
 > Never stop learning.

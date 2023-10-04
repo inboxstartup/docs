@@ -1,9 +1,3 @@
----
-layout: default
-parent: Enhance
-title: Perks
----
-
 # Perks
 
 These perks are available to startups, founders, and participants that are part of their respective cohorts or are their customers.

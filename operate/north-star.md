@@ -1,9 +1,3 @@
----
-layout: default
-parent: Operate
-title: North Star
----
-
 # North Star
 
 1. Define a crystal clear north star. The best north star is A SIMPLE, measurable metric.

@@ -1,9 +1,3 @@
----
-layout: default
-parent: Operate
-title: Travel & Stay
----
-
 # Travel & Stay
 
 - [Airbnb](https://www.airbnb.com)

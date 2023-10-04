@@ -1,9 +1,3 @@
----
-layout: default
-title: Templates
-parent: Build
----
-
 # Templates
 
 - [Precedent](https://precedent.vercel.app) is an opinionated collection of components, hooks, and utilities for your Next.js project. ([source](https://github.com/steven-tey/precedent))

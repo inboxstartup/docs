@@ -1,9 +1,3 @@
----
-layout: default
-parent: Operate
-title: Analytics
----
-
 # Analytics
 
 - [Amplitude](https://amplitude.com)

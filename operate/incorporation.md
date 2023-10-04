@@ -1,9 +1,3 @@
----
-layout: default
-parent: Operate
-title: Incorporation
----
-
 # Incorporation
 
 - [AngelList Stack](https://www.angellist.com/stack-inc) incorporates your company in a few simple steps without an expensive legal process while you focus on your company.

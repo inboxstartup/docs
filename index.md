@@ -1,12 +1,11 @@
 ---
-layout: default
+layout: doc
 title: Start
-nav_order: 1
 ---
 
 # Start
 
-![Helping Startups during the chaotic zero stage.](/assets/img/start-0-1.jpg "Start")
+![Helping Startups during the chaotic zero stage.](/assets/img/hero-1.jpg "Start")
 
 So, you have decided to Startup. Welcome, but it isn't going to be easy. Starting and running a Startup is like eating broken glasses; after a while, you begin to like the taste of your blood.
 

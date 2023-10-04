@@ -1,9 +1,3 @@
----
-layout: default
-parent: Market
-title: Email
----
-
 # Email
 
 A [6-part email sequence](https://entrepreneurshandbook.co/this-6-part-email-sequence-just-about-guarantees-a-four-figure-income-every-time-i-use-it-fb7e8bf90ad0) that turns subscribers into buyers;

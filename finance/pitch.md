@@ -1,16 +1,10 @@
----
-layout: default
-title: Pitch
-parent: Finance
----
+# Pitch
 
 A startup pitch is NOT a sales pitch!
 
 Pitch the opportunity, the market, the team, and why you can’t easily leap from what you are to what it should be, without investment. Refer to sales as some traction, not evidence, showing you how and why you need a lot more capital to go from where you are to 15x as substantial.
 
 If your pitch deck gets leaked, is actually an awesome thing. You might as well have a fantastic Pitch Deck and be prepared for a leak.
-
-## Pitch
 
 - [Search the Deck](https://www.searchthedeck.com) Search inside 15,000+ pitchdeck slides.
 - [Pitch Deck Experts](https://www.pitchdeckexperts.app) Find the perfect designer for your pitch deck.

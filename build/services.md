@@ -1,9 +1,3 @@
----
-layout: default
-title: Services
-parent: Build
----
-
 # Services
 
 - [BigBinary](https://www.bigbinary.com)

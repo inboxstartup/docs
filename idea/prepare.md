@@ -1,9 +1,3 @@
----
-layout: default
-parent: Idea
-title: Prepare
----
-
 # Prepare
 
 > Prepare to startup and run your business.

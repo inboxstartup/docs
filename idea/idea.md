@@ -1,15 +1,6 @@
----
-layout: default
-title: Idea
-nav_order: 2
-has_children: true
----
-
 # Idea
 
 It all starts with an idea, sometimes drawn on a napkin or a wild discussion with friends, or a co-worker.
-
----
 
 ## Timeless Strategies
 
@@ -27,7 +18,6 @@ Look for things that change are amazing. They can fuel massive growth. In the la
 1. Higher social status
 1. Increased confidence/trust
 
----
 ## Types of Innovation
 
 | Term                | Definition |
@@ -43,7 +33,6 @@ Look for things that change are amazing. They can fuel massive growth. In the la
 | Brand               | Representation of your offerings and business.           |
 | Customer Engagement | Distinctive interactions you foster.                     |
 
----
 #### References
 
 - [10 Types of Innovation](https://www.visualcapitalist.com/10-types-of-innovation-the-art-of-discovering-a-breakthrough-product/)

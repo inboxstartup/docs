@@ -1,9 +1,3 @@
----
-layout: default
-parent: Enhance
-title: Accelerators
----
-
 # Accelerators
 
 - [BoostVC](https://www.boost.vc) - Invest $500k in Sci-Fi Founders for 15% equity.

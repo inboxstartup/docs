@@ -1,9 +1,3 @@
----
-layout: default
-parent: Market
-title: Press / PR
----
-
 # Press / PR
 
 - [Aidem Network](https://www.aidem.network)

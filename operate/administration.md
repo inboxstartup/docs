@@ -1,9 +1,3 @@
----
-layout: default
-parent: Operate
-title: Administration
----
-
 # Administration
 
 - [Earth Class Mail](https://www.earthclassmail.com) Virtual Mail Service

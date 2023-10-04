@@ -1,9 +1,3 @@
----
-layout: default
-title: ./tmp
-nav_order: 999999999
----
-
 # ./tmp
 
 > An Inbox where things are dropped. Everything here will be sorted out elsewhere.
