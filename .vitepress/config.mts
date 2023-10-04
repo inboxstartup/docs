@@ -16,7 +16,7 @@ export default defineConfig({
     sidebar: [
       {
         text: 'Idea',
-        link: '/idea/idea',
+        link: '/idea',
         collapsed: false,
         items: [
           { text: 'Co-Founders', link: '/idea/co-founders' },
@@ -27,7 +27,7 @@ export default defineConfig({
       },
       {
         text: 'Build',
-        link: '/build/build',
+        link: '/build',
         collapsed: false,
         items: [
           { text: 'Assets', link: '/build/assets' },
@@ -43,7 +43,7 @@ export default defineConfig({
       },
       {
         text: 'Finance',
-        link: '/finance/finance',
+        link: '/finance',
         collapsed: false,
         items: [
           { text: 'Fund Raising', link: '/finance/fundraising' },
@@ -53,7 +53,7 @@ export default defineConfig({
       },
       {
         text: 'Sell',
-        link: '/sell/sell',
+        link: '/sell',
         collapsed: false,
         items: [
           { text: 'Founder Sale', link: '/sell/founding-sales' },
@@ -61,7 +61,7 @@ export default defineConfig({
       },
       {
         text: 'Market',
-        link: '/market/market',
+        link: '/market',
         collapsed: false,
         items: [
           { text: 'Branding', link: '/market/branding' },
@@ -72,7 +72,7 @@ export default defineConfig({
       },
       {
         text: 'Enhance',
-        link: '/enhance/enhance',
+        link: '/enhance',
         collapsed: false,
         items: [
           { text: 'Accelerators', link: '/enhance/accelerators' },
@@ -81,7 +81,7 @@ export default defineConfig({
       },
       {
         text: 'Operate',
-        link: '/operate/operate',
+        link: '/operate',
         collapsed: false,
         items: [
           { text: 'Administration', link: '/operate/administration' },
@@ -100,7 +100,7 @@ export default defineConfig({
       },
       {
         text: 'Learn',
-        link: '/learn/learn',
+        link: '/learn',
       },
     ],
 
