@@ -3,8 +3,9 @@
 .jekyll-*
 .ruby-version
 .sass-cache
-.vitepress
-_site
+.vite_opt_cache
+cache
+dist
 Gemfile.lock
 node_modules
 
