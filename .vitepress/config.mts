@@ -7,7 +7,7 @@ export default defineConfig({
   description: "Helping Startups during the chaotic zero stage.",
 
   lastUpdated: true,
-  cleanUrls: false,
+  cleanUrls: true,
   ignoreDeadLinks: false,
 
   themeConfig: {
