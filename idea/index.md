@@ -45,6 +45,6 @@ Look for things that change are amazing. They can fuel massive growth. In the la
 - [The Art of Ideation](https://www.gaganbiyani.com/blog/ideation-1) by Gagan Biyani
 - [Billion Dollar Business Ideas](https://billiondollarbusinessideas.substack.com) is a newsletter about Discovering Billion Dollar Business Ideas that you can steal for your next project, by Jaisal Rathee of [Startups.FYI](https://www.startups.fyi).
 - [Paul Graham’s Essays](http://paulgraham.com/articles.html)
-- You’ve got to [start with the customer experience](https://www.youtube.com/watch?v=oeqPrUmVz-o) and work backwards to the technology. `Steve Jobs` `video`
-- [Nine Business Models and the Metrics Investors Want](https://www.youtube.com/watch?v=PTg3RZPXgLg) by Anu Hariharan, YCombinator. `video`
+- You’ve got to [start with the customer experience](https://www.youtube.com/watch?v=oeqPrUmVz-o) and work backwards to the technology. [video]
+- [Nine Business Models and the Metrics Investors Want](https://www.youtube.com/watch?v=PTg3RZPXgLg) by Anu Hariharan, YCombinator. [video]
 - [Lessons from Keith Rabois](https://mogolshan.notion.site/mogolshan/Lessons-from-Keith-Rabois-2b867858346448998d23f51beee3470a)

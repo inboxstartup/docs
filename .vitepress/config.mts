@@ -8,13 +8,19 @@ export default defineConfig({
 
   lastUpdated: true,
   cleanUrls: true,
-  ignoreDeadLinks: false,
 
   themeConfig: {
     logo: { src: '/inboxstartup-logo.svg' },
     siteTitle: false,
     
     search: { provider: 'local' },
+
+    lastUpdated: {
+      text: 'Edited',
+      formatOptions: {
+        dateStyle: 'medium',
+      },
+    },
 
     sidebar: [
       {
