@@ -11,6 +11,9 @@ export default defineConfig({
   ignoreDeadLinks: false,
 
   themeConfig: {
+    logo: { src: '/inboxstartup-logo.svg' },
+    siteTitle: false,
+    
     search: { provider: 'local' },
 
     sidebar: [
