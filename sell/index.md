@@ -37,8 +37,6 @@ From https://news.ycombinator.com/item?id=23285438
 
 There is more than 100 trillion dollars in the global economy just waiting for you to breathe it in. Good luck.
 
----
-
 ## Tools & Services
 
 - [Atrium](https://www.atriumhq.com/) helps sales managers use metrics to increase rep efficiency and survive and thrive in a downturn.

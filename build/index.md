@@ -8,8 +8,6 @@
 
 In a Startup, the founders believed that a celebrity-ish engineer or designer hire will turn the tide of the Startup. No, it won't. It will have to be you.
 
----
-
 ## References
 
 - [Free for Developers](https://free-for.dev/) is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.

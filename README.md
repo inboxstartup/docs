@@ -19,3 +19,4 @@ The documentation is powered by [VitePress](https://vitepress.dev). Install the 
 - [ ] License
 - [ ] Contact via Tally?
 - [ ] Search - Algolia
+- [ ] Footnote - VitePress do not support footnotes out of the box, we need to figure out or let it be for now.
