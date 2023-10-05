@@ -26,13 +26,9 @@ The resources, tools, and utilities are targeted at Startups from the idea to th
 - The Swiss Knife for Entrepreneurs and Founders.
 - Helping entrepreneurs and founders run companies with the right tools during their formative times.
 
----
-
 ## FAQ
 
 - Except for the topics (folders), nothing is organized. It is left to you to figure out and pick the best that fits you and leave the ones that do not. Go around and jump in to the ones that makes sense to you right there.
-
----
 
 ## Resources
 
@@ -54,8 +50,6 @@ The resources, tools, and utilities are targeted at Startups from the idea to th
 - [Startup Toolchain](https://startuptoolchain.com)
 - [Techstars Entrepreneur's Toolkit](https://toolkit.techstars.com) is an online educational resource to help you learn the fundamentals of entrepreneurship and accelerate your success.
 - [Third Derivative & New Energy Nexus / RMI Startup Resources](https://docs.google.com/spreadsheets/d/1mHj6rm_7pMThv6dcemgfpF8k1j5Cq7BiW33yAOo8WC0/) is a spreadsheet of Startup resources maintained by [Third Derivative](https://www.third-derivative.org).
-
----
 
 ## Contribute
 
