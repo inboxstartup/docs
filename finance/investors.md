@@ -16,6 +16,7 @@ Publicly available list of Investors.
 - [Investor List](https://airtable.com/shrkohpeE2AO2ldeq/tbl5Q8N7NuW22z5Bt) from Docsend
 - [List of Angel Networks](https://www.mountsideventures.com/list-of-angel-networks)
 - [List of VCs](https://www.mountsideventures.com/list-of-venture-capital-investors) from Mountside Ventures
+- [Mercury’s Investor Database](https://mercury.com/investor-database)
 - [SaaS Investors](https://ventroduce.com/investor-index)
 - [Seed Checks](https://www.seedchecks.com)
 - [Stonks’ Active & Influential Angel Investors of 2022](https://stonks.com/angels)
