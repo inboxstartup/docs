@@ -9,6 +9,13 @@ export default defineConfig({
   lastUpdated: true,
   cleanUrls: true,
 
+  head: [
+    ['meta', { name: 'theme-color', content: '#5f67ee' }],
+    ['meta', { name: 'og:type', content: 'website' }],
+    ['meta', { name: 'og:locale', content: 'en' }],
+    ['meta', { name: 'og:site_name', content: 'Inbox Startup' }],
+  ],
+
   themeConfig: {
     logo: { src: '/inboxstartup-logo.svg' },
     siteTitle: false,
@@ -20,6 +27,16 @@ export default defineConfig({
       formatOptions: {
         dateStyle: 'medium',
       },
+    },
+
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/inboxstartup/docs' },
+      { icon: 'twitter', link: 'https://twitter.com/InboxStartup' },
+    ],
+
+    footer: {
+      message: 'Released under No License.',
+      copyright: 'Copyright © 2019-present'
     },
 
     sidebar: [
@@ -112,17 +129,6 @@ export default defineConfig({
         link: '/learn/',
       },
     ],
-
-
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/inboxstartup/docs' },
-      { icon: 'twitter', link: 'https://twitter.com/InboxStartup' },
-    ],
-
-    footer: {
-      message: 'Released under No License.',
-      copyright: 'Copyright © 2019-present'
-    },
 
   },
 })
