@@ -8,6 +8,7 @@ export default defineConfig({
 
   lastUpdated: true,
   cleanUrls: true,
+  sitemap: { hostname: 'docs.inboxstartup.com' },
 
   head: [
     ['meta', { name: 'theme-color', content: '#5f67ee' }],
