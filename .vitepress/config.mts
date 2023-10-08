@@ -6,9 +6,10 @@ export default defineConfig({
   title: "Inbox Startup",
   description: "Helping Startups during the chaotic zero stage.",
 
+  ignoreDeadLinks: true,
   lastUpdated: true,
   cleanUrls: true,
-  sitemap: { hostname: 'docs.inboxstartup.com' },
+  sitemap: { hostname: 'https://docs.inboxstartup.com' },
 
   head: [
     ['meta', { name: 'theme-color', content: '#5f67ee' }],
