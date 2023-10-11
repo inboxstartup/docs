@@ -74,8 +74,11 @@
 - Forms
 	+ [SendFly](https://sendfly.io) $15 /year for everything unlimited.
 	+ [Formspree](https://formspree.io)
-	+ [Tally](https://tally.so) The simplest way to create forms.
+	+ [Tally](https://tally.so)
 	+ [Typeform](https://www.typeform.com)
+	+ [Survey Monkey](https://www.surveymonkey.com)
+	+ [Snoop Forms](https://snoopforms.com) (the Open Source TypeForm alternative)
+	+ [PaperForm](https://paperform.co)
 + AI
 	- [Hugging Face](https://huggingface.co) Build, train and deploy state of the art models powered by the reference open source in machine learning.
 	- [OpenAI](https://openai.com)
