@@ -27,12 +27,14 @@
 - [Nango](https://www.nango.dev) Pre-built OAuth flows & secure token management for 40+ APIs. ([source](https://github.com/NangoHQ/nango))
 - [Stytch](https://stytch.com) The authentication and authorization toolkit for developers.
 
-## Ops
+## Ops & DevOps
 
 - [Infisical](https://infisical.com) is an Open Source, End-to-End Encrypted, tool that lets you securely sync secrets and configs across your team, devices, and infrastructure.
 - [OneUpTime](https://oneuptime.com) OpenSource Status Page, Monitoring, and Incident Response Platform. ([source](https://github.com/oneuptime/oneuptime))
 - [WindMill](https://windmill.dev) Build endpoints, workflows & ETLs, UIs with code only where it matters
 - [TownCrier](https://towncrier.readthedocs.io/) Manage the release notes for your project. ([source](https://github.com/twisted/towncrier))
+- [Macminicolo](https://macminicolo.net)hosts Macs in multiple high-end data centers.
+- [MacMini Vault](https://www.macminivault.com) Enterprise Mac Hosting.
 
 ## Scrappers
 
@@ -79,16 +81,6 @@
 	+ [Survey Monkey](https://www.surveymonkey.com)
 	+ [Snoop Forms](https://snoopforms.com) (the Open Source TypeForm alternative)
 	+ [PaperForm](https://paperform.co)
-+ AI
-	- [Hugging Face](https://huggingface.co) Build, train and deploy state of the art models powered by the reference open source in machine learning.
-	- [OpenAI](https://openai.com)
-	- [StabilityAI](https://stability.ai)
-	- [Deep AI](https://deepai.org)
-	- [Explosion](https://explosion.ai)
-	- [Plotly](https://plotly.com) platform for building, scaling, and deploying data apps in Python.
-	- [Replicate](https://replicate.ai) run open-source models with a cloud API.
-	- [StreamLit](https://www.streamlit.io) turns data scripts into shareable web apps. All in pure Python. No front‑end experience required.
-	- [Runway](https://runwayml.com) AI tools, realtime collaboration, precision editing, and more. Your next-generation content creation suite.
 - Search
 	- [Algolia](https://www.algolia.com)
 	- [MeiliSearch](https://www.meilisearch.com) An open-source, lightning-fast search engine.
