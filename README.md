@@ -16,6 +16,7 @@ The documentation is powered by [VitePress](https://vitepress.dev). Install the 
 
 ## Todo
 
+- [ ] Fix the Menu order to - idea, build, finance, sell, market, enhance, operate, learn
 - [ ] License
 - [ ] Contact via Tally?
 - [ ] Search - Algolia

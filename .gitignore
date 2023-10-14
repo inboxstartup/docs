@@ -1,17 +1,11 @@
-*.gem
-.bundle
-.jekyll-*
-.ruby-version
-.sass-cache
 .vite_opt_cache
 cache
 dist
-Gemfile.lock
 node_modules
 
 # Ignore OS generated files #
 .DS_Store*
-ehthumbs.db
+ehthumbs.dbw
 Icon?
 Thumbs.db
 

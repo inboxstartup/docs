@@ -7,6 +7,7 @@
 ## Generators & Templates
 
 - [Avodocs](https://www.avodocs.com) Free legal documents for startups.
+- [Bonterms](https://bonterms.com) has a lot of Standard Agreements for the Enterprise.
 - [Common Paper](https://commonpaper.com) helps you create and sign contracts faster. Build trusted templates using our standard agreements, then negotiate, sign and manage your contracts in a single workflow
 	- [Standard Agreements](https://commonpaper.com/standards/) are built by expert attorneys to help you close faster.
 	- [SaaS Agreement Toolkit](https://commonpaper.com/resources/saas-agreement-toolkit) Agreements, guides, and benchmark data to help you sell SaaS.
