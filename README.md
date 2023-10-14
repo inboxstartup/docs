@@ -14,10 +14,14 @@ The documentation is powered by [VitePress](https://vitepress.dev). Install the 
 - Build: `npm run docs:build`
 - Preview the build: `npm run docs:preview`
 
+### Plugins
+
+Install the needed plugins with `npm i -D plugin-name` and follow their usage instructions.
+
+- [vitepress-sidebar](https://github.com/jooy2/vitepress-sidebar)
+- [markdown-it-footnote](https://github.com/markdown-it/markdown-it-footnote)
+
 ## Todo
 
-- [ ] Fix the Menu order to - idea, build, finance, sell, market, enhance, operate, learn
-- [ ] License
 - [ ] Contact via Tally?
 - [ ] Search - Algolia
-- [ ] Footnote - VitePress do not support footnotes out of the box, we need to figure out or let it be for now.

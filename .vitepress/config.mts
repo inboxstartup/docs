@@ -1,6 +1,8 @@
 import { defineConfig } from 'vitepress'
 import { defineConfig, type DefaultTheme } from 'vitepress'
+
 import { generateSidebar } from 'vitepress-sidebar'
+import footnote from 'markdown-it-footnote'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -14,6 +16,12 @@ export default defineConfig({
   sitemap: { hostname: 'https://docs.inboxstartup.com' },
 
   srcExclude: [ 'README.md', 'tmp' ],
+
+  markdown: {
+    config: (md) => {
+      md.use(footnote)
+    }
+  },
 
   // https://vitepress.dev/reference/default-theme-config
   themeConfig: {
@@ -48,10 +56,10 @@ export default defineConfig({
       capitalizeEachWords: true,
       collapsed: true,
       // collapseDepth: 2,
-      sortMenusByName: true,
-      // sortMenusByFrontmatterOrder: false,
+      // sortMenusByName: false,
+      sortMenusByFrontmatterOrder: true,
       // sortMenusOrderByDescending: false,
-      sortMenusOrderNumerically: true,
+      // sortMenusOrderNumerically: false,
       manualSortFileNameByPriority: [ 'idea', 'build', 'finance', 'sell', 'market', 'enhance', 'operate', 'learn' ],
       excludeFiles: ['README.md'],
       excludeFolders: ['node_modules', 'public', 'tmp'],

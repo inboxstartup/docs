@@ -1,8 +1,3 @@
----
-layout: doc
-title: Start
----
-
 # Start
 
 ![Helping Startups during the chaotic zero stage.](/assets/img/hero-1.jpg "Start")
