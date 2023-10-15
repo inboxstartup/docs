@@ -1,6 +1,6 @@
 # Operate
 
-Once, I found this nugget of equating business roles with the pieces of Chess.
+Interesting nugget of equating business roles with the pieces of Chess.
 
 | Chess  | Business        |
 | ------ | ---------------- |
