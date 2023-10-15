@@ -5,7 +5,7 @@
 - NextView Ventures Everyday Economy [Virtual Accelerator](https://nextview.vc/accelerator/)
 - [Seed Accelerators](https://www.seed-db.com/accelerators) a tabular data of Accelerators, with their HQ, funding, etc.
 - [Tech Startup Accelerators and Applications](https://taskablehq.com/blog/taskable-guide-startup-accelerators)
-- [TechStar](https://techstar.com)
+- [TechStars](https://www.techstars.com)
 - The [50+ Best Startup Accelerators](https://www.growthmentor.com/blog/best-startup-accelerators/) in the World (Sorted by Country).
 - [XX Team](https://www.xx.team) 
 - [Y Combinator](https://www.ycombinator.com)
