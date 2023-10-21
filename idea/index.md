@@ -35,16 +35,13 @@ Look for things that change are amazing. They can fuel massive growth. In the la
 
 #### References
 
-- [10 Types of Innovation](https://www.visualcapitalist.com/10-types-of-innovation-the-art-of-discovering-a-breakthrough-product/)
-- [12 Frameworks for Finding Startup Ideas — Advice for Future Founders](https://review.firstround.com/12-frameworks-for-finding-startup-ideas-advice-for-future-founders)
-- [Betting on Things That Never Change](https://www.collaborativefund.com/blog/betting-on-things-that-never-change/) by Morgan Housel (Jul 20, 2017).
-- [How to Get Startup Ideas](http://www.paulgraham.com/startupideas.html) by Paul Graham
-- [The idea maze](https://cdixon.org/2013/08/04/the-idea-maze) by Chris Dixon
-- [Mapping the Unknown – The Ten Steps to Map Any Industry](https://steveblank.com/2022/09/20/mapping-the-unknown-the-ten-steps-to-map-any-industry/) by Steve Blank on how to mind-map an industry and learn about it even if you have no prior experience.
-- [Requests for Startups](https://www.ycombinator.com/rfs/) by Y Combinator
-- [The Art of Ideation](https://www.gaganbiyani.com/blog/ideation-1) by Gagan Biyani
+- [12 Frameworks for Finding Startup Ideas — Advice for Future Founders](https://review.firstround.com/12-frameworks-for-finding-startup-ideas-advice-for-future-founders) ([archive](https://archive.ph/xzv6z))
+- [Betting on Things That Never Change](https://www.collaborativefund.com/blog/betting-on-things-that-never-change/) by Morgan Housel ([archive](https://archive.ph/rDuMr))
 - [Billion Dollar Business Ideas](https://billiondollarbusinessideas.substack.com) is a newsletter about Discovering Billion Dollar Business Ideas that you can steal for your next project, by Jaisal Rathee of [Startups.FYI](https://www.startups.fyi).
-- [Paul Graham’s Essays](http://paulgraham.com/articles.html)
-- You’ve got to [start with the customer experience](https://www.youtube.com/watch?v=oeqPrUmVz-o) and work backwards to the technology. [video]
-- [Nine Business Models and the Metrics Investors Want](https://www.youtube.com/watch?v=PTg3RZPXgLg) by Anu Hariharan, YCombinator. [video]
+- [How to Get Startup Ideas](http://www.paulgraham.com/startupideas.html) by Paul Graham ([archive](https://archive.ph/FIImp))
 - [Lessons from Keith Rabois](https://mogolshan.notion.site/mogolshan/Lessons-from-Keith-Rabois-2b867858346448998d23f51beee3470a)
+- [Mapping the Unknown – The Ten Steps to Map Any Industry](https://steveblank.com/2022/09/20/mapping-the-unknown-the-ten-steps-to-map-any-industry/) by Steve Blank on how to mind-map an industry and learn about it even if you have no prior experience. ([archive](https://archive.ph/JsdB4))
+- [Nine Business Models and the Metrics Investors Want](https://www.youtube.com/watch?v=PTg3RZPXgLg) by Anu Hariharan, YCombinator. [video]
+- [Requests for Startups](https://www.ycombinator.com/rfs/) by Y Combinator
+- [The idea maze](https://cdixon.org/2013/08/04/the-idea-maze) by Chris Dixon ([archive](https://archive.ph/fHbjD))
+- You’ve got to [start with the customer experience](https://www.youtube.com/watch?v=oeqPrUmVz-o) and work backwards to the technology. [video]

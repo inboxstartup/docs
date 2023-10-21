@@ -85,6 +85,8 @@
 	- [Algolia](https://www.algolia.com)
 	- [MeiliSearch](https://www.meilisearch.com) An open-source, lightning-fast search engine.
 	- [Typesense](https://typesense.org) an Open Source Alternative to Algolia.
+- Support
+	- [Deep Chat](https://deepchat.dev) is an [open-source](https://github.com/OvidijusParsiunas/deep-chat) fully customizable AI chat component for your website.
 
 #### References
 

@@ -1,6 +1,7 @@
 # Travel & Stay
 
 - [Airbnb](https://www.airbnb.com)
+- [Anyplace](https://www.anyplace.com) - Live Anyplace Work Anywhere.
 - [Blue Ground](https://www.theblueground.com) - Experience the home that moves with you for a month, a year, or longer with a global network of designer, furnished apartments.
 - [Clear](https://www.clearme.com) faster Airport security check-ins.
 - [Global Entry](https://ttp.dhs.gov)

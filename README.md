@@ -23,5 +23,4 @@ Install the needed plugins with `npm i -D plugin-name` and follow their usage in
 
 ## Todo
 
-- [ ] Contact via Tally?
-- [ ] Search - Algolia
+- [ ] Search - Algolia?

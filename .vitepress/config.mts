@@ -57,7 +57,7 @@ export default defineConfig({
       collapsed: true,
       // collapseDepth: 2,
       // sortMenusByName: false,
-      sortMenusByFrontmatterOrder: true,
+      // sortMenusByFrontmatterOrder: true,
       // sortMenusOrderByDescending: false,
       // sortMenusOrderNumerically: false,
       manualSortFileNameByPriority: [ 'idea', 'build', 'finance', 'sell', 'market', 'enhance', 'operate', 'learn' ],
