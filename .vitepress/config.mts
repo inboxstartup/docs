@@ -32,7 +32,7 @@ export default defineConfig({
       provider: 'algolia',
       options: {
         appId: 'JVWSSBLBLD',
-        apiKey: '6bb5e420593ff4138e3f6faf40072fe7',
+        apiKey: '6a4c2303312b4c08d52273322dbda9dd',
         indexName: 'inboxstartup'
       }
     },
