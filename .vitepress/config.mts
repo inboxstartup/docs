@@ -26,8 +26,16 @@ export default defineConfig({
   // https://vitepress.dev/reference/default-theme-config
   themeConfig: {
     logo: { src: '/inboxstartup-logo.svg' },
-    siteTitle: false,  
-    search: { provider: 'local' },
+    siteTitle: false,
+
+    search: {
+      provider: 'algolia',
+      options: {
+        appId: 'JVWSSBLBLD',
+        apiKey: '6bb5e420593ff4138e3f6faf40072fe7',
+        indexName: 'inboxstartup'
+      }
+    },
 
     lastUpdated: {
       text: 'Edited',
