@@ -44,4 +44,5 @@ Look for things that change are amazing. They can fuel massive growth. In the la
 - [Nine Business Models and the Metrics Investors Want](https://www.youtube.com/watch?v=PTg3RZPXgLg) by Anu Hariharan, YCombinator. [video]
 - [Requests for Startups](https://www.ycombinator.com/rfs/) by Y Combinator
 - [The idea maze](https://cdixon.org/2013/08/04/the-idea-maze) by Chris Dixon ([archive](https://archive.ph/fHbjD))
+- [The Ideation Flywheel](https://www.stackfix.com/blog/the-ideation-flywheel) - A mental model for deciding which startup ideas to pursue, and how to pursue them.
 - You’ve got to [start with the customer experience](https://www.youtube.com/watch?v=oeqPrUmVz-o) and work backwards to the technology. [video]
