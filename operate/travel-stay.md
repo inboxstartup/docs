@@ -4,6 +4,7 @@
 - [Anyplace](https://www.anyplace.com) - Live Anyplace Work Anywhere.
 - [Blue Ground](https://www.theblueground.com) - Experience the home that moves with you for a month, a year, or longer with a global network of designer, furnished apartments.
 - [Clear](https://www.clearme.com) faster Airport security check-ins.
+- [Dark Hotels](https://darkhotels.co) to find stays to avoid light-pollution areas.
 - [Global Entry](https://ttp.dhs.gov)
 - [Hack'n'Sleep](https://hacknsleep.com) - All-inclusive community-driven co-living for young professionals in San Francisco.
 - [House Manifest](https://www.manifesthouse.com) by [Stephen Choi](https://www.linkedin.com/in/stephenjhchoi/) is focused on entrepreneurs and ways for people to come together for a common cause.

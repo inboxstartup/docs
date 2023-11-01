@@ -6,6 +6,7 @@
 - [Overture](https://overturemaps.org) is for developers who build map services or use geospatial data.
 - [GitPod](https://www.gitpod.io) Spin up fresh, automated dev environments for each task, in the cloud, in seconds.
 - [Fly.io](https://fly.io) runs physical servers in cities close to your users.
+- [Hoppscotch](https://hoppscotch.com) is an [Open Source](https://github.com/hoppscotch/hoppscotch) API development platform ecosystem.
 - [PocketBase](https://pocketbase.io) Open Source backend for your next SaaS and Mobile app in 1 file.
 - [Directus](https://directus.io) Power any project with a modern, open source data platform
 - [LaudSpeaker](https://laudspeaker.com) Open Source Cross-Channel Messaging. Email, Slack + more, automated. ([source](https://github.com/laudspeaker/laudspeaker))
@@ -76,6 +77,7 @@
 - Forms
 	+ [SendFly](https://sendfly.io) $15 /year for everything unlimited.
 	+ [Formspree](https://formspree.io)
+	+ [Formbricks](https://formbricks.com) is an [Open Source](https://github.com/formbricks/formbricks) Survey Suite.
 	+ [Tally](https://tally.so)
 	+ [Typeform](https://www.typeform.com)
 	+ [Survey Monkey](https://www.surveymonkey.com)
