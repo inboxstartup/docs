@@ -44,6 +44,10 @@ export default defineConfig({
       },
     },
 
+    nav: [
+      { text: 'Subscribe', link: 'https://inboxstartup.com' },
+    ],
+
     socialLinks: [
       { icon: 'github', link: 'https://github.com/inboxstartup/docs' },
       { icon: 'twitter', link: 'https://twitter.com/InboxStartup' },

@@ -61,7 +61,8 @@
 - [Softr](https://www.softr.io) Turn your Airtable or Google Sheets into client portals, partner apps or internal tools.
 - [AppFlowy](https://appflowy.io) ([source](https://github.com/AppFlowy-IO/appflowy)) is an open-source alternative to Notion. You are in charge of your data and customizations.
 - Database
-	- [Baserow](https://baserow.io) Open source no-code database and Airtable alternative
+	- [Baserow](https://baserow.io) Open source no-code database and Airtable alternative.
+	- [Grist](https://www.getgrist.com) is a modern, [open source](https://github.com/gristlabs) spreadsheet that goes beyond the grid.
 	- [Leaptable](https://leaptable.co) is the fastest way to build, deploy, and manage LLM-powered agents on tabular data (dataframes, SQL tables and Spreadsheets). ([source](https://github.com/peterwnjenga/leaptable))
 	- [NoCodeDB](https://www.nocodb.com) is an open source NoCode platform that turns any database into a smart spreadsheet.
 	- [Relatable](https://www.retable.io) Turn your spreadsheets into smart database apps.
