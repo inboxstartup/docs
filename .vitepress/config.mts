@@ -45,7 +45,7 @@ export default defineConfig({
     },
 
     nav: [
-      { text: 'Subscribe', link: 'https://inboxstartup.com' },
+      { text: 'Subscribe', link: 'https://letter.inboxstartup.com' },
     ],
 
     socialLinks: [
