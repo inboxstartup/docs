@@ -48,4 +48,4 @@ The content here is somewhat random and unorganized. You must figure out and pic
 
 ## Contribute
 
-The content on `docs.startupinbox.com` are open source. [Contributions](https://github.com/inboxstartup/docs/pulls) are welcome. Everything is always `Work-in-Progress`.
+The content on `docs.startupinbox.com` are open source. [Contributions](https://github.com/inboxstartup/docs/pulls) are welcome. Everything is always `Work-in-Progress` and `things are always changing`.
