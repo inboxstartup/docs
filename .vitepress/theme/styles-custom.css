@@ -1,0 +1,10 @@
+:root {
+	--border-radius: 3px;
+	--border-radius-mid: 5px;
+	--border-radius-high: 10px;
+}
+
+img {
+	border: 0 none;
+	border-radius: var(--border-radius-mid);
+}
