@@ -8,6 +8,11 @@ Startups that are looking to be venture-funded are usually not advised to Crowdf
 - [Founderpath](https://founderpath.com) turn your monthly subscriptions into upfront cash.
 - [Wave](https://www.waveapps.com) one-stop money management for small business owners (almost free).
 
+## Tools
+
+- [Pilot](https://pilot.com) - Bookkeeping, CFO, and tax services for startups and growing businesses.
+- [Puzzle](https://puzzle.io) - Automated financials, insights, accruals & advice - all in one.
+
 #### References
 
 - [VC Terminology: Top 100 Terms Aspiring Angel Investors Should Know](https://www.hustlefund.vc/post/vc-terminology) ([archive](https://archive.is/1Xhys))
