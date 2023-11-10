@@ -15,4 +15,4 @@ You will learn what best describes your updates and you can build up your own te
 
 - [Investor Update Template](https://docs.google.com/document/d/1v6o_1QjEacnniHhPWWIPGuVy2q4Av7zM_bHNxMN37Vg/)
 - [How to turn investor updates into investor dollars](https://www.fastcompany.com/90812499/how-to-turn-investor-updates-into-investor-dollars) ([archive](https://archive.ph/SqTkB)). Regularly sharing news about your startup is a powerful way to get your best shot at the funding you need. It might even help you understand your own business better.
-- [What I Learned Reading 1,000 Investor Reports](https://collabfund.com/blog/i-read-1-000-investor-reports-last-year-heres-what-i-learned/) ([archive](https://archive.ph/Z1atj))
+- [What I Learned Reading 1,000 Investor Reports](https://collabfund.com/blog/i-read-1-000-investor-reports-last-year-heres-what-i-learned/) ([archive](https://archive.ph/Z1atj))``

@@ -2,17 +2,18 @@
 
 ## Platform
 
-- [Supabase](https://supabase.com) is an open source [Firebase](https://firebase.google.com) alternative. Start your project with a Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, and Storage.
-- [Overture](https://overturemaps.org) is for developers who build map services or use geospatial data.
-- [GitPod](https://www.gitpod.io) Spin up fresh, automated dev environments for each task, in the cloud, in seconds.
-- [Fly.io](https://fly.io) runs physical servers in cities close to your users.
-- [Hoppscotch](https://hoppscotch.com) is an [Open Source](https://github.com/hoppscotch/hoppscotch) API development platform ecosystem.
-- [PocketBase](https://pocketbase.io) Open Source backend for your next SaaS and Mobile app in 1 file.
-- [Directus](https://directus.io) Power any project with a modern, open source data platform
-- [LaudSpeaker](https://laudspeaker.com) Open Source Cross-Channel Messaging. Email, Slack + more, automated. ([source](https://github.com/laudspeaker/laudspeaker))
-- [Common Crawl](https://commoncrawl.org) maintains an open repository of web crawl data that can be accessed and analyzed by anyone.
 - [ClickHouse](https://clickhouse.com) is a fast and resource efficient open-source database for real-time apps and analytics.
+- [Common Crawl](https://commoncrawl.org) maintains an open repository of web crawl data that can be accessed and analyzed by anyone.
+- [Directus](https://directus.io) Power any project with a modern, open source data platform
+- [Fly.io](https://fly.io) runs physical servers in cities close to your users.
+- [GitPod](https://www.gitpod.io) Spin up fresh, automated dev environments for each task, in the cloud, in seconds.
+- [Hoppscotch](https://hoppscotch.com) is an [Open Source](https://github.com/hoppscotch/hoppscotch) API development platform ecosystem.
+- [LaudSpeaker](https://laudspeaker.com) Open Source Cross-Channel Messaging. Email, Slack + more, automated. ([source](https://github.com/laudspeaker/laudspeaker))
+- [Nango](https://www.nango.dev) - multi product integrations.
+- [Overture](https://overturemaps.org) is for developers who build map services or use geospatial data.
+- [PocketBase](https://pocketbase.io) Open Source backend for your next SaaS and Mobile app in 1 file.
 - [Radar](https://radar.com) - Geofencing, geocoding, and maps, all in a single cost-effective platform.
+- [Supabase](https://supabase.com) is an open source [Firebase](https://firebase.google.com) alternative. Start your project with a Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, and Storage.
 
 ## Internal Tools / CRUD
 
