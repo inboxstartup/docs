@@ -8,6 +8,7 @@
 - [Fly.io](https://fly.io) runs physical servers in cities close to your users.
 - [GitPod](https://www.gitpod.io) Spin up fresh, automated dev environments for each task, in the cloud, in seconds.
 - [Hoppscotch](https://hoppscotch.com) is an [Open Source](https://github.com/hoppscotch/hoppscotch) API development platform ecosystem.
+- [Lago](https://www.getlago.com) offers a self-hosted and cloud, scalable and modular architecture for metering and usage-based billing, at every stage of your company.
 - [LaudSpeaker](https://laudspeaker.com) Open Source Cross-Channel Messaging. Email, Slack + more, automated. ([source](https://github.com/laudspeaker/laudspeaker))
 - [Nango](https://www.nango.dev) - multi product integrations.
 - [Overture](https://overturemaps.org) is for developers who build map services or use geospatial data.

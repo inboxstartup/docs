@@ -7,6 +7,7 @@
 - [Albato](https://albato.com) Automate your workflow by integrating the apps you use every day.
 - [Alloy](https://runalloy.com) Connects hundreds of apps and platforms so you can access all of the data in one place.
 - [AppGyver](https://www.appgyver.com) no-code platform, to build apps for all form factors, including mobile, desktop, browser, TV and others.
+- [Automa](https://www.automa.site) is a browser extension for browser automation. From auto-fill forms, doing a repetitive task, taking a screenshot, to scraping data of the website.
 - [Automatisch](https://automatisch.io) Open Source Zapier Alternative.
 - [Bardeen](https://www.bardeen.ai) saves you time by automating repetitive tasks with a shortcut.
 - [CheatLayer](https://cheatlayer.com) exposes a powerful GPT-3 powered scripting layer on all websites to automate business tasks and save hundreds of hours per month.

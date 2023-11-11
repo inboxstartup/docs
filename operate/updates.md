@@ -1,6 +1,6 @@
 # Updates
 
-Start a discipline and habit of updating your investors and stackholders early on. Even if you have no investors, write a monthly update. Perhaps, you can send it to potential investors, mentors, and other entrepreneurs who are willing to read them.
+Start a discipline and habit of updating your investors and stack-holders early on. Even if you have no investors, write a monthly update. Perhaps, you can send it to potential investors, mentors, and other entrepreneurs who are willing to read them.
 
 You will learn what best describes your updates and you can build up your own template. However, here are few ideas to look into;
 
@@ -9,7 +9,7 @@ You will learn what best describes your updates and you can build up your own te
 - What is plan ahead.
 - Key performance indicators.
 - Ask for pointers or help, such as introductions to key people who can help you move your business goals ahead.
-- Finally, mention people who have helped you and and if they want introduction. Including a bit about competitors and their activies are also a good idea.
+- Finally, mention people who have helped you and and if they want introduction. Including a bit about competitors and their activties are also a good idea.
 
 #### References
 
