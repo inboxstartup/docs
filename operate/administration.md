@@ -11,7 +11,7 @@
 ## Virtual Assistants
 
 - [Magic](https://getmagic.com) is a convenient way to access quality virtual assistants to scale your business.
-- [Cherry Assistant](https://www.cherryassistant.com)
+- [Cherry Assistant](https://www.cherryassistant.com) is a virtual assistant marketplace where they source, match, and manage a virtual assistant for your business for a monthly subscription.
 
 ### References
 
