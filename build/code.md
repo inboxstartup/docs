@@ -27,7 +27,6 @@
 
 - [Auth.js](https://authjs.dev) is an open source community project.
 - [SuperTokens](https://supertokens.com) ([source](https://github.com/supertokens))
-- [Nango](https://www.nango.dev) Pre-built OAuth flows & secure token management for 40+ APIs. ([source](https://github.com/NangoHQ/nango))
 - [Stytch](https://stytch.com) The authentication and authorization toolkit for developers.
 
 ## Ops & DevOps
@@ -92,6 +91,9 @@
 	- [Typesense](https://typesense.org) an Open Source Alternative to Algolia.
 - Support
 	- [Deep Chat](https://deepchat.dev) is an [open-source](https://github.com/OvidijusParsiunas/deep-chat) fully customizable AI chat component for your website.
+- Monitoring
+	- [OneUptime](https://oneuptime.com) monitors your website, dashboards, API's, and more and alerts your team when downtime happens.
+	- [UpDown](https://updown.io) is a simple & inexpensive website monitoring.
 
 #### References
 

@@ -18,3 +18,4 @@
 - [How to Sell Your Company](https://jacquesmattheij.com/how-to-sell-your-company/) is a collection of some of the best HackerNews comment threads on when you need to get acquired. ([archive](https://archive.ph/pLGjx))
 - [The Games People Play With Cash Flow](https://commoncog.com/cash-flow-games/) is a brilliant article on how Cash Flow is king while `Profit is an Opinion`. ([archive](https://archive.ph/fxSkp))
 - A [Startup CTO’s Handbook](https://www.amazon.com/dp/1955811563) by [Zach Goldberg](https://zachgoldberg.com) ([Source](https://github.com/ZachGoldberg/Startup-CTO-Handbook))
+- Sriram Krishnan have some good advice on [How to write a cold email](https://sriramk.com/coldemail) ([archive](https://archive.ph/toD8b)).
