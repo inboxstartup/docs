@@ -23,4 +23,4 @@ Install the needed plugins with `npm i -D plugin-name` and follow their usage in
 
 ## Todo
 
-- [ ] Search - Algolia?
+- [x] Search - Algolia?

@@ -15,6 +15,7 @@
 - [PocketBase](https://pocketbase.io) Open Source backend for your next SaaS and Mobile app in 1 file.
 - [Radar](https://radar.com) - Geofencing, geocoding, and maps, all in a single cost-effective platform.
 - [Supabase](https://supabase.com) is an open source [Firebase](https://firebase.google.com) alternative. Start your project with a Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, and Storage.
+- [Novu](https://github.com/novuhq/) is the open-source notification infrastructure.
 
 ## Internal Tools / CRUD
 
@@ -85,6 +86,8 @@
 	+ [Survey Monkey](https://www.surveymonkey.com)
 	+ [Snoop Forms](https://snoopforms.com) (the Open Source TypeForm alternative)
 	+ [PaperForm](https://paperform.co)
+- Info
+	+ [IP Guide](https://ip.guide) is your guide to internet numbers.
 - Search
 	- [Algolia](https://www.algolia.com)
 	- [MeiliSearch](https://www.meilisearch.com) An open-source, lightning-fast search engine.

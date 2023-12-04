@@ -4,7 +4,6 @@
 
 ## Communities, Cohorts, Collectives
 
-- [Coho](https://www.joincoho.com) is a Direct to Experience Learning Network For Professional Growth.
 - [On Deck](https://www.beondeck.com) is a collective of founders and their earliest supporters offering highly-curated connections and introductions to co-founders, resources, and capital.
 - [Section4](https://www.section4.com) Business education for builders, disrupters, doers, changemakers, builders. Hands-on experience taught by top professors.
 - [SaaS Academy](https://www.saasacademy.com) has programs to help founders scale rapidly, improve their business operations.
@@ -19,3 +18,6 @@
 - [The Games People Play With Cash Flow](https://commoncog.com/cash-flow-games/) is a brilliant article on how Cash Flow is king while `Profit is an Opinion`. ([archive](https://archive.ph/fxSkp))
 - A [Startup CTO’s Handbook](https://www.amazon.com/dp/1955811563) by [Zach Goldberg](https://zachgoldberg.com) ([Source](https://github.com/ZachGoldberg/Startup-CTO-Handbook))
 - Sriram Krishnan have some good advice on [How to write a cold email](https://sriramk.com/coldemail) ([archive](https://archive.ph/toD8b)).
+- [Starting a Startup](https://www.julian.com/guide/startup/intro) by Julian Shapiro is a handbook to help tech startup founders improve their product, growth, recruiting, and fundraising.
+- [Index Resources](https://www.indexventures.com/resources/) are deeply-researched, practical, and definitive guides to key challenges facing entrepreneurs.
+- Top CEOs trust [Mochary Method](https://mocharymethod.com) for the practical tools they need to be effective leaders, provide top-notch products and services to clients, and lead their industries.
