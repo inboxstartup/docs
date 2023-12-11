@@ -17,6 +17,7 @@ Publicly available list of Investors.
 - [List of Angel Networks](https://www.mountsideventures.com/list-of-angel-networks)
 - [List of VCs](https://www.mountsideventures.com/list-of-venture-capital-investors) from Mountside Ventures
 - [Mercury’s Investor Database](https://mercury.com/investor-database)
+- Papermark’s [Open Investor Database](https://investors.papermark.io/)
 - [SaaS Investors](https://ventroduce.com/investor-index)
 - [Seed Checks](https://www.seedchecks.com)
 - [Stonks’ Active & Influential Angel Investors of 2022](https://stonks.com/angels)
@@ -25,4 +26,5 @@ Publicly available list of Investors.
 - [VCs in New York](https://www.nycfounderguide.com/investors)
 - [VC Sheet](https://www.vcsheet.com) curated sheets of VC funds and investors.
 - VC Stack - [Angels](https://vcstack.com/angels.html), [VC](https://vcstack.com/venture-capitalists.html)
+- Visible.VC’s [Connect - Investors](https://connect.visible.vc/investors)
 - [Unsorted](https://airtable.com/shrCBp3nTD14XU6uS/tblnnbgnMuvE62BYI)

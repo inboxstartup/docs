@@ -1,6 +1,7 @@
 # Templates
 
 - [Free Figma Component Library](https://www.figcomponents.com) is a curated list of Figma components.
+- [Float UI](https://floatui.com) beautiful, responsive UI components and website templates with modern design, 100% free and open-source.
 - [Precedent](https://precedent.vercel.app) is an opinionated collection of components, hooks, and utilities for your Next.js project. ([source](https://github.com/steven-tey/precedent))
 - [ShadCN UI](https://ui.shadcn.com) Beautifully designed components that you can copy and paste into your apps.
 - [Tabler](https://tabler.io) is a free and open source web application UI kit based on Bootstrap 5, with hundreds responsive components and multiple layouts.
