@@ -1,11 +1,11 @@
 # Legal
 
-- [Dropbox Sign](https://www.hellosign.com) (erstwhile HelloSign)
-- [Docusign](https://www.docusign.com)
-- [PandaDoc](https://www.pandadoc.com)
 - [Documenso](https://documenso.com) is an [Open Source](https://github.com/documenso/documenso) Document Signing service.
 - [DocuSeal](https://www.docuseal.co) is an [Open Source](https://github.com/docusealco/docuseal) tool to create, fill and sign digital documents.
-- 
+- [Docusign](https://www.docusign.com)
+- [Dropbox Sign](https://www.hellosign.com) (erstwhile HelloSign)
+- [PandaDoc](https://www.pandadoc.com)
+- [Papermark](https://www.papermark.io) - Share pitch decks, sales proposals and other docs securely with real-time analytics and white-labeling options. ([source](https://github.com/mfts/papermark))
 ## Generators & Templates
 
 - [Avodocs](https://www.avodocs.com) Free legal documents for startups.
@@ -20,6 +20,7 @@
 - [Legal Concepts for Startups](https://handbook.clerky.com) is a handbook designed to help founders avoid common areas of confusion, by providing a solid foundation of legal knowledge.
 - [Upcounsel](https://www.upcounsel.com)
 - [Terms of Service](https://commonpaper.com/standards/terms-of-service/) Use the Common Paper Terms of Service for product-led sales of cloud services and SaaS.
+- [Termly](https://termly.io) is an All-in-One Compliance Solution for Small Businesses.
 - [Statement of Work](https://github.com/joelparkerhenderson/statement-of-work) (SOW) Examples. An SOW is a narrative description of the required work. It stipulates the deliverables or services required to fulfill the contract, and it defines the task to be accomplished or services to be delivered in clear, concise and meaningful terms.
 
 ## Legal Firms

@@ -2,7 +2,7 @@
 
 > Helping Startups during the chaotic zero stage.
 
-A reference to tools and resources for startups, from the idea to the seed stage.
+References to help founders kickstart their idea to the zero stage with as little tools as possible and as economical as possible.
 
 ## Development
 
@@ -23,4 +23,6 @@ Install the needed plugins with `npm i -D plugin-name` and follow their usage in
 
 ## Todo
 
-- [x] Search - Algolia?
+- [ ] Tools and Utilities in a Separate Spreadsheet?
+- Done
+	- [x] Search - Algolia?

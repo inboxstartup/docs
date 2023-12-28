@@ -1,12 +1,12 @@
 {
-  "devDependencies": {
-    "markdown-it-footnote": "^3.0.3",
-    "vitepress": "^1.0.0-rc.20",
-    "vitepress-sidebar": "^1.18.0"
-  },
   "scripts": {
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-rc.33",
+    "markdown-it-footnote": "^4.0.0",
+    "vitepress-sidebar": "^1.18.5"
   }
 }

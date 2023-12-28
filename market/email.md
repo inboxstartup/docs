@@ -16,6 +16,8 @@ A [6-part email sequence](https://entrepreneurshandbook.co/this-6-part-email-seq
 - [Ditto Feed](https://dittofeed.com) Open-source Customer Engagement ([source](https://github.com/dittofeed/dittofeed)).
 - [List Monk](https://listmonk.app) - Self-hosted newsletter and mailing list manager.
 - [Loops](https://loops.so) - A better way to send marketing + transactional email.
+- [Mailchimp](https://mailchimp.com)
+- [Mailerlite](https://www.mailerlite.com)
 - [Mailjet](https://www.mailjet.com)
 - [Resend](https://resend.com/) is a simple, elegant interface so you can start sending emails in minutes. ([source](https://github.com/resendlabs))
 - [Rift](https://www.getrift.com) helps you warm up and authenticate domains, send email campaigns and validate contact emails.

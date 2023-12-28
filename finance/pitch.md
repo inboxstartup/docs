@@ -6,6 +6,8 @@ Pitch the opportunity, the market, the team, and why you can’t easily leap fro
 
 If your pitch deck gets leaked, is actually an awesome thing. You might as well have a fantastic Pitch Deck and be prepared for a leak.
 
+“The goal of a pitch is to turn VCs into believers. If you get only one thing right, nail the narrative.” — Tommy Leep, Founding Partner, Jetstream.
+
 ## Pitch Deck
 
 Pitch Deck is one of the key tool to get in touch with Investors, and other interested parties, especially when you are raising funds.
@@ -42,7 +44,7 @@ Counterintuitive as it may be, the __goal of your pitch deck is not to raise mon
 
 - [SeedChecks](https://www.seedchecks.com)
 - [Handwave](https://handwave.ai)
-- [SEA Checks](https://www.seachecks.com) for Startupsprimarily focused on or located in Southeast Asia.
+- [SEA Checks](https://www.seachecks.com) for Startups primarily focused on or located in Southeast Asia.
 
 ---
 
