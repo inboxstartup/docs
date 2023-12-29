@@ -21,3 +21,4 @@ A [6-part email sequence](https://entrepreneurshandbook.co/this-6-part-email-seq
 - [Mailjet](https://www.mailjet.com)
 - [Resend](https://resend.com/) is a simple, elegant interface so you can start sending emails in minutes. ([source](https://github.com/resendlabs))
 - [Rift](https://www.getrift.com) helps you warm up and authenticate domains, send email campaigns and validate contact emails.
+- [Mail-Tester](https://www.mail-tester.com) - test the spammyness of your emails.

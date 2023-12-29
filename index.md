@@ -20,6 +20,7 @@ The resources, tools, and utilities are targeted at Startups from the idea to th
 
 - The Swiss Knife for Entrepreneurs and Founders.
 - Helping entrepreneurs and founders run companies with the right tools during their formative times.
+- If you need encouragement to start a company, don’t do it. — Elon Musk
 
 ---
 
