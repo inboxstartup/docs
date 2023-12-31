@@ -4,9 +4,12 @@
 
 References to help founders kickstart their idea to the zero stage with as little tools as possible and as economical as possible.
 
+- Let’s keep the content to resources that are either free, open-source, or have a free tier for founders to start off.
+- Commercial players are free to sponsor a page, section, or a category.
+
 ## Development
 
-The documentation is powered by [VitePress](https://vitepress.dev). Install the necessary modules to be able to run VitePress. Here is a quick reference for the simplest way to develop locally.
+The documentation is currently powered by [VitePress](https://vitepress.dev). Install the necessary modules to be able to run VitePress. Here is a quick reference for the simplest way to develop locally.
 
 ### Command
 
@@ -23,6 +26,7 @@ Install the needed plugins with `npm i -D plugin-name` and follow their usage in
 
 ## Todo
 
-- [ ] Tools and Utilities in a Separate Spreadsheet?
 - Done
-	- [x] Search - Algolia?
+	- [x] Search - donated free compute power by [Algolia](https://www.algolia.com).
+- Icebox / Archived / Maybe - Who Knows!
+	- [ ] Tools and Utilities in a Separate Spreadsheet?
