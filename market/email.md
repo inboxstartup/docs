@@ -11,14 +11,19 @@ A [6-part email sequence](https://entrepreneurshandbook.co/this-6-part-email-seq
 
 ## Tools
 
-- [Beehiv](https://www.beehiiv.com)
+- [Beehiiv](https://www.beehiiv.com) is a newsletter platform.
 - [Buttondown](https://buttondown.email) is a small, elegant tool for producing newsletters.
 - [Ditto Feed](https://dittofeed.com) Open-source Customer Engagement ([source](https://github.com/dittofeed/dittofeed)).
-- [List Monk](https://listmonk.app) - Self-hosted newsletter and mailing list manager.
-- [Loops](https://loops.so) - A better way to send marketing + transactional email.
+- [List Monk](https://listmonk.app) is a self-hosted newsletter and mailing list manager.
+- [Loops](https://loops.so) for sending marketing + transactional email.
 - [Mailchimp](https://mailchimp.com)
 - [Mailerlite](https://www.mailerlite.com)
 - [Mailjet](https://www.mailjet.com)
 - [Resend](https://resend.com/) is a simple, elegant interface so you can start sending emails in minutes. ([source](https://github.com/resendlabs))
-- [Rift](https://www.getrift.com) helps you warm up and authenticate domains, send email campaigns and validate contact emails.
+
+## Delivery, Spammyness Test, Good Emailer
+
+- [Learn and Test DMARC](https://www.learndmarc.com) does a visual breakdown of how email servers communicate, giving you a better understanding of SPF, DKIM, and DMARC and how they work together.
 - [Mail-Tester](https://www.mail-tester.com) - test the spammyness of your emails.
+- [MECSA](https://mecsa.jrc.ec.europa.eu/en/) is an online tool developed by the [Joint Research Centre (JRC)](https://joint-research-centre.ec.europa.eu/index_en) to assess the security of email communication between providers.
+- [Rift](https://www.getrift.com) helps you warm up and authenticate domains, send email campaigns and validate contact emails.
