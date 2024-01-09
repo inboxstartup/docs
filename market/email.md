@@ -20,6 +20,9 @@ A [6-part email sequence](https://entrepreneurshandbook.co/this-6-part-email-seq
 - [Mailerlite](https://www.mailerlite.com)
 - [Mailjet](https://www.mailjet.com)
 - [Resend](https://resend.com/) is a simple, elegant interface so you can start sending emails in minutes. ([source](https://github.com/resendlabs))
+- [Listmonk](https://listmonk.app) is an [open-source](https://github.com/knadh/listmonk) Self-hosted newsletter and mailing list manager.
+- [Keila](https://www.keila.io) is an [Open Source](https://github.com/pentacent/keila) Newsletter tool.
+- [Send With SES](https://sendwithses.com) cuts the cost and complexity when compared to similar email-sender tools.
 
 ## Delivery, Spammyness Test, Good Emailer
 

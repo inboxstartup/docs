@@ -7,6 +7,7 @@
 - [Traveling Mailbox](https://travelingmailbox.com) - View Your Postal Mail Online Anywhere.
 - [US Global Mail](http://usglobalmail.com) - view, Scan, Ship and Manage Postal Mail From Your Virtual Mailbox.
 - [Virtual Post Mail](https://www.virtualpostmail.com)
+- [Gmailify](https://www.gmailify.com) is a complete email system bringing custom domains to Gmail accounts. Without hacks.
 
 ## Virtual Assistants
 

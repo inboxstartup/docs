@@ -23,6 +23,7 @@
 - [AppSmith](https://www.appsmith.com)
 - [ToolJet](https://www.tooljet.com) - Open-source low-code application development platform for   building and deploying business applications.
 - [Refine](https://refine.dev) build React-based CRUD applications.
+- [WindMill](https://www.windmill.dev) is an [open-source](https://github.com/windmill-labs/windmill) Developer platform for APIs, critical jobs, workflows, data pipelines and UIs.
 
 ## Authentication
 
@@ -33,11 +34,12 @@
 ## Ops & DevOps
 
 - [Infisical](https://infisical.com) is an Open Source, End-to-End Encrypted, tool that lets you securely sync secrets and configs across your team, devices, and infrastructure.
-- [OneUpTime](https://oneuptime.com) OpenSource Status Page, Monitoring, and Incident Response Platform. ([source](https://github.com/oneuptime/oneuptime))
-- [WindMill](https://windmill.dev) Build endpoints, workflows & ETLs, UIs with code only where it matters
-- [TownCrier](https://towncrier.readthedocs.io/) Manage the release notes for your project. ([source](https://github.com/twisted/towncrier))
 - [Macminicolo](https://macminicolo.net)hosts Macs in multiple high-end data centers.
 - [MacMini Vault](https://www.macminivault.com) Enterprise Mac Hosting.
+- [OneUpTime](https://oneuptime.com) OpenSource Status Page, Monitoring, and Incident Response Platform. ([source](https://github.com/oneuptime/oneuptime))
+- [TownCrier](https://towncrier.readthedocs.io/) Manage the release notes for your project. ([source](https://github.com/twisted/towncrier))
+- [UpDown](https://updown.io) is a simple & inexpensive website monitoring.
+- [WindMill](https://windmill.dev) Build endpoints, workflows & ETLs, UIs with code only where it matters
 
 ## Scrappers
 
@@ -57,6 +59,7 @@
 - [UIFy](https://uify.io)
 - [NoLoCo](https://noloco.io) Instantly create customer portals, partner apps & internal tools from your Airtable or Google Sheets.
 - [Stein](https://steinhq.com) a freemium service to use Google Sheets as a back-end database.
+- [PocketBase](https://pocketbase.io) is an [open-source](https://github.com/pocketbase/pocketbase) backend in 1 file.
 - [Podia](https://www.podia.com) build websites, sell courses and digital products, and host communities.
 - [Potion](https://potion.so) Create custom Notion websites in minutes.
 - [Super](https://super.so) Create a website in less than a minute that’s easy to manage and looks great, with instant page loads, SEO optimization, and no-code.
@@ -94,9 +97,6 @@
 	- [Typesense](https://typesense.org) an Open Source Alternative to Algolia.
 - Support
 	- [Deep Chat](https://deepchat.dev) is an [open-source](https://github.com/OvidijusParsiunas/deep-chat) fully customizable AI chat component for your website.
-- Monitoring
-	- [OneUptime](https://oneuptime.com) monitors your website, dashboards, API's, and more and alerts your team when downtime happens.
-	- [UpDown](https://updown.io) is a simple & inexpensive website monitoring.
 - Visualization
 	- [Metabase](https://www.metabase.com)
 	- [Superset](https://superset.apache.org) is an open-source modern data exploration and visualization platform.
