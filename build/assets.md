@@ -27,6 +27,8 @@
 	+ [Stock Snap](https://stocksnap.io)
 	+ [The Stocks](http://thestocks.im)
 	+ [Unsplash](https://unsplash.com)
++ Logo
+	+ [FeyLogos](https://www.feylogos.com)
 - Icons
 	+ [Real Favicon Generator](https://realfavicongenerator.net)
 	+ [Iconbuddy](https://iconbuddy.app) Download, Customize, Edit and Personalize.

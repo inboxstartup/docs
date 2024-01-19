@@ -21,3 +21,4 @@
 - [Starting a Startup](https://www.julian.com/guide/startup/intro) by Julian Shapiro is a handbook to help tech startup founders improve their product, growth, recruiting, and fundraising.
 - [Index Resources](https://www.indexventures.com/resources/) are deeply-researched, practical, and definitive guides to key challenges facing entrepreneurs.
 - Top CEOs trust [Mochary Method](https://mocharymethod.com) for the practical tools they need to be effective leaders, provide top-notch products and services to clients, and lead their industries.
+- Julian Weisser, co-founder of On Deck and an Angel Investor, has an interesting Newsletter of his texts with founders - [Text with Founders](https://textswithfounders.com).

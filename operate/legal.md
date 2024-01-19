@@ -10,18 +10,16 @@
 
 - [Avodocs](https://www.avodocs.com) Free legal documents for startups.
 - [Bonterms](https://bonterms.com) has a lot of Standard Agreements for the Enterprise.
-- [Common Paper](https://commonpaper.com) helps you create and sign contracts faster. Build trusted templates using our standard agreements, then negotiate, sign and manage your contracts in a single workflow
-	- [Standard Agreements](https://commonpaper.com/standards/) are built by expert attorneys to help you close faster.
-	- [SaaS Agreement Toolkit](https://commonpaper.com/resources/saas-agreement-toolkit) Agreements, guides, and benchmark data to help you sell SaaS.
-- Founder Institute
-	- The [Equity Agreement for Service](https://fi.co/ease) ("EASE") is a free legal template for entrepreneurs to offer equity to service providers instead of cash.
-	- The [FAST](https://fi.co/fast) (Founder / Advisor Standard Template) Agreement is used by tens of thousands of entrepreneurs and advisors per year to establish productive working relationships, trading advice and support for a standardized amount of equity.
+- [Common Paper](https://commonpaper.com) helps you create and sign contracts faster. Build trusted templates using our standard agreements, then negotiate, sign and manage your contracts in a single workflow.
+- Founder Institute - [Equity Agreement for Service](https://fi.co/ease), [FAST](https://fi.co/fast) (Founder / Advisor Standard Template).
 - [Founder Template Library](https://odteam.notion.site/Founder-Template-Library-e6b5781f3bb14b129b852e9d5f91d5fd)
 - [Legal Concepts for Startups](https://handbook.clerky.com) is a handbook designed to help founders avoid common areas of confusion, by providing a solid foundation of legal knowledge.
-- [Upcounsel](https://www.upcounsel.com)
-- [Terms of Service](https://commonpaper.com/standards/terms-of-service/) Use the Common Paper Terms of Service for product-led sales of cloud services and SaaS.
-- [Termly](https://termly.io) is an All-in-One Compliance Solution for Small Businesses.
+- [OneNDA](https://www.onenda.org) is a crowd-sourced, open-source non disclosure agreement that has been created by the legal community. And it’s entirely free to use.
+- [Standard Draft](https://www.standarddraft.com) accelerates the process of reaching agreement. Select one of the contract forms and configure it for your transaction in a collaborative two-sided workflow.
 - [Statement of Work](https://github.com/joelparkerhenderson/statement-of-work) (SOW) Examples. An SOW is a narrative description of the required work. It stipulates the deliverables or services required to fulfill the contract, and it defines the task to be accomplished or services to be delivered in clear, concise and meaningful terms.
+- [Termly](https://termly.io) is an All-in-One Compliance Solution for Small Businesses.
+- [Terms of Service](https://commonpaper.com/standards/terms-of-service/) Use the Common Paper Terms of Service for product-led sales of cloud services and SaaS.
+- [Upcounsel](https://www.upcounsel.com)
 
 ## Legal Firms
 
