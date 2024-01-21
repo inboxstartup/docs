@@ -7,6 +7,7 @@ Startups that are looking to be venture-funded are usually not advised to Crowdf
 - [Pigment](https://www.gopigment.com) - The business planning platform for forward-thinking organizations.
 - [Founderpath](https://founderpath.com) turn your monthly subscriptions into upfront cash.
 - [Wave](https://www.waveapps.com) one-stop money management for small business owners (almost free).
+- [Valuation Calculator](https://calculator.textswithfounders.com) is a tool to help you calculate your valuation. From Julian Weisser, CEO of [On Deck](https://www.beondeck.com).
 
 ## Tools
 

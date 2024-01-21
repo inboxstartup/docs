@@ -38,6 +38,8 @@
 	+ [Octicons](https://primer.style/octicons/)
 	+ [OpenMoji](https://hfg-gmuend.github.io/openmoji/)
 	+ [SVG Repo](https://www.svgrepo.com)
+	+ [SVG-Spinners](https://github.com/n3r4zzurr0/svg-spinners) - a collection of 24 x 24 dp SVG spinners.
+	+ [LoaderShip](https://www.loadership.com) is the ultimate CSS-only loader configuration tool that allows you to effortlessly customize and generate stunning loaders for your website. 
 - Illustrations
 	+ [Free Illustrations](https://freeillustrations.xyz)
 	+ [Handz](https://www.handz.design)
