@@ -13,6 +13,9 @@ Startups that are looking to be venture-funded are usually not advised to Crowdf
 
 - [Pilot](https://pilot.com) - Bookkeeping, CFO, and tax services for startups and growing businesses.
 - [Puzzle](https://puzzle.io) - Automated financials, insights, accruals & advice - all in one.
+- [Funding Simulator](https://www.fundingsimulator.com) is an [open-source](https://github.com/dabateam/funding-simulator) tool to help founders understand how modern fundraising (with SAFE) works, and how much dilution you can expect when raising money.
+
+The project is open-source. The code is a mess right now, but it'll get better I promise. You can also help with that.
 
 #### References
 

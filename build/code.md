@@ -36,10 +36,15 @@
 - [Infisical](https://infisical.com) is an Open Source, End-to-End Encrypted, tool that lets you securely sync secrets and configs across your team, devices, and infrastructure.
 - [Macminicolo](https://macminicolo.net)hosts Macs in multiple high-end data centers.
 - [MacMini Vault](https://www.macminivault.com) Enterprise Mac Hosting.
-- [OneUpTime](https://oneuptime.com) OpenSource Status Page, Monitoring, and Incident Response Platform. ([source](https://github.com/oneuptime/oneuptime))
 - [TownCrier](https://towncrier.readthedocs.io/) Manage the release notes for your project. ([source](https://github.com/twisted/towncrier))
-- [UpDown](https://updown.io) is a simple & inexpensive website monitoring.
 - [WindMill](https://windmill.dev) Build endpoints, workflows & ETLs, UIs with code only where it matters
+
+## Monitoring
+
+- [OneUpTime](https://oneuptime.com) OpenSource Status Page, Monitoring, and Incident Response Platform. ([source](https://github.com/oneuptime/oneuptime))
+- [UpDown](https://updown.io) is a simple & inexpensive website monitoring.
+- [OnlineOrNot](https://onlineornot.com)
+- [OpenStatus](https://www.openstatus.dev) [source](https://github.com/openstatusHQ/openstatus) - they also have [Astro Status](https://astro.openstat.us) [source](https://github.com/openstatusHQ/astro-status-page)
 
 ## Scrappers
 
@@ -100,6 +105,10 @@
 - Visualization
 	- [Metabase](https://www.metabase.com)
 	- [Superset](https://superset.apache.org) is an open-source modern data exploration and visualization platform.
+
+## AR / VR
+
+- [ViroReact](https://github.com/NativeVision/viro) is a library for developers to rapidly build augmented reality (AR) and virtual reality (VR) experiences. 
 
 #### References
 

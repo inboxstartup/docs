@@ -17,10 +17,9 @@ Remember that fund-raising is a high-touch interaction. Most investors would **N
 ## Early Fund-Raising Tools
 
 - [AngelList RUV](https://www.angellist.com/ruv) Efficiently raise capital from investors with a single cap table entry. With Roll Up Vehicles™, founders get a single link that allows investors to commit and send funds online—and AngelList takes care of the rest.
-
-
 #### References
 
+- [Raise millions for your startup](https://letsgo.hustlefund.vc/raise-millions) is a book by [Hustle Fund](https://www.hustlefund.vc) will teach you everything you need to know to fundraise from the pre-seed stage all the way to your Series A. 
 - [21 Resources for Funding Your Startup](https://www.justgogrind.com/funding-resources/)
 - [30+ Resources for Funding Your Startup](https://www.vitalize.vc/blog/funding-resources/) from finding investors to colds emails to upgrading your pitch deck and more.
 - [A Tactical Guide to Seed Fundraising](https://www.beondeck.com/post/tactical-seed-fundraising) Learn the playbook and pragmatic tactics for early-stage fundraising from Mike Wilner, a startup founder, advisor, and author of Oversubscribed, a book on seed fundraising.
