@@ -10,3 +10,4 @@
 - [XX Team](https://www.xx.team) 
 - [Y Combinator](https://www.ycombinator.com)
 - Sequoia [Surge](https://www.surgeahead.com) is a rapid scale-up program for startups in India and Southeast Asia.
+- [AI Grant](https://aigrant.com) — accelerator for AI startups.

@@ -17,6 +17,7 @@
 	+ [Nord](https://www.nordtheme.com) is an arctic, north-bluish color palette.
 	+ [Poline](https://meodai.github.io/poline/) is an enigmatic color palette generator, that harnesses the mystical witchcraft of polar coordinates.
 	+ [UI Colors](https://uicolors.app/) is a Tailwind-CSS enabled Color Generator.
+	+ [Tints](https://www.tints.dev/) is 10-color Palette Generator and API for Tailwind CSS ([source](https://github.com/SimeonGriggs/tints.dev))
 - Pictures (Photos)
 	+ [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources) is a collection of links for free stock photography, video and Illustration websites.
 	+ [Image Finder](https://imagefinder.co)
