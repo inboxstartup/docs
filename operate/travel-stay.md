@@ -18,5 +18,8 @@
 ## Tools
 
 - [Airalo](https://www.airalo.com) Stay connected, wherever you travel, at affordable rates eSIMs.
+- [eSIMDB](https://esimdb.com) Search and compare 20,000+ data plans from 40+ eSIM providers.
+- [Firsty](https://www.firsty.app) free eSIM with a paid add-on (under-review as of Feb 26, 2024).
+- [Mobi Matter](https://mobimatter.com) travel eSIM.
 - [Atlys](https://www.atlys.com) - Get Your Visa on Time.
 - [VisaFrog](https://visafrog.com)

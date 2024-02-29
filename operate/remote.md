@@ -11,3 +11,5 @@
 	- Use nested numbered lists to provide feedback.
 	- Push for a decision and document the decision.
 - [Embracing asynchronous communication](https://about.gitlab.com/company/culture/all-remote/asynchronous/) - article from Gitlab.
+- [Pop](https://pop.com/) is a Blazing-fast screen sharing, multiplayer control, crystal-clear voice and high-quality video.
+- [Multi](https://multi.app) helps teams build software faster, together.  Guide, annotate, or take control, in any app.

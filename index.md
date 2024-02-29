@@ -34,6 +34,7 @@ The content here is somewhat random and unorganized. You must figure out and pic
 - [Founders Book](https://foundersbook.co) is a knowledge base to help you build and launch your startup with tools and resources for first-time founders and early-stage startups.
 - [Founders Resources](https://www.founderresources.io) has curated content & templates for every step in your startup journey.
 - [Founder Resources Hub](https://ForEveryFounder.com) by [Sasha Orloff](https://www.linkedin.com/in/sashaorloff/) of [Puzzle](https://puzzle.io) is a list of resources designed to help you start and scale your startup easier.
+	- For New Startups, they have a nice [Checklist](https://foreveryfounder.com/new-startup-checklist).
 - [Free for Dev](https://github.com/jixserver/free-for-dev) is a list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev.
 - [MarktStash](https://marktstash.com) is a newsletter for growth strategies shared by indie founders in your inbox every week.
 - [On Deck's Stack](https://stack.beondeck.com) - shortcut to going from 0 to 1.
