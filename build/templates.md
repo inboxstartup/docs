@@ -16,6 +16,7 @@
 - [Tailwind Awesome](https://www.tailwindawesome.com) is a curated list of the best Tailwind templates & UI kits
 - [Tailwind Component Library](https://www.tailbits.com) is a library of UI components that are made with Tailwind CSS.
 - [TailwindUI](https://tailwindui.com) is a beautifully designed, expertly crafted components and templates, built by the makers of [Tailwind CSS](https://tailwindcss.com).
+- [Tailus](https://tailus.io) has customizable Tailwind Templates.
 - [Tremor](https://www.tremor.so) is a React library to build dashboards.
 - [UntitledUI](https://www.untitledui.com)  is a UI kit and design system for Figma.
 - [Webflow Cloneable Component Library](https://www.flowponent.com) is a curated list of Webflow cloneable components.
