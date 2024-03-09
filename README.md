@@ -23,10 +23,3 @@ Install the needed plugins with `npm i -D plugin-name` and follow their usage in
 
 - [vitepress-sidebar](https://github.com/jooy2/vitepress-sidebar)
 - [markdown-it-footnote](https://github.com/markdown-it/markdown-it-footnote)
-
-## Todo
-
-- Done
-	- [x] Search - donated free compute power by [Algolia](https://www.algolia.com).
-- Icebox / Archived / Maybe - Who Knows!
-	- [ ] Tools and Utilities in a Separate Spreadsheet?

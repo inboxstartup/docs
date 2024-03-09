@@ -46,7 +46,16 @@ Counterintuitive as it may be, the __goal of your pitch deck is not to raise mon
 - [Handwave](https://handwave.ai)
 - [SEA Checks](https://www.seachecks.com) for Startups primarily focused on or located in Southeast Asia.
 
----
+## Pitch Deck Designers
+
+- [Deck Doctors](https://www.deckdoctors.xyz)
+- [Deck Support](https://www.decksupport.xyz)
+- [Presentation Mode](http://presentationmode.co)
+- [Ultralight Decks](https://www.ultralightdecks.com)
+- [Zacht Studio](https://www.zacht.studio)
+- [Laura Brunow](https://laurabrunow.com/) `freelancer`
+- [Paola Diaz Janna](https://maas.studio/work) `freelancer`
+- [Vanessa Koch](https://www.paladarstudio.com) `freelancer`
 
 #### References
 
