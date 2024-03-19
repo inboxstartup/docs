@@ -16,6 +16,7 @@
 - [Radar](https://radar.com) - Geofencing, geocoding, and maps, all in a single cost-effective platform.
 - [Supabase](https://supabase.com) is an open source [Firebase](https://firebase.google.com) alternative. Start your project with a Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, and Storage.
 - [Novu](https://github.com/novuhq/) is the open-source notification infrastructure.
+- [OpenTofu](https://opentofu.org) is a fork of Terraform that is open-source, community-driven, and managed by the Linux Foundation.
 
 ## Internal Tools / CRUD
 
@@ -77,6 +78,7 @@
 	- [NoCodeDB](https://www.nocodb.com) is an open source NoCode platform that turns any database into a smart spreadsheet.
 	- [Relatable](https://www.retable.io) Turn your spreadsheets into smart database apps.
 	- [Seatable](https://seatable.io/) As simple as Excel, with the power of a database.
+	- [Teable](https://teable.io)  is an [open-source](https://github.com/teableio/teable) No-code database - Postgres Airtable Fusion.
 	- [UnDB](https://www.undb.xyz) Private first, unified, self-hosted no code database. ([source](https://github.com/undb-xyz/undb))
 - User & Members Communities
 	+ [Circle](https://circle.so) The all-in-one community platform for creators &  brands.

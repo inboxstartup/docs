@@ -17,6 +17,7 @@ Remember that fund-raising is a high-touch interaction. Most investors would **N
 ## Early Fund-Raising Tools
 
 - [AngelList RUV](https://www.angellist.com/ruv) Efficiently raise capital from investors with a single cap table entry. With Roll Up Vehicles™, founders get a single link that allows investors to commit and send funds online—and AngelList takes care of the rest.
+- [What valuation should I raise at?](https://calculator.textswithfounders.com) is an interactive calculator for your valuation and amount to raise.
 #### References
 
 - [Raise millions for your startup](https://letsgo.hustlefund.vc/raise-millions) is a book by [Hustle Fund](https://www.hustlefund.vc) will teach you everything you need to know to fundraise from the pre-seed stage all the way to your Series A. 
