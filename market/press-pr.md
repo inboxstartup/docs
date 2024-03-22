@@ -6,6 +6,7 @@
 - [Press Notify](https://pressnotify.com)
 - [Promote Hour](https://www.promotehour.com)
 - [Startup Ranking](https://www.startupranking.com)
+- [SubmitList](https://submitlist.net)is dedicated to collecting a directory of resources for submitting startup projects, including websites, communities, newsletters, and more. ([source](https://github.com/BossChow/ultimate-submit-list))
 
 ## Product Hunt
 

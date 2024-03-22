@@ -72,7 +72,7 @@ export default defineConfig({
       // sortMenusByName: false,
       // sortMenusByFrontmatterOrder: true,
       // sortMenusOrderByDescending: false,
-      // sortMenusOrderNumerically: false,
+      // sortMenusOrderNumericallyFromTitle: false,
       manualSortFileNameByPriority: [ 'idea', 'build', 'finance', 'sell', 'market', 'enhance', 'operate', 'learn' ],
       excludeFiles: ['README.md'],
       excludeFolders: ['node_modules', 'public', 'tmp'],
