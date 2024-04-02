@@ -88,14 +88,15 @@
 	+ [Mighty](https://www.mightynetworks.com)
 	+ [Outverse](https://www.outverse.com)
 - Forms
-	+ [SendFly](https://sendfly.io) $15 /year for everything unlimited.
-	+ [Formspree](https://formspree.io)
 	+ [Formbricks](https://formbricks.com) is an [Open Source](https://github.com/formbricks/formbricks) Survey Suite.
+	+ [Formspree](https://formspree.io)
+	+ [HeyForm](https://heyform.net) is an [open-source](https://github.com/heyform/heyform) form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls.
+	+ [PaperForm](https://paperform.co)
+	+ [SendFly](https://sendfly.io) $15 /year for everything unlimited.
+	+ [Snoop Forms](https://snoopforms.com) (the Open Source TypeForm alternative)
+	+ [Survey Monkey](https://www.surveymonkey.com)
 	+ [Tally](https://tally.so)
 	+ [Typeform](https://www.typeform.com)
-	+ [Survey Monkey](https://www.surveymonkey.com)
-	+ [Snoop Forms](https://snoopforms.com) (the Open Source TypeForm alternative)
-	+ [PaperForm](https://paperform.co)
 - Info
 	+ [IP Guide](https://ip.guide) is your guide to internet numbers.
 - Search
