@@ -31,6 +31,7 @@
 - [Auth.js](https://authjs.dev) is an open source community project.
 - [SuperTokens](https://supertokens.com) ([source](https://github.com/supertokens))
 - [Stytch](https://stytch.com) The authentication and authorization toolkit for developers.
+- [Stack](https://stack-auth.com) the [open-source](https://github.com/stackframe-projects/stack) user management service.
 
 ## Ops & DevOps
 
@@ -105,6 +106,7 @@
 	- [Typesense](https://typesense.org) an Open Source Alternative to Algolia.
 - Support
 	- [Deep Chat](https://deepchat.dev) is an [open-source](https://github.com/OvidijusParsiunas/deep-chat) fully customizable AI chat component for your website.
+	- [ChatWoot](https://www.chatwoot.com) is an [Open-Source](https://github.com/chatwoot/chatwoot) live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc.
 - Visualization
 	- [Metabase](https://www.metabase.com)
 	- [Superset](https://superset.apache.org) is an open-source modern data exploration and visualization platform.

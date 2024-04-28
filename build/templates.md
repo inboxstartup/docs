@@ -2,6 +2,7 @@
 
 - [Awesome SaaS Boilerplates](https://github.com/smirnov-am/awesome-saas-boilerplates).
 - [DaisyUI](https://daisyui.com) adds component class names to Tailwind CSS.
+- [DashPress](https://dashpress.io) is an [open-source](https://github.com/dashpresshq/dashpress) template to generate powerful admin apps without writing a single line of code.
 - [Float UI](https://floatui.com) beautiful, responsive UI components and website templates with modern design, 100% free and open-source.
 - [Flowbite](https://flowbite.com) is an open-source library of over 600+ UI components, sections, and pages built with the utility classes from Tailwind CSS and designed in Figma.
 - [Free Figma Component Library](https://www.figcomponents.com) is a curated list of Figma components.

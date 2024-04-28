@@ -6,6 +6,7 @@
 - Audio
 	+ [CC Hound](https://cchound.com) 100% free, quality CC audio.
 	+ [Epidemic Sound](https://www.epidemicsound.com)
+	+ [Stocktune](https://stocktune.com) - Free Music, Endless Possibilities.
 - Color
 	+ [Color Designer](https://colordesigner.io)
 	+ [Color Scheme Generator](https://adevade.github.io/color-scheme-generator/)
@@ -25,6 +26,7 @@
 	+ [Photopea](https://www.photopea.com) is a free online photo editor.
 	+ [PhotoRoom](https://www.photoroom.com) photo editing software powerful enough to create outstanding images yet simple enough to be used without any training, such as removing backgrounds from images or removing objects.
 	+ [Pixabay](https://pixabay.com)
+	+ [StockCake](https://stockcake.com) AI-generated free imagery.
 	+ [Stock Snap](https://stocksnap.io)
 	+ [The Stocks](http://thestocks.im)
 	+ [Unsplash](https://unsplash.com)

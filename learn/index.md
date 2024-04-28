@@ -5,10 +5,10 @@
 ## Communities, Cohorts, Collectives
 
 - [On Deck](https://www.beondeck.com) is a collective of founders and their earliest supporters offering highly-curated connections and introductions to co-founders, resources, and capital.
-- [Section4](https://www.section4.com) Business education for builders, disrupters, doers, changemakers, builders. Hands-on experience taught by top professors.
+- [Section School](https://www.sectionschool.com) (was [Section4](https://www.section4.com)) Business education for builders, disrupters, doers, changemakers, builders. Hands-on experience taught by top professors.
 - [SaaS Academy](https://www.saasacademy.com) has programs to help founders scale rapidly, improve their business operations.
 
-## References
+## References (Need to Sort ’EM)
 
 - A [startup miracle](https://blog.eladgil.com/p/startups-miracles) is the key difficult thing you need to pull off for your startup to work. ([archive](https://archive.ph/qqzBG))
 - [Fast](https://patrickcollison.com/fast) Some examples of people quickly accomplishing ambitious things together. ([archive](https://archive.ph/q5iRD))
@@ -22,3 +22,5 @@
 - [Index Resources](https://www.indexventures.com/resources/) are deeply-researched, practical, and definitive guides to key challenges facing entrepreneurs.
 - Top CEOs trust [Mochary Method](https://mocharymethod.com) for the practical tools they need to be effective leaders, provide top-notch products and services to clients, and lead their industries.
 - Julian Weisser, co-founder of On Deck and an Angel Investor, has an interesting Newsletter of his texts with founders - [Text with Founders](https://textswithfounders.com).
+- [The Arc Product-Market Fit Framework](https://www.sequoiacap.com/article/pmf-framework/) by Sequoia Capital ([archive](https://archive.ph/4cHjY))
+- [A Framework to Help B2B Founders Find Product-Market Fit](https://pmf.firstround.com/) by First Round
