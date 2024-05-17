@@ -39,7 +39,6 @@
 [Cactus](https://cactus.chat) federated comment system, based on the Matrix protocol.
 [Canva](https://www.canva.com/)
 [CapTable](https://captable.io/) by [LTSE](https://ltse.com/)
-[ChartMogul](https://www.chartmogul.com)
 [ChatWoot](https://www.chatwoot.com/) [Open-source](https://github.com/chatwoot/chatwoot) customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc.
 [Circle](https://circle.so)
 [Clarity](https://clarity.microsoft.com) is a free, easy-to-use tool that captures how real people actually use your site. Setup is easy and you'll start getting data in minutes.
@@ -281,7 +280,6 @@ getporter.dev A modern app platform in your own cloud
 http://lattice.com, complete people success platform that helps you put people first.
 http://waldo.io, Automated mobile testing done right
 https://boxyhq.com BoxyHQ helps startups enable enterprise features in any SaaS app with just a few lines of code. Integrate SAML, Audit Logs, Privacy Vault, and Role Based Access in minutes.
-https://chartbrew.com
 https://conxhub.com/superphone/virtual-phone-numbers/ (UK)
 https://databox.com
 https://datastudio.google.com

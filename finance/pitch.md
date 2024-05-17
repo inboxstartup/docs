@@ -42,9 +42,10 @@ Counterintuitive as it may be, the __goal of your pitch deck is not to raise mon
 
 ## Submit your Pitch Deck
 
-- [SeedChecks](https://www.seedchecks.com)
+- [Deep Checks](https://www.deepchecks.vc)
 - [Handwave](https://handwave.ai)
 - [SEA Checks](https://www.seachecks.com) for Startups primarily focused on or located in Southeast Asia.
+- [SeedChecks](https://www.seedchecks.com)
 
 ## Pitch Deck Designers
 

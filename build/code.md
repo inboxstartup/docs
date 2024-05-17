@@ -41,6 +41,12 @@
 - [TownCrier](https://towncrier.readthedocs.io/) Manage the release notes for your project. ([source](https://github.com/twisted/towncrier))
 - [WindMill](https://windmill.dev) Build endpoints, workflows & ETLs, UIs with code only where it matters
 
+## Charts
+
+- [Apache ECharts](https://echarts.apache.org) is an Open Source JavaScript Visualization.
+- [ChartMogul](https://www.chartmogul.com)
+- [Chart Brew](https://chartbrew.com)
+
 ## Monitoring
 
 - [OneUpTime](https://oneuptime.com) OpenSource Status Page, Monitoring, and Incident Response Platform. ([source](https://github.com/oneuptime/oneuptime))

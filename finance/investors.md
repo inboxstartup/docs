@@ -2,29 +2,45 @@
 
 Publicly available list of Investors.
 
+- [400+ US VCs](https://app.folk.app/shared/US-VCs-oc71Oi94yB9vwbfh1XWIQPHTAGQE7FQ1)
+- [4WARD Climate Investors](https://4ward.vc/climate-investor-overview/)
 - [700+ Venture Capitalists](https://www.fundz.net/venture-capital-firms)
 - [Active Investor List](https://docs.google.com/spreadsheets/d/1tugiIXvkprHMrtLX15GC5ZryXX2g0y3RQzmP7B2KCFw/) by Trace Cohen
+- [Active Investors by Trace Cohen](https://docs.google.com/spreadsheets/d/1tugiIXvkprHMrtLX15GC5ZryXX2g0y3RQzmP7B2KCFw/)
+- [Active Pre-Seed Investors](https://airtable.com/appXJdMe8st7T8K7q/shrSPNzYoSRhJBCbv/tbl216CjzNssfsDpB)
+- [Active VCs](https://airtable.com/appYlRDIZLwvRPsRh/shrkohpeE2AO2ldeq/tbl5Q8N7NuW22z5Bt)
+- [African Angels](https://docs.google.com/spreadsheets/d/1I0pbsz5Zfsnlp821UM4fcwgVxk4ojMw2SQl5ktIzxQ0/)
+- [Angel Investors from Diverse Backgrounds](https://airtable.com/app3vlECCxsoA0I2Q/shrNoRaOvuL9YPGd1/tblqGWGDzEwf8OnGL)
 - [Angels](https://angels.firstround.com/) by First Round
 - [Awesome open-source VCs](https://github.com/CrowdDotDev/awesome-oss-investors)
 - [Climate Capital](https://climatescape.org/capital/) from ClimateScape
 - [Deep Tech Investors](https://docs.google.com/spreadsheets/d/1BqNO7l4kXRhjG5jcB89FwRlhuRKBwBKtV7ZHwwLjPhk/)
 - [Euro Tech VC Funds](https://docs.google.com/spreadsheets/d/1cRdFZhXLqat04xe7qO-p48wXQ00GWJyrzgHSb3YVIp0/)
+- [Family Offices investing Pre-Seed](https://airtable.com/app3iFeihxOixsUlf/shrWjYGLAHKETll5B/tblOCFaxHvjb8etrV)
+- [FoodTech Investors](https://airtable.com/appXQfiwpHFCoRunu/shrV2xlxgzUycjA6S/tblozf5EEO1yt66kh)
 - [Gritt](https://www.gritt.io) - Search for Angel Investors
 - [HealthTech Investors](https://airtable.com/shrdqT0dM0vaIeO9u/tblyAK2VE4dS8O4dZ/viwiaTchRnMLqZqsS)
 - [Impact Investors](https://impactassets.org/ia50/)
 - [Investor DB](https://mercury.com/investor-db) by Mercury
 - [Investor List](https://airtable.com/shrkohpeE2AO2ldeq/tbl5Q8N7NuW22z5Bt) from Docsend
 - [List of Angel Networks](https://www.mountsideventures.com/list-of-angel-networks)
-- [List of VCs](https://www.mountsideventures.com/list-of-venture-capital-investors) from Mountside Ventures
+- [The Investor Database](https://www.mountsideventures.com/list-of-venture-capital-investors) by Mountside Ventures
 - [Mercury’s Investor Database](https://mercury.com/investor-database)
-- Papermark’s [Open Investor Database](https://investors.papermark.io/)
+- [New VC funds at / below $200M](https://docs.google.com/spreadsheets/d/1ebGZ6-ivf_3woBGC4Kz_3217DhjGsefoRu_5iP3nuFQ/)
+- [No Warm Intro Required](https://airtable.com/appS9cG0ccqmQM111/shrsDIW1FMuA5cI9P/tblaahhCCc2v0065Q/viwdm9nLc4Aj3sHJO)
+- [SaaS Angel Investors](https://airtable.com/app3iFeihxOixsUlf/shruI4jrfruuYyT87/tblVgubAZM7rDibub) (Global)
 - [SaaS Investors](https://ventroduce.com/investor-index)
 - [Seed Checks](https://www.seedchecks.com)
 - [Stonks’ Active & Influential Angel Investors of 2022](https://stonks.com/angels)
-- [Ultimate Climate Investor Guide](https://4ward.vc/climate-investor-overview/) from 4Ward.VC
-- [VC and Angel Investor Database](https://ramp.com/investor-database/vc-angel-list) from Ramp
-- [VCs in New York](https://www.nycfounderguide.com/investors)
-- [VC Sheet](https://www.vcsheet.com) curated sheets of VC funds and investors.
-- VC Stack - [Angels](https://vcstack.com/angels.html), [VC](https://vcstack.com/venture-capitalists.html)
-- Visible.VC’s [Connect - Investors](https://connect.visible.vc/investors)
+- [The Ultimate List of 750+ Seed Funds](https://docs.google.com/spreadsheets/d/1VVr-z3ujLzWZGHX3-3C9C9dBVtnjALa3_cr1xGlDPmE/)
 - [Unsorted](https://airtable.com/shrCBp3nTD14XU6uS/tblnnbgnMuvE62BYI)
+- [US Founders who invest in others as Angels](https://airtable.com/app3iFeihxOixsUlf/shrhhH3j52CyXkIP9/tblpqS8tBdY8kzmxX)
+- [US Women Angels](https://airtable.com/appytsOoxXWmjvQ2R/shrzWIHSoK0gvE82D/tble9siT6RDtZNc39)
+- [VC and Angel Investor Database](https://ramp.com/investor-database/vc-angel-list) from Ramp
+- [VC Fund Database for Early-Stage Startups](https://www.airtable.com/universe/expFo1yNQPYwhey5n/vc-funds-for-early-stage-startups)
+- [VC Sheet](https://www.vcsheet.com) curated sheets of VC funds and investors.
+- [VCs in New York](https://www.nycfounderguide.com/investors)
+- [Worldwide ICO or Crypto Angel Investors](https://docs.google.com/spreadsheets/d/1SJEYef7U3j75d9Z4t967Ta6jlRVQcubGJqy-gPuWFY4/)
+- [Open Investor Database](https://investors.papermark.io/) from Papermark
+- [Angels](https://vcstack.com/angels.html), [VC](https://vcstack.com/venture-capitalists.html) by VC Stack
+- [Connect - Investors](https://connect.visible.vc/investors) at Visible.VC
