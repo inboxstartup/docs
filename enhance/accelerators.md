@@ -12,3 +12,5 @@
 - The [50+ Best Startup Accelerators](https://www.growthmentor.com/blog/best-startup-accelerators/) in the World (Sorted by Country).
 - [XX Team](https://www.xx.team) 
 - [Y Combinator](https://www.ycombinator.com)
+
+[A list of 1000+ Accelerators](https://app.folk.app/shared/All-accelerators-rw0kuUNqtzl6j6dDQquoZTYF6MFKIQHo)
