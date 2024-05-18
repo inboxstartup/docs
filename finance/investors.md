@@ -50,6 +50,7 @@ Publicly available list of Investors. These are listed `as is` and there will be
 - [SaaS Angel Investors](https://airtable.com/app3iFeihxOixsUlf/shruI4jrfruuYyT87/tblVgubAZM7rDibub) (Global)
 - [SaaS Investors](https://ventroduce.com/investor-index)
 - [Seed Checks](https://www.seedchecks.com)
+- [Shareable VC List](https://airtable.com/appDRBo3C0PfB0bYB/shrjqWLBMA9OR2IUr/tblVk6Dg6tBUeNIbT) by [Jake Vander Ploeg](https://www.linkedin.com/in/jake-vander-ploeg-59652426/)
 - [Stonks’ Active & Influential Angel Investors of 2022](https://stonks.com/angels)
 - [The Investor Database](https://www.mountsideventures.com/list-of-venture-capital-investors) by Mountside Ventures
 - [The Ultimate List of 750+ Seed Funds](https://docs.google.com/spreadsheets/d/1VVr-z3ujLzWZGHX3-3C9C9dBVtnjALa3_cr1xGlDPmE/)
