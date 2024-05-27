@@ -11,12 +11,13 @@
 - [Lago](https://www.getlago.com) offers a self-hosted and cloud, scalable and modular architecture for metering and usage-based billing, at every stage of your company.
 - [LaudSpeaker](https://laudspeaker.com) Open Source Cross-Channel Messaging. Email, Slack + more, automated. ([source](https://github.com/laudspeaker/laudspeaker))
 - [Nango](https://www.nango.dev) - multi product integrations.
+- [NoCoBase](https://www.nocobase.com) is a self-hosted and scalable [open-source](https://github.com/nocobase/nocobase) no-code development platform to make digitalization faster, easier and cheaper.
+- [Novu](https://github.com/novuhq/) is the open-source notification infrastructure.
+- [OpenTofu](https://opentofu.org) is a fork of Terraform that is open-source, community-driven, and managed by the Linux Foundation.
 - [Overture](https://overturemaps.org) is for developers who build map services or use geospatial data.
 - [PocketBase](https://pocketbase.io) Open Source backend for your next SaaS and Mobile app in 1 file.
 - [Radar](https://radar.com) - Geofencing, geocoding, and maps, all in a single cost-effective platform.
 - [Supabase](https://supabase.com) is an open source [Firebase](https://firebase.google.com) alternative. Start your project with a Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, and Storage.
-- [Novu](https://github.com/novuhq/) is the open-source notification infrastructure.
-- [OpenTofu](https://opentofu.org) is a fork of Terraform that is open-source, community-driven, and managed by the Linux Foundation.
 
 ## Internal Tools / CRUD
 
