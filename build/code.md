@@ -83,7 +83,7 @@
 	- [Baserow](https://baserow.io) Open source no-code database and Airtable alternative.
 	- [Grist](https://www.getgrist.com) is a modern, [open source](https://github.com/gristlabs) spreadsheet that goes beyond the grid.
 	- [Leaptable](https://leaptable.co) is the fastest way to build, deploy, and manage LLM-powered agents on tabular data (dataframes, SQL tables and Spreadsheets). ([source](https://github.com/peterwnjenga/leaptable))
-	- [NoCodeDB](https://www.nocodb.com) is an open source NoCode platform that turns any database into a smart spreadsheet.
+	- [NoCodeDB](https://www.nocodb.com) is an [open source](https://github.com/nocodb/nocodb) NoCode platform that turns any database into a smart spreadsheet.
 	- [Relatable](https://www.retable.io) Turn your spreadsheets into smart database apps.
 	- [Seatable](https://seatable.io/) As simple as Excel, with the power of a database.
 	- [Teable](https://teable.io)  is an [open-source](https://github.com/teableio/teable) No-code database - Postgres Airtable Fusion.

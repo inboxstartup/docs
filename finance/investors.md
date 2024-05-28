@@ -10,7 +10,7 @@ Publicly available list of Investors. These are listed `as is` and there will be
 - [300+ Australian Early-Stage Investors](https://app.folk.app/shared/+300-Australian-Early-Stage-Investors-iqQ0GprcHdHhscNEJ7Ph8bv9m3ViHAUv)
 - [350+ most active Angel Investors in USA](https://app.folk.app/shared/+350-most-active-Angel-Investors-in-USA-jOLUPZiPY4Ddv0WTJSXbtawkOk9smewT)
 - [400+ US VCs](https://app.folk.app/shared/US-VCs-oc71Oi94yB9vwbfh1XWIQPHTAGQE7FQ1)
-- [4WARD Climate Investors](https://4ward.vc/climate-investor-overview/)
+- [4WARD Climate Investors](https://4ward.vc/climate-investor-overview/) (view on [AirTable](https://airtable.com/appxrEAiMKtrbpWRH/shrpbmSGmclpGLvKk/tbljdMeJZ7HbP07g3))
 - [700+ Venture Capitalists](https://www.fundz.net/venture-capital-firms)
 - [750+ Seed Funds](https://app.folk.app/shared/The-Ultimate-List-of-750+-Seed-Funds-9nq0OLsg2GD7Xjeervb2LmsyBsRaoKkl)
 - [Active Investor List](https://docs.google.com/spreadsheets/d/1tugiIXvkprHMrtLX15GC5ZryXX2g0y3RQzmP7B2KCFw/) by Trace Cohen
@@ -26,10 +26,13 @@ Publicly available list of Investors. These are listed `as is` and there will be
 - [Best family offices around the world](https://app.folk.app/shared/Family-Offices%27-Founders-I4z0LFbIhsQDbROUydXD1Eou9mvwIydC)
 - [Climate Capital](https://climatescape.org/capital/) from ClimateScape
 - [Connect - Investors](https://connect.visible.vc/investors) at Visible.VC
+- [Consumer Tech Investors around the World](https://app.folk.app/shared/Consumer-Tech-Investors-around-the-world-wAABHKwuBJwVIywTQXQfmeBFIlH52mZA)
 - [Corporate venture arms](https://app.folk.app/shared/Corporate-Venture-Arms-INCBA2h5vhjU4fUgoIjFDF2LzhUw6NDz)
 - [Data Investors In Asia](https://app.folk.app/shared/Data-Investors-In-Asia-QoncCeUGlZRwm1ITNEJ0kvre3X7jV2VW)
 - [Deep Tech Investors](https://docs.google.com/spreadsheets/d/1BqNO7l4kXRhjG5jcB89FwRlhuRKBwBKtV7ZHwwLjPhk/)
+- [Early Stage India Angel Investors](https://app.folk.app/shared/Early-Stage-Angel-Investors-1ce7gQ9AtU5OhKfBsGQOIXbnlXudUv3h)
 - [Early Stage Web 3 US Investors](https://app.folk.app/shared/Early-Stage-Web-3-US-Investors-mqkYyzucURVhDCNRArmUHmz48h91UBnM)
+- [EdTech Investors in Asia](https://app.folk.app/shared/EdTech-Investors-In-Asia-PC0OCM23KyjpulLjp4ulgq6roZStSYdy)
 - [Euro Tech VC Funds](https://docs.google.com/spreadsheets/d/1cRdFZhXLqat04xe7qO-p48wXQ00GWJyrzgHSb3YVIp0/)
 - [Family Offices investing Pre-Seed](https://airtable.com/app3iFeihxOixsUlf/shrWjYGLAHKETll5B/tblOCFaxHvjb8etrV)
 - [FoodTech Investors](https://airtable.com/appXQfiwpHFCoRunu/shrV2xlxgzUycjA6S/tblozf5EEO1yt66kh)
