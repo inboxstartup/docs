@@ -18,6 +18,7 @@
 - [PocketBase](https://pocketbase.io) Open Source backend for your next SaaS and Mobile app in 1 file.
 - [Radar](https://radar.com) - Geofencing, geocoding, and maps, all in a single cost-effective platform.
 - [Supabase](https://supabase.com) is an open source [Firebase](https://firebase.google.com) alternative. Start your project with a Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, and Storage.
+- [Fusio](https://www.fusio-project.org) is an [open source](https://github.com/apioo/fusio) API management platform which helps to create innovative API solutions.
 
 ## Internal Tools / CRUD
 
@@ -114,6 +115,7 @@
 - Support
 	- [Deep Chat](https://deepchat.dev) is an [open-source](https://github.com/OvidijusParsiunas/deep-chat) fully customizable AI chat component for your website.
 	- [ChatWoot](https://www.chatwoot.com) is an [Open-Source](https://github.com/chatwoot/chatwoot) live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc.
+	- [LaudSpeaker](https://laudspeaker.com) is an [open source](https://github.com/laudspeaker/laudspeaker) customer engagement platform.
 - Visualization
 	- [Metabase](https://www.metabase.com)
 	- [Superset](https://superset.apache.org) is an open-source modern data exploration and visualization platform.
