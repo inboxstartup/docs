@@ -5,8 +5,8 @@
     "docs:preview": "vitepress preview"
   },
   "devDependencies": {
-    "vitepress": "^1.0.1",
+    "vitepress": "^1.2.3",
     "markdown-it-footnote": "^4.0.0",
-    "vitepress-sidebar": "^1.21.0"
+    "vitepress-sidebar": "^1.23.2"
   }
 }
