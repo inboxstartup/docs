@@ -31,6 +31,7 @@ Publicly available list of Investors. These are listed `as is` and there will be
 - [Data Investors In Asia](https://app.folk.app/shared/Data-Investors-In-Asia-QoncCeUGlZRwm1ITNEJ0kvre3X7jV2VW)
 - [Deep Tech Investors](https://docs.google.com/spreadsheets/d/1BqNO7l4kXRhjG5jcB89FwRlhuRKBwBKtV7ZHwwLjPhk/)
 - [Early Stage India Angel Investors](https://app.folk.app/shared/Early-Stage-Angel-Investors-1ce7gQ9AtU5OhKfBsGQOIXbnlXudUv3h)
+- [Early Stage Venture Funds - India](https://airtable.com/appRGXvo8Fw5eQtZ3/shrXceaiWM7mDxSDU/tblfqAJhWCLKTC5kt/viwkwR6wAHuMnSZQj)
 - [Early Stage Web 3 US Investors](https://app.folk.app/shared/Early-Stage-Web-3-US-Investors-mqkYyzucURVhDCNRArmUHmz48h91UBnM)
 - [EdTech Investors in Asia](https://app.folk.app/shared/EdTech-Investors-In-Asia-PC0OCM23KyjpulLjp4ulgq6roZStSYdy)
 - [Euro Tech VC Funds](https://docs.google.com/spreadsheets/d/1cRdFZhXLqat04xe7qO-p48wXQ00GWJyrzgHSb3YVIp0/)
@@ -42,7 +43,7 @@ Publicly available list of Investors. These are listed `as is` and there will be
 - [Impact Investors](https://impactassets.org/ia50/)
 - [Investor DB](https://mercury.com/investor-db) by Mercury
 - [Investor List](https://airtable.com/shrkohpeE2AO2ldeq/tbl5Q8N7NuW22z5Bt) from Docsend
-- [Investors, accelerators, and resources supporting underrepresented founders and funders](https://www.airtable.com/universe/expzgDgsO8QLDmvdt/list-of-investors-accelerators-and-resources-supporting-underrepresented-founders-and-funders) curated by [Anna Phan](https://www.linkedin.com/in/annaphan/)
+- [Investors, accelerators, and resources](https://www.airtable.com/universe/expzgDgsO8QLDmvdt/list-of-investors-accelerators-and-resources-supporting-underrepresented-founders-and-funders)  supporting underrepresented founders and funders - curated by [Anna Phan](https://www.linkedin.com/in/annaphan/)
 - [Les VC Francais - 399 options pour lever des fonds](https://app.folk.app/shared/French-VC%27s-mD2puZZ9RyakVW7ATq6VaFaFme7Cjjf9)
 - [List of Angel Networks](https://www.mountsideventures.com/list-of-angel-networks)
 - [Mercury’s Investor Database](https://mercury.com/investor-database)
@@ -56,7 +57,7 @@ Publicly available list of Investors. These are listed `as is` and there will be
 - [Shareable VC List](https://airtable.com/appDRBo3C0PfB0bYB/shrjqWLBMA9OR2IUr/tblVk6Dg6tBUeNIbT) by [Jake Vander Ploeg](https://www.linkedin.com/in/jake-vander-ploeg-59652426/)
 - [Stonks’ Active & Influential Angel Investors of 2022](https://stonks.com/angels)
 - [The Investor Database](https://www.mountsideventures.com/list-of-venture-capital-investors) by Mountside Ventures
-- [The Ultimate List of 750+ Seed Funds](https://docs.google.com/spreadsheets/d/1VVr-z3ujLzWZGHX3-3C9C9dBVtnjALa3_cr1xGlDPmE/)
+- [The Ultimate List of 750+ Seed Funds](https://docs.google.com/spreadsheets/d/1VVr-z3ujLzWZGHX3-3C9C9dBVtnjALa3_cr1xGlDPmE/) by Matt Estes
 - [Top 300 Angel Investors in Middle East](https://app.folk.app/shared/Top-300-Angel-Investors-in-Middle-East-VVO9GzjSYl8wi6WMwIrsBC9EFhKAegYZ)
 - [Unsorted](https://airtable.com/shrCBp3nTD14XU6uS/tblnnbgnMuvE62BYI)
 - [US Founders who invest in others as Angels](https://airtable.com/app3iFeihxOixsUlf/shrhhH3j52CyXkIP9/tblpqS8tBdY8kzmxX)
@@ -66,4 +67,5 @@ Publicly available list of Investors. These are listed `as is` and there will be
 - [VC investing in India](https://app.folk.app/shared/VC-investing-in-India-YM4App0M23dLbYAocwPY3gMRPHR8VXkX)
 - [VC Sheet](https://www.vcsheet.com) curated sheets of VC funds and investors.
 - [VCs in New York](https://www.nycfounderguide.com/investors)
+- [VCList.Online - Seed VC firms list](https://airtable.com/appEiB4b7MNJewjMK/shrSzDjgven00vRbF/tblANHX4C3gb31BL6/viwfYshJTDAeClxHh)
 - [Worldwide ICO or Crypto Angel Investors](https://docs.google.com/spreadsheets/d/1SJEYef7U3j75d9Z4t967Ta6jlRVQcubGJqy-gPuWFY4/)
