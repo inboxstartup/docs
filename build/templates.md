@@ -21,3 +21,7 @@
 - [Tremor](https://www.tremor.so) is a React library to build dashboards.
 - [UntitledUI](https://www.untitledui.com)  is a UI kit and design system for Figma.
 - [Webflow Cloneable Component Library](https://www.flowponent.com) is a curated list of Webflow cloneable components.
+- Design Systems
+	- [Carbon](https://carbondesignsystem.com) is IBM’s open source design system for products and digital experiences.
+	- [Lightning Design System](https://www.lightningdesignsystem.com) from Salesforce.
+	- [Polaris](https://polaris.shopify.com) by Shopify.

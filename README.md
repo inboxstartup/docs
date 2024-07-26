@@ -23,3 +23,5 @@ Install the needed plugins with `npm i -D plugin-name` and follow their usage in
 
 - [vitepress-sidebar](https://github.com/jooy2/vitepress-sidebar)
 - [markdown-it-footnote](https://github.com/markdown-it/markdown-it-footnote)
+
+Host: Netlify (2024JUL)
