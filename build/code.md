@@ -28,12 +28,13 @@
 - [Refine](https://refine.dev) build React-based CRUD applications.
 - [WindMill](https://www.windmill.dev) is an [open-source](https://github.com/windmill-labs/windmill) Developer platform for APIs, critical jobs, workflows, data pipelines and UIs.
 
-## Authentication
+## Auth / SSO
 
 - [Auth.js](https://authjs.dev) is an open source community project.
-- [SuperTokens](https://supertokens.com) ([source](https://github.com/supertokens))
-- [Stytch](https://stytch.com) The authentication and authorization toolkit for developers.
+- [SSOReady](https://ssoready.com) is an [open-source](https://github.com/ssoready/ssoready) dev tools for enterprise SSO.
 - [Stack](https://stack-auth.com) the [open-source](https://github.com/stackframe-projects/stack) user management service.
+- [Stytch](https://stytch.com) The authentication and authorization toolkit for developers.
+- [SuperTokens](https://supertokens.com) ([source](https://github.com/supertokens))
 
 ## Ops & DevOps
 
