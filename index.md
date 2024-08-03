@@ -36,6 +36,7 @@ The content here is somewhat random and unorganized. You must figure out and pic
 - [Founder Resources Hub](https://ForEveryFounder.com) by [Sasha Orloff](https://www.linkedin.com/in/sashaorloff/) of [Puzzle](https://puzzle.io) is a list of resources designed to help you start and scale your startup easier. For New Startups, they have a nice [Checklist](https://foreveryfounder.com/new-startup-checklist).
 - [Free for Dev](https://github.com/jixserver/free-for-dev) is a list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev.
 - [MarktStash](https://marktstash.com) is a newsletter for growth strategies shared by indie founders in your inbox every week.
+- [NonSaaS](https://nonsaas.com) helps you discover Non-SaaS Software. A curated directory of non SaaS software for developers and businesses.
 - [On Deck's Stack](https://stack.beondeck.com) - shortcut to going from 0 to 1.
 - [Secret](https://www.joinsecret.com) is a SaaS deals platform. Join 45,000+ entrepreneurs who have saved millions of dollars on software.
 - [Sherpa](https://www.learnwithsherpa.com)
