@@ -1,17 +1,27 @@
 # Accelerators
 
 - [500](https://500.co)
+- [a16z - Speedrun](https://a16z.com/games/speedrun/)
 - [A list of 1000+ Accelerators](https://app.folk.app/shared/All-accelerators-rw0kuUNqtzl6j6dDQquoZTYF6MFKIQHo)
+- [Accel Atoms](https://atoms.accel.com/)
 - [AI Grant](https://aigrant.com)
 - [AI2 Incubator](https://www.ai2incubator.com) by [Allen Institute for AI](https://allenai.org)
+- [Alchemist](https://www.alchemistaccelerator.com)
+- [AngelPad](https://angelpad.com)
+- [Antler](https://www.antler.co)
+- [Betaworks Camp](https://www.betaworks.com/camp)
 - [BoostVC](https://www.boost.vc) - Invest $500k in Sci-Fi Founders for 15% equity.
 - [Completely Free Tech Accelerators](https://versatilevc.com/free/accelerators/) (no equity, no cash cost) - a list maintained by [Versatile VC](https://versatilevc.com).
+- [Conviction Embed](https://embed.conviction.com)
+- [Entrepreneur First](https://www.joinef.com)
 - [Europe’s Leading Start-up Hubs](https://rankings.ft.com/incubator-accelerator-programmes-europe/c/ranking) (2024-MAR) by Financial Times.
 - [Founders, Inc](https://f.inc)
 - [HF0](https://www.hf0.com)
 - [LAUNCH](https://www.launch.co)
+- [NEO](https://neo.com/accelerator)
 - [Pear](https://pear.vc)
 - [Seed Accelerators](https://www.seed-db.com/accelerators) a tabular data of Accelerators, with their HQ, funding, etc.
+- [Sequoia Arc](https://www.sequoiacap.com/arc/)
 - [Soma Fellows](https://somafellows.com)
 - [South Park Commons](https://www.southparkcommons.com)
 - [Tech Startup Accelerators and Applications](https://taskablehq.com/blog/taskable-guide-startup-accelerators)
