@@ -45,6 +45,7 @@ export default defineConfig({
     },
 
     nav: [
+      { text: 'Home', link: 'https://inboxstartup.com' },
       { text: 'FundRaise CRM', link: 'https://docs.google.com/spreadsheets/d/173ZDJOy3NFLzktzE9PY0t94HliIO6IDZGIZaSULa9N0/' },
       { text: 'Subscribe', link: 'https://letter.inboxstartup.com' },
     ],
