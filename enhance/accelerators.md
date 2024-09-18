@@ -32,4 +32,5 @@
 - NextView Ventures Everyday Economy [Virtual Accelerator](https://nextview.vc/accelerator/)
 - Sequoia [Surge](https://www.surgeahead.com) is a rapid scale-up program for startups in India and Southeast Asia.
 - Sequoia Capital [Arc - Seed-stage accelerator](https://www.sequoiacap.com/arc/).
+- [Upekkha](https://www.upekkha.io) AI Accelerator for Global Indian Founders.
 - The [50+ Best Startup Accelerators](https://www.growthmentor.com/blog/best-startup-accelerators/) in the World (Sorted by Country).
