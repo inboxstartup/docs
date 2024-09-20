@@ -33,6 +33,7 @@
 + Logo
 	+ [FeyLogos](https://www.feylogos.com)
 - Icons
+	+ [Iconify](https://icon-sets.iconify.design) Over 200,000 open source vector icons.
 	+ [Real Favicon Generator](https://realfavicongenerator.net)
 	+ [Iconbuddy](https://iconbuddy.app) Download, Customize, Edit and Personalize.
 	+ [Icon Duck](https://iconduck.com) free open source icons
