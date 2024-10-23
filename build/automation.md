@@ -14,6 +14,7 @@
 - [Craftar](https://www.craftar.io) let's you build APIs with NoCode at Lightning Speed.
 - [D2C](https://d2c.io) easy deployment of app to containers.
 - [EasyFlow](https://www.easyflow.io) Connect apps, analyse data, create automated processes and memorable KPI dashboards that work exactly how you want.
+- [Gumloop](https://www.gumloop.com) - Drag, drop, and deploy custom tools your business needs. No AI expertise needed.
 - [Hyphen](https://tryhyphen.com) Finance automation. Simplify workflows with no-code.
 - [IFTTT](https://ifttt.com) helps all your apps and devices work better together
 - [Integrately](https://integrately.com) 8 Million+ Ready Automations For 1000+ Apps.
@@ -26,6 +27,7 @@
 - [n8n](https://n8n.io) is an extendable workflow automation tool which enables you to connect anything to everything via its open, fair-code model.
 - [Pabbly Connect](https://www.pabbly.com) Get access to business-critical applications like form creation, email marketing, and automation at just one single price.
 - [Parabola](https://parabola.io) makes it easy to automate your manual, repetitive data tasks, step by step.
+- [Relay](https://www.relay.app)
 - [Whatifi](https://www.whatifi.io) A better way for decision-makers to create, calculate, answer and share "what if" scenarios for your business. No formulas. No spreadsheets.
 - [WhenThen](https://whenthen.com) The no-code fintech experience and automation platform.
 - [Zapier](https://zapier.com) empowers you to automate your work across 5,000+ apps—so you can move forward, faster.

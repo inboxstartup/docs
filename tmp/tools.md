@@ -283,7 +283,6 @@ https://boxyhq.com BoxyHQ helps startups enable enterprise features in any SaaS 
 https://conxhub.com/superphone/virtual-phone-numbers/ (UK)
 https://databox.com
 https://datastudio.google.com
-https://dub.sh, Open Source Link Shortening service
 https://fleetdm.com Open source device management
 https://fogbender.com B2B Customer Support
 https://github.com/RunaCapital/awesome-oss-alternatives
@@ -306,13 +305,11 @@ https://www.baseten.co
 https://www.btw.so/open-source-alternatives
 https://www.checklyhq.com, Delightful Active Monitoring for Developers
 https://www.dialpad.com
-https://www.doola.com (As StartPack on OD )
 https://www.globalotp.com (40% off via OD)
 https://www.jamf.com
 https://www.june.so
 https://www.kandji.io
 https://www.meticulous.ai, Easily create and maintain UI tests
-https://www.mintlify.com
 https://www.molecule.dev, Assemble a simple but powerful, fully functional codebase consisting of only what you need.
 https://www.openphone.com
 https://www.outseta.com
@@ -321,11 +318,3 @@ https://www.remofirst.com (Founder is Nurasyl Serik, ODF)
 https://www.swipefiles.com/tech
 https://www.tooljet.com, http://github.com/ToolJet/ToolJet
 https://www.waybook.com
-PenPot, <https://penpot.app> Open Source at <https://github.com/penpot/penpot>
-PyCrown, <https://datastore.landcareresearch.co.nz/dataset/pycrown>
-Stable, <https://www.usestable.com> (Virtual Address & Mailroom) (33% discount for two years)
-Twist, https://twist.com, async communication tool
-WebFlow, <https://webflow.com>
-WTotem, https://wtotem.com Secure Your Brand by Protecting Your Website.
-www.thinkific.com offer courses
-YouTeam, <https://youteam.io> (hire remote engineers)

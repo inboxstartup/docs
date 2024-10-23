@@ -4,7 +4,7 @@ At an early stage, almost all inbound investment proposals are noise or may be e
 
 Remember that fund-raising is a high-touch interaction. Most investors would **NOT** reply to your generic mail-merge. Research, target, get warm intros or write awesome cold emails.
 
-## 
+> “Fundraising is arguably the most heartbreaking, confusing, and high-stakes part of a founder’s job.”
 
 - Be honest about the process. Many a people advised FOMO, but it should never be manufactured. If you are a hot deal and there is indeed FOMO for investors, you don’t have to do anything extra.
 - Be truthful about numbers. Don’t obfuscate.
@@ -18,6 +18,7 @@ Remember that fund-raising is a high-touch interaction. Most investors would **N
 
 - [AngelList RUV](https://www.angellist.com/ruv) Efficiently raise capital from investors with a single cap table entry. With Roll Up Vehicles™, founders get a single link that allows investors to commit and send funds online—and AngelList takes care of the rest.
 - [What valuation should I raise at?](https://calculator.textswithfounders.com) is an interactive calculator for your valuation and amount to raise.
+
 #### References
 
 - [Raise millions for your startup](https://letsgo.hustlefund.vc/raise-millions) is a book by [Hustle Fund](https://www.hustlefund.vc) will teach you everything you need to know to fundraise from the pre-seed stage all the way to your Series A. 

@@ -30,6 +30,7 @@ The content here is somewhat random and unorganized. You must figure out and pic
 
 - [Collection of Startup Credits](https://github.com/dakshshah96/awesome-startup-credits) is a collection of awesome companies offering free/discounted plans for eligible startups. (In order to be eligible for free credits or a discounted startup plan, most companies require your startup to be a part of an accelerator/incubator.)
 - [CoFounders Beta](https://cofoundersbeta.com) - Discover the Top Startup Accelerators, Venture Capital, Meetups, and Conferences.
+- [Dev Starter Pack](https://devstarterpack.io) - The essential startup starter kit.
 - [Founders Book](https://foundersbook.co) is a knowledge base to help you build and launch your startup with tools and resources for first-time founders and early-stage startups.
 - [Founders Resources](https://www.founderresources.io) has curated content & templates for every step in your startup journey.
 - [Founder Resources Hub](https://ForEveryFounder.com) by [Sasha Orloff](https://www.linkedin.com/in/sashaorloff/) of [Puzzle](https://puzzle.io) is a list of resources designed to help you start and scale your startup easier. For New Startups, they have a nice [Checklist](https://foreveryfounder.com/new-startup-checklist).

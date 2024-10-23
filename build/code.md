@@ -99,7 +99,6 @@
 	+ [Outverse](https://www.outverse.com)
 - Forms
 	+ [Formbricks](https://formbricks.com) is an [Open Source](https://github.com/formbricks/formbricks) Survey Suite.
-	+ [Formspree](https://formspree.io)
 	+ [HeyForm](https://heyform.net) is an [open-source](https://github.com/heyform/heyform) form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls.
 	+ [PaperForm](https://paperform.co)
 	+ [SendFly](https://sendfly.io) $15 /year for everything unlimited.
