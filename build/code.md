@@ -28,6 +28,12 @@
 - [Refine](https://refine.dev) build React-based CRUD applications.
 - [WindMill](https://www.windmill.dev) is an [open-source](https://github.com/windmill-labs/windmill) Developer platform for APIs, critical jobs, workflows, data pipelines and UIs.
 
+## Customer Engagement
+
+- [Laudspeaker](https://laudspeaker.com/) is an [Open Source](https://github.com/laudspeaker/laudspeaker) Customer Engagement and Product Onboarding Platform.
+- [LimeJourney](https://www.limejourney.com) helps you nudge users at just the right time with smart notifications. ([source](https://github.com/LimeJourney/limeJourney/))
+- [Mautic](https://www.mautic.org): [Open Source](https://github.com/mautic/mautic) Marketing Automation Software.
+
 ## Auth / SSO
 
 - [Auth.js](https://authjs.dev) is an open source community project.
@@ -56,6 +62,7 @@
 - [UpDown](https://updown.io) is a simple & inexpensive website monitoring.
 - [OnlineOrNot](https://onlineornot.com)
 - [OpenStatus](https://www.openstatus.dev) [source](https://github.com/openstatusHQ/openstatus) - they also have [Astro Status](https://astro.openstat.us) [source](https://github.com/openstatusHQ/astro-status-page)
+- [Checkmate](https://github.com/bluewave-labs/checkmate) is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
 
 ## Scrappers
 

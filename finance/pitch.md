@@ -40,13 +40,6 @@ Counterintuitive as it may be, the __goal of your pitch deck is not to raise mon
 4. Make your slides unique
 5. Finalize and dry-run
 
-## Submit your Pitch Deck
-
-- [Deep Checks](https://www.deepchecks.vc)
-- [Handwave](https://handwave.ai)
-- [SEA Checks](https://www.seachecks.com) for Startups primarily focused on or located in Southeast Asia.
-- [SeedChecks](https://www.seedchecks.com)
-
 ## Pitch Deck Designers
 
 - [Deck Doctors](https://www.deckdoctors.xyz)

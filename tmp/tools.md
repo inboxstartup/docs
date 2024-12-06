@@ -174,7 +174,7 @@
 [OpenMoji](https://hfg-gmuend.github.io/openmoji/)
 [Our World in Data](https://ourworldindata.org)
 [Outline](https://www.getoutline.com) [Open Source](https://github.com/outline/outline)
-[PaPayGlobal](https://www.productboard.com)
+[Product Board](https://www.productboard.com)
 [Papercups](https://papercups.io)
 [Paperform](https://paperform.co) _(I have a lifetime Pro account.)_
 [Paragon](https://www.useparagon.com)
