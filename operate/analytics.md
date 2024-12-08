@@ -13,6 +13,7 @@
 - [PostHog](https://posthog.com) The open source Product OS. A suite of product and data tools.
 - [RudderStack](https://github.com/rudderlabs/rudder-server/) Open Source Segment
 - [Segment](https://segment.com)
+- [Seline](https://seline.so) is a simple & private website and product analytics. Cookieless, lightweight, independent. ([source](https://github.com/getseline/seline-js))
 - [Shynet](https://github.com/milesmcc/shynet) Free and Open Source, Self Hosted.
 - [SigNoz](https://signoz.io) Open Source alternative to DataDog.
 - [Umani](https://umami.is), [Source](https://github.com/mikecao/umami)
