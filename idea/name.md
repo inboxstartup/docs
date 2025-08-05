@@ -12,7 +12,6 @@ If you have something like `mydomainis.cool`, then try to get `mydomainiscool.co
 - [TLD-Lists](https://tld-list.com) Compare Prices of All Top-Level Domains
 - [SmartyNames](https://smartynames.com) Search Domain Names with AI.
 - [Business Name Generator](https://namelix.com)
-- [Pork Bun](https://porkbun.com) One of the cheapest Domain registrar
 
 ---
 

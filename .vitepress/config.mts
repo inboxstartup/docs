@@ -23,7 +23,6 @@ export default defineConfig({
     }
   },
 
-  // https://vitepress.dev/reference/default-theme-config
   themeConfig: {
     logo: { src: '/inboxstartup-logo.svg' },
     siteTitle: false,
